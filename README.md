@@ -1,7 +1,7 @@
-# Peptide–GPCR Pocket Analysis (PDB)
+# Peptide-GPCR Pocket Analysis (PDB)
 
-Pipeline Snakemake d'analyse structurale des poches de liaison peptide–GPCR à partir de structures PDB.
-Il caractérise les interactions, les signatures biophysiques et les positions conservées pour les récepteurs
+Pipeline Snakemake d'analyse structurale des poches de liaison peptide-GPCR à partir de structures PDB.
+Il caractérise les interactions, les signatures physico-chimiques et les positions conservées pour les récepteurs
 couplés aux protéines G (GPCR) de **Classe A** (rhodopsin-like) et **Classe B1** (secretin-like).
 
 ---
@@ -24,11 +24,11 @@ couplés aux protéines G (GPCR) de **Classe A** (rhodopsin-like) et **Classe B1
 
 ## 1. Contexte biologique
 
-Les **GPCR** (G Protein-Coupled Receptors) sont la plus grande famille de récepteurs membranaires chez les mammifères.
-Ils sont la cible de ~35 % des médicaments approuvés. Les peptides endogènes constituent une grande famille
+Les GPCR (G Protein-Coupled Receptors) sont la plus grande famille de récepteurs membranaires chez les mammifères.
+Ils sont la cible d'environ 35 % des médicaments approuvés. Les peptides endogènes constituent une grande famille
 de ligands GPCR : hormones, neuropeptides, cytokines, etc.
 
-Ce pipeline extrait et analyse la **poche de liaison peptide–GPCR** à partir de co-structures cristallographiques
+Ce pipeline extrait et analyse la **poche de liaison peptide-GPCR** à partir de co-structures cristallographiques
 déposées dans la PDB. L'objectif est d'identifier :
 
 - les **positions GPCRdb conservées** qui définissent la poche pour chaque classe de GPCR ;
@@ -38,14 +38,17 @@ déposées dans la PDB. L'objectif est d'identifier :
 
 ### Numérotation GPCRdb (Ballesteros–Weinstein étendue)
 
+[détails ici:](https://docs.gpcrdb.org/generic_numbering.html)
+Les détails concernant la numérotation 
+
 La numérotation générique GPCRdb encode la position d'un résidu dans la topologie GPCR sous la forme `X.YYzZZ` :
-- `X` = numéro de l'hélice (1–7 pour TM1–TM7)
+- `X` = numéro de l'hélice (1-7 pour TM1-TM7)
 - `YY` = position relative au résidu le plus conservé de l'hélice (`x50` = résidu de référence)
 - `zZZ` = index absolu dans la séquence UniProt
 
-**Important** : un numéro `x < 50` n'est pas universellement du côté IC (intracellulaire) — la direction
+**Important** : un numéro `x < 50` n'est pas universellement du côté IC (intracellulaire): la direction
 varie selon l'hélice. Ce pipeline utilise la numérotation GPCRdb uniquement pour comparer des positions
-entre structures, pas pour inférer leur orientation.
+entre structures et pas pour inférer leur orientation!!
 
 ### Classes biophysiques des acides aminés (Lehninger)
 
@@ -58,7 +61,7 @@ entre structures, pas pour inférer leur orientation.
 | negative | D, E | Chargés − à pH physiologique |
 | other | C, G, P | C : ponts disulfures ECL ; G/P : contraintes structurales |
 
-> **Note sur G et P** : L'échelle Kyte–Doolittle donne G = −0.4 et P = −1.6 (hydrophiles).
+> **Note sur G et P** : L'échelle Kyte–Doolittle donne G = -0.4 et P = -1.6 (hydrophiles).
 > Ils sont donc exclus de la classe hydrophobe aliphatique, conformément à Lehninger.
 > La valeur continue `kd_score` est également disponible pour l'analyse quantitative.
 
@@ -72,23 +75,23 @@ Le pipeline conserve les catégories GPCRdb **sans simplification** :
 ## 2. Architecture du pipeline
 
 ```
-Phase 1 — Détection peptides + contacts + poches (Gemmi, cutoff 5 Å)
+Phase 1 : Détection peptides + contacts + poches (Gemmi, cutoff 5 Å)
     ↓
-Phase 2 — Extraction PDB cibles + numérotation générique GPCRdb (API)
+Phase 2 : Extraction PDB cibles + numérotation générique GPCRdb (API)
     ↓
-Phase 3 — Annotations biophysiques + segments GPCRdb + DSSP peptides
+Phase 3 : Annotations biophysiques + segments GPCRdb + DSSP peptides
     ↓
-Phase 4 — Validation GPCRdb vs Gemmi + consensus strict par classe
+Phase 4 : Validation GPCRdb vs Gemmi + consensus strict par classe
     ↓
-Phase 5 — Figures de validation (fréquences, LOO, Gemmi vs GPCRdb)
+Phase 5 : Figures de validation (fréquences, LOO, Gemmi vs GPCRdb)
     ↓
-Phase 6 — Visualisations consensus (WebLogos, radars KD, SVG, signatures)
+Phase 6 : Visualisations consensus (WebLogos, radars KD, SVG, signatures)
     ↓
-Phase 7 — Variabilité spatiale des peptides (PCA, profondeur poche)
+Phase 7 : Variabilité spatiale des peptides (PCA, profondeur poche)
     ↓
-Phase 8 — Scripts PyMOL (superposition consensus)
+Phase 8 : Scripts PyMOL (superposition consensus)
     ↓
-Phase 9 — Analyse positionnelle receptor-centrique + DSSP
+Phase 9 : Analyse positionnelle receptor-centrique + DSSP
 ```
 
 La gestion des dépendances, la mise en cache et la parallélisation sont assurées par **Snakemake**.
@@ -208,7 +211,7 @@ Liste des codes PDB (un par ligne) utilisés pour la validation GPCRdb vs Gemmi 
 | **Class B1** (Secretin-like) | 3 actives + 1 référence séparée | 19–69 aa | Majoritairement hélicoïdal |
 
 > **Attention** : 9MNI est inclus dans le jeu de données PDB mais **exclu du consensus Class B**
-> (voir ci-dessous). Le nombre effectif de structures pour le consensus Class B est donc **3**.
+> (voir ci-dessous). Le nombre effectif de structures pour le consensus Class B est donc de **3**.
 
 ### Structures Class A (PDB)
 
@@ -236,7 +239,7 @@ Liste des codes PDB (un par ligne) utilisés pour la validation GPCRdb vs Gemmi 
 |-----|----------|--------|------|-----------------|------|
 | 6NIY | 32 aa | Calcitonin | Calcitonin receptor (calcr_human) | ✓ validable | Hélicoïdal (0.74) |
 | 7TS0 | 40 aa | Urocortin | CRF receptor 2 (crfr2_human) | ✓ validable | Très hélicoïdal (0.78) |
-| 9BUE | 38 aa | Cagrilintide | Calcitonin receptor (calcr_human) | ⚠ non validable GPCRdb | Mixte (0.48) — analogue amyline synthétique |
+| 9BUE | 38 aa | Cagrilintide | Calcitonin receptor (calcr_human) | ⚠ non validable GPCRdb | Mixte (0.48) : analogue amyline synthétique |
 | 9MNI | 69 aa | dC2_050 minibinder | CGRP receptor (calrl_human + RAMP1) | ✗ exclu | Minibinder de novo, ECD-only |
 
 > **9IQV** est une microprotéine knottin (65 aa, riche en cystéines, structure coil malgré sa taille)
@@ -245,8 +248,8 @@ Liste des codes PDB (un par ligne) utilisés pour la validation GPCRdb vs Gemmi 
 >
 > **9MNI** est un minibinder de novo (dC2_050, 69 aa) conçu pour cibler le complexe
 > calrl_human/RAMP1. Il est **exclu du consensus Class B** car son mode de liaison est
-> fondamentalement différent des peptides endogènes : 13 contacts sur 14 se trouvent dans le
-> domaine N-terminal extracellulaire (NTD) du récepteur, et non dans le bundle transmembranaire.
+> différent des peptides endogènes : 13 contacts sur 14 se trouvent dans le
+> domaine N-terminal extracellulaire (NTD) du récepteur et non dans le bundle transmembranaire.
 > De plus, ses contacts avec RAMP1 (qui forme la moitié de l'interface de liaison) ne sont pas
 > capturés par le pipeline. Il est conservé dans le jeu de données comme **référence séparée
 > "ECD-interface binder"**, parallèlement à 9IQV côté Class A.
@@ -302,7 +305,7 @@ snakemake -R peptides_dssp --cores 1
 
 ## 8. Sorties par phase
 
-### Phase 1 — Détection peptides + contacts + poches
+### Phase 1 : Détection peptides + contacts + poches
 
 **Règle** : `detect_peptides`  
 **Script** : `detect_peptide_ligands_from_pdb_besthit.py`
@@ -320,7 +323,7 @@ snakemake -R peptides_dssp --cores 1
 
 ---
 
-### Phase 2 — PDB cibles + numérotation GPCRdb
+### Phase 2 : PDB cibles + numérotation GPCRdb
 
 **Règles** : `make_target_pdbs`, `gpcrdb_numbering`, `annotate_contacts_gpcrdb`, `annotate_pockets_gpcrdb`
 
@@ -336,7 +339,7 @@ snakemake -R peptides_dssp --cores 1
 
 ---
 
-### Phase 3 — Annotations biophysiques + DSSP
+### Phase 3 : Annotations biophysiques + DSSP
 
 **Règles** : `biophys_with_class`, `gpcrdb_segments`, `add_target_resnum`, `peptide_contacts_biophys`, `peptides_dssp`, `dataset_summary`, `peptide_nature`
 
@@ -367,7 +370,7 @@ snakemake -R peptides_dssp --cores 1
 
 ---
 
-### Phase 4 — Validation GPCRdb vs Gemmi + consensus
+### Phase 4 : Validation GPCRdb vs Gemmi + consensus
 
 **Règles** : `gpcrdb_validate_interactions`, `consensus_pockets`, `validate_consensus`
 
@@ -383,8 +386,8 @@ snakemake -R peptides_dssp --cores 1
 
 #### Poches consensus (seuil 50 %, mode strict)
 
-**Class A** — 16 positions : TM3 (4), ECL2 (3), TM6 (3), TM7 (3), TM2 (1), TM4 (1), TM5 (1)  
-**Class B** — 23 positions : TM1 (5), TM7 (5), TM5 (4), TM2 (3), TM3 (3), TM6 (2), ECL2 (1)
+**Class A** : 16 positions : TM3 (4), ECL2 (3), TM6 (3), TM7 (3), TM2 (1), TM4 (1), TM5 (1)  
+**Class B** : 23 positions : TM1 (5), TM7 (5), TM5 (4), TM2 (3), TM3 (3), TM6 (2), ECL2 (1)
 
 > **Mode strict** : une position est retenue si elle apparaît dans ≥ 50 % des structures ET
 > est confirmée à la fois par Gemmi (NeighborSearch) et GPCRdb (API HTML).
@@ -400,7 +403,7 @@ snakemake -R peptides_dssp --cores 1
 
 ---
 
-### Phase 5 — Figures de validation
+### Phase 5 : Figures de validation
 
 **Règles** : `plot_gpcrdb_vs_gemmi`, `plot_position_frequencies`, `plot_loo_stability`
 
@@ -413,7 +416,7 @@ snakemake -R peptides_dssp --cores 1
 
 ---
 
-### Phase 6 — Visualisations des poches consensus
+### Phase 6 : Visualisations des poches consensus
 
 **Règles** : `weblogos`, `kd_radars`, `svg_mapping`, `svg_snakeplots`, `interaction_signatures`, `contact_maps`
 
@@ -430,7 +433,7 @@ snakemake -R peptides_dssp --cores 1
 
 ---
 
-### Phase 7 — Variabilité spatiale
+### Phase 7 : Variabilité spatiale
 
 **Règles** : `spatial_variability_classA`, `spatial_variability_classB`
 
@@ -444,7 +447,7 @@ snakemake -R peptides_dssp --cores 1
 
 ---
 
-### Phase 8 — Scripts PyMOL
+### Phase 8 : Scripts PyMOL
 
 **Règles** : `pymol_consensus_classA`, `pymol_consensus_classB`
 
@@ -460,7 +463,7 @@ pymol -cq out/pymol_consensus_classA/consensus_superposition_Class_A.pml
 
 ---
 
-### Phase 9 — Analyse positionnelle receptor-centrique
+### Phase 9 : Analyse positionnelle receptor-centrique
 
 **Règle** : `positional_analysis`  
 **Script** : `peptide_positional_contact_analysis.py`
@@ -468,7 +471,7 @@ pymol -cq out/pymol_consensus_classA/consensus_superposition_Class_A.pml
 > **Approche** : Deux analyses structuralement valides, **sans** normalisation de position peptidique
 > (qui serait invalide pour comparer des peptides de 3 à 65 aa sur un axe commun).
 
-#### Analyse 1 — Profil biophysique receptor-centrique
+#### Analyse 1 : Profil biophysique receptor-centrique
 
 **Fichier** : `out/positional_analysis/contact_profile_classA_classB.png`
 
@@ -478,7 +481,7 @@ Résultats biologiquement cohérents :
 - **Class A** : dominance **aromatique** (33 %) → TM7 > ECL2 > TM6 > TM3. Pocket orthostérique aromatique caractéristique des récepteurs rhodopsin-like.
 - **Class B** : équipartition **polaire + hydrophobe** (35 % chacun) → N-term > TM1. Interaction amphipatique typique des hormones peptidiques sur les récepteurs secretin-like.
 
-#### Analyse 2 — Structure secondaire peptidique × segment GPCR
+#### Analyse 2 : Structure secondaire peptidique × segment GPCR
 
 **Fichier** : `out/positional_analysis/dssp_segment_profile.png`
 
@@ -488,14 +491,14 @@ Pour chaque segment GPCR, fraction des contacts provenant de peptides hélicoïd
 - TM1 Class B : majoritairement contacté par des **peptides hélicoïdaux** → cohérent avec l'insertion d'une hélice amphipatique
 - TM3/TM7 Class A : principalement contacté par des **peptides en coil**
 
-#### Analyse 3 — Positions GPCRdb hotspots
+#### Analyse 3 : Positions GPCRdb hotspots
 
 **Fichiers** : `gpcrdb_hotspots_Class_A.png`, `gpcrdb_hotspots_Class_B.png`, `gpcrdb_hotspots_9IQV_microprotein.png`
 
 Top 20 (Class A) / 15 (Class B / 9IQV) positions GPCRdb les plus contactées,
 colorées par la classe biophysique dominante du résidu peptidique.
 
-#### Analyse 4 — Stratification intra-Classe A
+#### Analyse 4 : Stratification intra-Classe A
 
 **Fichier** : `out/positional_analysis/classA_stratification.png`
 
@@ -610,7 +613,7 @@ H=-3.2  I=4.5  L=3.8  K=-3.9  M=1.9  F=2.8  P=-1.6  S=-0.8
 T=-0.7  W=-0.9  Y=-1.3  V=4.2
 ```
 
-G (−0.4) et P (−1.6) sont légèrement hydrophiles → cohérent avec leur exclusion de `AA_HYDROPHOBIC_ALIPHATIC`.
+G (-0.4) et P (-1.6) sont légèrement hydrophiles → cohérent avec leur exclusion de `AA_HYDROPHOBIC_ALIPHATIC`.
 
 ---
 
@@ -625,17 +628,17 @@ La Phase 9 produit des tables de référence conçues pour comparer de nouvelles
 3. Joindre avec `receptor_reference_table.tsv` sur `(segment, peptide_class)`
 4. Comparer avec `gpcrdb_positions_reference_table.tsv` sur `gpcrdb_pos`
 
-### Cas 9IQV — Microprotéine knottin de référence (Class A)
+### Cas 9IQV : Mmicroprotéine knottin de référence (Class A)
 
 - **Structure** : knottin (inhibitory cystine knot), 65 aa, pont disulfures multiples
 - **Ligand** : Muscarinic toxin 3 (venin de serpent)
 - **Récepteur** : α-1A adrenorécepteur (Class A, ada1a_human)
-- **Profil** : ECL2 > TM7 > TM2 — similaire au profil Class A coil-dominant
+- **Profil** : ECL2 > TM7 > TM2 : similaire au profil Class A coil-dominant
 - **Classe biophysique** : aromatique (26 %) + hydrophobe (25 %) + positif (18 %)
 - **Intérêt** : démontre qu'une microprotéine peut occuper la poche orthostérique d'un GPCR Class A
   avec un profil d'interaction proche des peptides courts naturels
 
-### Cas 9MNI — Minibinder de novo de référence (Class B, ECD-interface)
+### Cas 9MNI : Minibinder de novo de référence (Class B, ECD-interface)
 
 - **Structure** : minibinder de novo (dC2_050), 69 aa, hélice amphipatique
 - **Récepteur** : récepteur CGRP = calrl_human + RAMP1 (Class B1, calrl_human)
@@ -651,7 +654,7 @@ La Phase 9 produit des tables de référence conçues pour comparer de nouvelles
 | `segment` | Identifier quels segments la microprotéine contacte |
 | `peptide_class` | Comparer la composition biophysique des résidus en contact |
 | `pct_in_segment` | % relatif dans le segment (normalise la taille de la poche) |
-| `gpcrdb_pos` | Positions exactes — vérifier si la microprotéine touche les mêmes résidus |
+| `gpcrdb_pos` | Positions exactes : vérifier si la microprotéine touche les mêmes résidus |
 | `n_contacts` | Volume d'interaction (corrélé à l'affinité) |
 
 ---
@@ -662,7 +665,7 @@ Cette section résume les résultats biologiques du pipeline, destinés à alime
 
 ### 12.1 Caractérisation du jeu de données
 
-Le jeu de données comprend **19 co-structures peptide–GPCR** couvrant **16 récepteurs humains distincts** (ada1a, adrb2, calcr, calrl, cckar, crfr2, galr2, mtlr, nk3r, nmur2, npff2, npy2r, oxyr, qrfpr, ssr2, trfr).
+Le jeu de données comprend **19 co-structures peptide-GPCR** couvrant 16 récepteurs humains distincts (ada1a, adrb2, calcr, calrl, cckar, crfr2, galr2, mtlr, nk3r, nmur2, npff2, npy2r, oxyr, qrfpr, ssr2, trfr).
 
 **Class A (15 structures, 14 actives + 9IQV référence microprotéine) :**
 - Peptides de 3 à 65 aa (médiane ~9 aa hors 9IQV)
@@ -698,11 +701,11 @@ Les positions **45x51 et 6x55** (92 %) sont les plus fréquentes, suivies de **7
 
 #### Core ultra-robuste (analyse leave-one-out)
 
-L'analyse LOO sur 15 structures montre un **overlap constant de 0.4375** quelle que soit la structure retirée — 7 positions sur 16 sont présentes dans 100 % des runs LOO :
+L'analyse LOO sur 15 structures montre un **overlap constant de 0.4375** quelle que soit la structure retirée : 7 positions sur 16 sont présentes dans 100 % des runs LOO :
 
-> **TM3** : 3x29, 3x32, 3x33, 3x36 — **TM5** : 5x40 — **TM7** : 7x34, 7x38
+> **TM3** : 3x29, 3x32, 3x33, 3x36 - **TM5** : 5x40 - **TM7** : 7x34, 7x38
 
-Ces 7 positions constituent le **pharmacophore minimal** invariant de la poche Class A. Le Jaccard varie de 0.200 à 0.226 (taille LOO : 21–26 positions), indiquant une poche stable mais avec une périphérie variable selon les structures.
+Ces 7 positions constituent le **pharmacophore minimal** invariant de la poche Class A. Le Jaccard varie de 0.200 à 0.226 (taille LOO : 21-26 positions), indiquant une poche stable mais avec une périphérie variable selon les structures.
 
 #### Interprétation biologique
 
@@ -712,8 +715,8 @@ La topologie ECL2/TM6/TM7 est la signature de la **poche orthostérique canoniqu
 
 ### 12.3 Poche consensus Class B1 (23 positions, seuil 50 %, mode strict)
 
-> **Avertissement** : ce consensus repose sur **2 structures validables** (6NIY — Calcitonin,
-> 7TS0 — Urocortin). 9MNI est exclu (mode de liaison ECD-only) et 9BUE n'est pas validable
+> **Avertissement** : ce consensus repose sur **2 structures validables** (6NIY : Calcitonin,
+> 7TS0 : Urocortin). 9MNI est exclu (mode de liaison ECD-only) et 9BUE n'est pas validable
 > par GPCRdb. Les résultats doivent être interprétés avec prudence.
 
 #### Distribution par segment
@@ -756,13 +759,13 @@ La **double dominance polaire + hydrophobe en Class B** (35 % chacune) traduit l
 
 ---
 
-### 12.5 9IQV comme référence microprotéine — preuve de concept
+### 12.5 9IQV comme référence microprotéine "preuve de concept"
 
 La **Muscarinic toxin 3** (9IQV, knottin 65 aa, venin de serpent) présente sur l'α-1A adrenorécepteur un profil d'interaction **quasi-identique aux peptides Class A coil-dominant** :
 
 - Segments contactés : ECL2 > TM7 > TM2 > TM6 > TM5 (même ordre que la médiane Class A)
 - Composition biophysique : aromatique (26 %) + hydrophobe (25 %) + positif (18 %)
-- 76 contacts — densité comparable aux peptides courts malgré la taille (65 aa)
+- 76 contacts : densité comparable aux peptides courts malgré la taille (65 aa)
 - Structure coil dominante malgré les multiples ponts disulfures (rigidité interne)
 
 Ce résultat démontre qu'une **microprotéine à architecture knottin peut occuper la poche orthostérique d'un GPCR Class A** avec les mêmes déterminants biophysiques qu'un peptide de 8–15 aa. C'est la preuve de concept centrale pour généraliser l'analyse à d'autres microprotéines.
@@ -811,8 +814,8 @@ Le consensus Class B (23 positions, seuil 50 %, mode strict) présente deux limi
    au moment de l'analyse (0 contacts "both", 35 "gemmi_only"). Structure absente du dénominateur
    en mode strict.
 
-**Conséquence** : le consensus Class B repose sur **2 structures seulement** (6NIY — Calcitonin, et
-7TS0 — Urocortin). Les 23 positions reflètent l'intersection de ces deux structures. Ce résultat
+**Conséquence** : le consensus Class B repose sur **2 structures seulement** (6NIY : Calcitonin, et
+7TS0 : Urocortin). Les 23 positions reflètent l'intersection de ces deux structures. Ce résultat
 doit être interprété avec prudence et devra être consolidé lorsque de nouvelles structures
 GPCRdb-validées de Class B1 seront disponibles.
 
@@ -820,5 +823,7 @@ GPCRdb-validées de Class B1 seront disponibles.
 
 ## Licence et contact
 
-Projet de recherche — Analyse bioinformatique structurale GPCR.  
-Pour toute question, se référer aux commentaires dans le Snakefile et les scripts individuels.
+Projet de recherche : Analyse bioinformatique structurale GPCR. 
+cf. commentaires dans le snakefile.. 
+
+
