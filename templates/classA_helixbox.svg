@@ -1,0 +1,2002 @@
+<?xml version="1.0" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg id="helixbox" xmlns="http://www.w3.org/2000/svg" version="1.1" width="952" height="688" style="stroke-width: 0px; background-color: white;" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 595 430"><defs><style type="text/css"><![CDATA[
+@font-face { font-family: "Glyphicons Halflings"; src: url("../fonts/glyphicons-halflings-regular.woff2") format("woff2"), url("../fonts/glyphicons-halflings-regular.woff") format("woff"), url("../fonts/glyphicons-halflings-regular.ttf") format("truetype"); }
+* { box-sizing: border-box; }
+@font-face { src: url("fonts/fpicons.woff?yg5dv7") format("woff"), url("fonts/fpicons.ttf?yg5dv7") format("truetype"); font-weight: normal; font-style: normal; }
+
+]]></style></defs>
+
+                <defs>
+                    <linearGradient id="69b0d8283f135" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(14.54792587330636)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="424.02557970620535,189.2036804526624 424.07974717287414,189.4166794046306 423.83745916704476,189.47829532977363 442.1418550153181,261.4553947191639 442.3841430211475,261.3937787940208 424.18244295893464,189.82050288295886 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d8283f182" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(-225.29871891227796)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="441.8379510843457,261.27472263847767 404.3858714420591,270.79910882421115 404.5091032923452,271.28368483586985 476.36505867882096,253.010096950168 476.2418268285348,252.5255209385093 442.56481510183374,261.0898748630486 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d8283f1c3" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(14.547925873306419)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="476.1843865981346,253.3140008811406 485.67796482129654,290.6449365205124 486.4048288387846,290.4600887450833 468.1620489156542,218.72527736152233 467.43518489816614,218.91012513695136 475.93792289756243,252.34484885782308 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d8283f203" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(-225.2987189122782)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="468.4659528466265,218.90594944220865 505.6757444830839,209.44317918161818 505.4292807825118,208.47402715830074 429.1507241318145,227.8723206087745 429.61791616808773,228.7853395166166 467.25451281747985,219.21402906792378 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d8283f241" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(29.306896405872667)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="429.2824186581574,227.58087209139887 417.41500514436296,204.38875389583444 416.30222760106835,204.95816248300122 446.45127445162393,263.87750975517065 447.56405199491854,263.308101168004 429.9832067125672,228.95040045316193 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d8283f28d" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(-111.96838806758156)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="446.1148372255318,263.76883596394515 419.33181303711774,277.4737171013075 420.01510334171786,278.809050153261 478.8231728595581,248.71694416142208 478.13988255495786,247.38161110946857 447.6727257861442,262.97166394191163 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d8283f2cc" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(29.306896405872664)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="478.7144990683325,249.05338138751438 492.3624393469781,275.72512782159885 493.9203279075905,274.9279557995654 463.8851627744683,216.2311640360548 462.3272742138559,217.02833605808826 477.8034453288656,247.27293731824295 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d8283f30c" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(-111.9683880675815)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="464.2216000005606,216.33983782728023 490.78206868031555,202.74883840735134 489.8710149408487,200.96839433808 421.90274617757893,235.74777690369274 423.0593144761976,237.40259110282702 462.21860042263035,217.36477328418042 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d8283f34b" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(40.03634181694794)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="421.9828366384883,235.42596577589836 410.6807368814727,219.25495782048526 408.83652226947123,220.5439002027818 447.1953470095795,275.4275831792609 449.0395616215809,274.1386407969642 423.4285470117617,237.49448352481613 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d8283f389" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(-81.97455077388933)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="446.8472184546575,275.36588626484917 434.1833499103577,284.2168067511939 435.6155081129094,286.26593409786216 490.39673472205516,247.97871726788145 488.9645765195034,245.9295899212131 449.10125853599254,273.7905122420423 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d8283f3c2" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(40.036341816947996)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="490.33503780764346,248.32684582280348 499.11435038386054,260.8882579997698 501.36839046519566,259.3128839769629 465.0902046480221,207.40617247467685 463.1780395529989,209.4707001275404 488.6164479645814,245.86789300680147 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d8283f3f9" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(-53.061057934486925)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="465.4105871791107,207.42817046749116 476.2010617357863,195.77790388342012 474.0000802409466,193.73935526752373 424.0360462563204,247.6845559608857 426.5669313277455,249.3669140687491 463.1507557031741,209.8680667845116 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d8283f434" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(86.19004847511364)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="423.99722838866984,247.35855804920982 403.558216401599,233.77211039838636 401.75906915485734,236.47868926931216 459.8079672622532,275.06559923457934 461.60711450899487,272.3590203636535 426.94992763866577,249.32130917505054 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d8283f473" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(-38.077536128413556)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="459.46137294550954,275.13540166720895 448.66801121104305,291.3725856273724 451.58278845665546,293.31012881617113 490.1005004508942,235.3653298961185 487.1857232052818,233.4277867073198 461.5373120763654,272.0124260469098 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d8283f4ae" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(86.19004847511357)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="490.1703028835237,235.71192421286213 506.30338765634394,246.43608797630014 508.3793267871997,243.31311235600114 450.5386270544904,204.86459833279096 448.46268792363463,207.98757395308996 486.8391288885382,233.4975891399494 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d8283f4e9" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(-38.0775361284135)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="450.885221371234,204.7947959001615 461.54018716364345,188.7658103146846 458.20901316865786,186.55147524177178 412.23726673644956,255.70988224726568 415.9452666107203,257.3573326670528 448.5324903562642,208.33416826983364 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d8283f526" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(128.95592019912792)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="412.1459023399456,255.39572505091007 396.4214598891785,248.40941431875845 394.6958520727904,252.29332699337155 469.3699409582811,285.47074426764163 471.0955487746692,281.5868315930286 416.3174021985002,257.2491067731705 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d8283f563" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(-25.443203996475756)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="469.0399691646928,285.5977033769491 463.29518159303456,298.5277869397512 467.40755971909545,300.3549010982798 500.53422382229536,225.79504493851323 496.4218456962344,223.9679307799845 470.9685896653619,281.25685979944024 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d8283f59d" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(128.95592019912792)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="500.6611829316028,226.12501673210133 513.477033768681,231.8190511326893 515.4056542693502,227.47820755518057 440.9600308353072,194.40229662305092 439.03141033463817,198.7431402005597 496.09187390264617,224.09488988929172 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d8283f5da" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(-25.44320399647575)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="441.2900026288954,194.2753375137437 446.9332838584133,181.5737194023892 442.3639748294567,179.54359255957962 426.1229600869802,216.09806479123222 430.69226911593677,218.1281916340418 439.15836944394545,199.0731119941479 " fill="white"></polyline>
+            <circle class=" rcircle" cx="424" cy="189" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="60" title="" original_title="T60
+1.51x51" original_cx="424" original_cy="189" data-original-title="T60
+1.51x51"></circle>
+            <text x="424" y="191" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="60t" class="rtext " title="" original_title="T60
+1.51x51" original_x="424" original_y="191" data-original-title="T60
+1.51x51"> T </text>
+            
+            <circle class=" rcircle" cx="404" cy="271" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="59" title="" original_title="N59
+1.50x50" original_cx="404" original_cy="271" data-original-title="N59
+1.50x50"></circle>
+            <text x="404" y="273" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="59t" class="rtext " title="" original_title="N59
+1.50x50" original_x="404" original_y="273" data-original-title="N59
+1.50x50"> N </text>
+            
+            <circle class=" rcircle" cx="486" cy="291" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="58" title="" original_title="G58
+1.49x49" original_cx="486" original_cy="291" data-original-title="G58
+1.49x49"></circle>
+            <text x="486" y="293" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="58t" class="rtext " title="" original_title="G58
+1.49x49" original_x="486" original_y="293" data-original-title="G58
+1.49x49"> G </text>
+            
+            <circle class=" rcircle" cx="506" cy="209" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="57" title="" original_title="L57
+1.48x48" original_cx="506" original_cy="209" data-original-title="L57
+1.48x48"></circle>
+            <text x="506" y="211" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="57t" class="rtext " title="" original_title="L57
+1.48x48" original_x="506" original_y="211" data-original-title="L57
+1.48x48"> L </text>
+            
+            <circle class=" rcircle" cx="417" cy="205" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="56" title="" original_title="V56
+1.47x47" original_cx="417" original_cy="205" data-original-title="V56
+1.47x47"></circle>
+            <text x="417" y="207" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="56t" class="rtext " title="" original_title="V56
+1.47x47" original_x="417" original_y="207" data-original-title="V56
+1.47x47"> V </text>
+            
+            <circle class=" rcircle" cx="420" cy="278" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="55" title="" original_title="S55
+1.46x46" original_cx="420" original_cy="278" data-original-title="S55
+1.46x46"></circle>
+            <text x="420" y="280" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="55t" class="rtext " title="" original_title="S55
+1.46x46" original_x="420" original_y="280" data-original-title="S55
+1.46x46"> S </text>
+            
+            <circle class=" rcircle" cx="493" cy="275" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="54" title="" original_title="L54
+1.45x45" original_cx="493" original_cy="275" data-original-title="L54
+1.45x45"></circle>
+            <text x="493" y="277" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="54t" class="rtext " title="" original_title="L54
+1.45x45" original_x="493" original_y="277" data-original-title="L54
+1.45x45"> L </text>
+            
+            <circle class=" rcircle" cx="490" cy="202" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="53" title="" original_title="L53
+1.44x44" original_cx="490" original_cy="202" data-original-title="L53
+1.44x44"></circle>
+            <text x="490" y="204" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="53t" class="rtext " title="" original_title="L53
+1.44x44" original_x="490" original_y="204" data-original-title="L53
+1.44x44"> L </text>
+            
+            <circle class=" rcircle" cx="410" cy="220" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="52" title="" original_title="F52
+1.43x43" original_cx="410" original_cy="220" data-original-title="F52
+1.43x43"></circle>
+            <text x="410" y="222" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="52t" class="rtext " title="" original_title="F52
+1.43x43" original_x="410" original_y="222" data-original-title="F52
+1.43x43"> F </text>
+            
+            <circle class=" rcircle" cx="435" cy="285" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="51" title="" original_title="I51
+1.42x42" original_cx="435" original_cy="285" data-original-title="I51
+1.42x42"></circle>
+            <text x="435" y="287" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="51t" class="rtext " title="" original_title="I51
+1.42x42" original_x="435" original_y="287" data-original-title="I51
+1.42x42"> I </text>
+            
+            <circle class=" rcircle" cx="500" cy="260" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="50" title="" original_title="L50
+1.41x41" original_cx="500" original_cy="260" data-original-title="L50
+1.41x41"></circle>
+            <text x="500" y="262" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="50t" class="rtext " title="" original_title="L50
+1.41x41" original_x="500" original_y="262" data-original-title="L50
+1.41x41"> L </text>
+            
+            <circle class=" rcircle" cx="475" cy="195" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="49" title="" original_title="S49
+1.40x40" original_cx="475" original_cy="195" data-original-title="S49
+1.40x40"></circle>
+            <text x="475" y="197" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="49t" class="rtext " title="" original_title="S49
+1.40x40" original_x="475" original_y="197" data-original-title="S49
+1.40x40"> S </text>
+            
+            <circle class=" rcircle" cx="403" cy="235" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="48" title="" original_title="Y48
+1.39x39" original_cx="403" original_cy="235" data-original-title="Y48
+1.39x39"></circle>
+            <text x="403" y="237" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="48t" class="rtext " title="" original_title="Y48
+1.39x39" original_x="403" original_y="237" data-original-title="Y48
+1.39x39"> Y </text>
+            
+            <circle class=" rcircle" cx="450" cy="292" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="47" title="" original_title="L47
+1.38x38" original_cx="450" original_cy="292" data-original-title="L47
+1.38x38"></circle>
+            <text x="450" y="294" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="47t" class="rtext " title="" original_title="L47
+1.38x38" original_x="450" original_y="294" data-original-title="L47
+1.38x38"> L </text>
+            
+            <circle class=" rcircle" cx="507" cy="245" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="46" title="" original_title="L46
+1.37x37" original_cx="507" original_cy="245" data-original-title="L46
+1.37x37"></circle>
+            <text x="507" y="247" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="46t" class="rtext " title="" original_title="L46
+1.37x37" original_x="507" original_y="247" data-original-title="L46
+1.37x37"> L </text>
+            
+            <circle class=" rcircle" cx="460" cy="188" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="45" title="" original_title="I45
+1.36x36" original_cx="460" original_cy="188" data-original-title="I45
+1.36x36"></circle>
+            <text x="460" y="190" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="45t" class="rtext " title="" original_title="I45
+1.36x36" original_x="460" original_y="190" data-original-title="I45
+1.36x36"> I </text>
+            
+            <circle class=" rcircle" cx="396" cy="250" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="44" title="" original_title="Q44
+1.35x35" original_cx="396" original_cy="250" data-original-title="Q44
+1.35x35"></circle>
+            <text x="396" y="252" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="44t" class="rtext " title="" original_title="Q44
+1.35x35" original_x="396" original_y="252" data-original-title="Q44
+1.35x35"> Q </text>
+            
+            <circle class=" rcircle" cx="465" cy="299" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="43" title="" original_title="V43
+1.34x34" original_cx="465" original_cy="299" data-original-title="V43
+1.34x34"></circle>
+            <text x="465" y="301" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="43t" class="rtext " title="" original_title="V43
+1.34x34" original_x="465" original_y="301" data-original-title="V43
+1.34x34"> V </text>
+            
+            <circle class=" rcircle" cx="514" cy="230" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="42" title="" original_title="A42
+1.33x33" original_cx="514" original_cy="230" data-original-title="A42
+1.33x33"></circle>
+            <text x="514" y="232" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="42t" class="rtext " title="" original_title="A42
+1.33x33" original_x="514" original_y="232" data-original-title="A42
+1.33x33"> A </text>
+            
+            <circle class=" rcircle" cx="445" cy="181" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="41" title="" original_title="P41
+1.32x32" original_cx="445" original_cy="181" data-original-title="P41
+1.32x32"></circle>
+            <text x="445" y="183" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="41t" class="rtext " title="" original_title="P41
+1.32x32" original_x="445" original_y="183" data-original-title="P41
+1.32x32"> P </text>
+            <text x="455" y="247" text-anchor="middle" font-family="helvetica" font-size="20" data-original-title="" title="">1</text>
+
+                <defs>
+                    <linearGradient id="69b0d8283f89a" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(39.02963201685832)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="338.52020132480294,70.86094902659693 338.6439520255987,71.04257620528301 338.4373496619645,71.18334361394267 380.25547321785643,132.5592206842104 380.4620755814907,132.41845327555086 338.8785702618816,71.38692212050069 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d8283f8d9" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(-84.08825304705148)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="379.9081034455625,132.49338572923597 347.97219250095327,154.25274679258422 348.2537273182726,154.66595151985265 409.5263032067232,112.91821166829055 409.2447683894039,112.50500694102209 380.5279105364652,132.071083503257 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d8283f912" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(39.0296320168583)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="409.46046825174864,113.26558144058436 431.1494456107671,145.09819120337662 431.76925270166976,144.67588897739765 390.0918965544374,83.50661427076398 389.47208946353476,83.928916496743 408.89739861711007,112.43917198604754 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d8283f94d" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(-84.08825304705161)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="390.4392663267313,83.57244922573864 422.16857490770644,61.953855571050006 421.6055052730678,61.127446116513134 356.5617155704121,105.44468220610958 357.31300333710715,106.1428502492401 389.4062545085602,84.27628626903686 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d8283f989" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(61.64969021318013)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="356.5857866813295,105.12576800421752 337.50189418532926,87.39120014634418 336.65097454591273,88.30686152876413 385.1334149937908,133.36135605698487 385.9843346332073,132.44569467456492 357.71271833137223,106.17302006891325 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d8283f9c4" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(-53.23842681687957)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="384.7800987894235,133.37430440558552 364.29963400810226,155.4130138507292 365.3984276670062,156.43411741802905 410.36783023128527,108.04324310839303 409.2690365723813,107.02213954109317 385.97138628460664,132.09237847019762 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d8283f9fb" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(61.64969021318013)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="410.38077857988594,108.39655931276019 432.3279218867875,128.79193213013974 433.5192093819707,127.51000619475181 385.2199012105766,82.62569559441431 384.0286137153934,83.90762152980221 408.915720368014,107.03508788969367 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d8283fa33" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(-53.23842681687961)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="385.57321741494394,82.61274724581375 405.8834982683818,60.75717007715415 404.4184400565099,59.395698654087674 352.4444088619409,115.3241448304953 354.09720734715313,116.48359186693398 384.04156206399415,84.26093773416966 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d8283fa6d" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(81.67138527071711)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="352.4096033890009,114.99434873750073 336.2582931893162,103.66411766990433 334.9661425856045,105.50608586108663 389.78297225376,143.9603870202211 391.0751228574718,142.11841882903883 354.47560149551606,116.4436575330491 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d8283faa6" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(-40.18500422373047)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="389.4347368321052,144.0214778632735 380.5617861037276,156.66992066603325 382.60841742726353,158.10564355904629 420.99093244174736,103.39114545706741 418.94430111821157,101.95542256405429 391.0140320144195,141.77018340738402 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d8283fae8" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(81.6713852707171)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="421.05202328479965,103.7393808787223 433.5981345213826,112.54054546244922 435.17742970369693,110.28925100655974 383.333945288223,73.92076755138348 382.2432079024374,76.51478793204993 418.5960656965566,102.01651340710666 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d8283fb1e" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(-24.07797345882247)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="383.64253014517084,73.83186162370112 389.79763361399074,59.193632430034725 387.03216285501827,58.0308033448858 358.5316740878444,125.81141642780347 361.48532847469636,126.5267022524124 382.3534768710606,76.8975220735797 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d8283fb4f" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(236.59202646936208)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="358.3836993715833,125.51835508846736 334.5304718583567,119.74182429754751 333.76553096024253,122.90052108932609 401.5111526333309,139.30646319202927 402.27609353144504,136.1477664002507 361.8296294895772,126.35285521717792 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d8283fb92" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(-13.851274338839822)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="401.209334349493,139.49059826077269 396.62033595940227,158.4401073378697 400.0220094274715,159.2638898435311 416.398530726401,91.6397565085881 412.9968572583317,90.81597400292685 402.09195846270165,135.84594811641296 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d8283fbc3" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(236.59202646936208)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="416.58266579514435,91.94157479242595 435.41068653409604,96.50115237874311 436.2933106473047,92.85650223438321 368.79066565050704,76.5094017392273 367.90804153729835,80.15405188358719 412.6950389744938,91.00010907167008 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d8283fbfb" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(-13.851274338839817)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="369.0924839343449,76.3252666704841 373.62264071688844,57.61873426967754 369.7350138962379,56.67726854892167 350.1892712854448,137.3881765809681 354.23711263386963,137.66806293510308 368.0921766060418,80.45587016742525 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d8283fc33" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(828.6367284001865)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="349.9959687469231,137.1242138457729 332.83036721203644,135.93730526498024 332.53720265024157,140.17718197777597 414.0552379511698,145.81371358381332 414.3484025129646,141.57383687101756 354.54979026390106,137.43908599417475 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d8283fc68" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(-3.877194842644455)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="413.78858846442904,146.04587312210697 412.8126030087217,160.16101030085198 417.30188423403484,160.47141983687007 422.9297933529605,79.07808679220034 418.44051212764725,78.76767725618265 414.11624297467034,141.3071873842764 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d8283fc9c" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(828.6367284001868)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="423.1619528912546,79.34473627894135 437.15238781374035,80.31209924753712 437.48004232398165,75.57341350970658 356.21141153557113,69.95412687789249 355.88375702532977,74.69281261572303 418.1738626409067,78.99983679447682 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d8283fced" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(-3.877194842644487)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="356.4780610223117,69.72196733959845 357.43680150379583,55.85623467337122 352.4487112534479,55.51133518890668 349.6895153777316,95.41605719169013 354.6776056280795,95.76095667615468 356.11591656362395,74.95946210246348 " fill="white"></polyline>
+            <circle class=" rcircle" cx="339" cy="71" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="81" title="" original_title="L81
+2.44x44" original_cx="339" original_cy="71" data-original-title="L81
+2.44x44"></circle>
+            <text x="339" y="73" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="81t" class="rtext " title="" original_title="L81
+2.44x44" original_x="339" original_y="73" data-original-title="L81
+2.44x44"> L </text>
+            
+            <circle class=" rcircle" cx="348" cy="154" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="82" title="" original_title="S82
+2.45x45" original_cx="348" original_cy="154" data-original-title="S82
+2.45x45"></circle>
+            <text x="348" y="156" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="82t" class="rtext " title="" original_title="S82
+2.45x45" original_x="348" original_y="156" data-original-title="S82
+2.45x45"> S </text>
+            
+            <circle class=" rcircle" cx="431" cy="145" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="83" title="" original_title="L83
+2.46x46" original_cx="431" original_cy="145" data-original-title="L83
+2.46x46"></circle>
+            <text x="431" y="147" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="83t" class="rtext " title="" original_title="L83
+2.46x46" original_x="431" original_y="147" data-original-title="L83
+2.46x46"> L </text>
+            
+            <circle class=" rcircle" cx="422" cy="62" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="84" title="" original_title="A84
+2.47x47" original_cx="422" original_cy="62" data-original-title="A84
+2.47x47"></circle>
+            <text x="422" y="64" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="84t" class="rtext " title="" original_title="A84
+2.47x47" original_x="422" original_y="64" data-original-title="A84
+2.47x47"> A </text>
+            
+            <circle class=" rcircle" cx="337" cy="88" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="85" title="" original_title="V85
+2.48x48" original_cx="337" original_cy="88" data-original-title="V85
+2.48x48"></circle>
+            <text x="337" y="90" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="85t" class="rtext " title="" original_title="V85
+2.48x48" original_x="337" original_y="90" data-original-title="V85
+2.48x48"> V </text>
+            
+            <circle class=" rcircle" cx="365" cy="156" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="86" title="" original_title="S86
+2.49x49" original_cx="365" original_cy="156" data-original-title="S86
+2.49x49"></circle>
+            <text x="365" y="158" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="86t" class="rtext " title="" original_title="S86
+2.49x49" original_x="365" original_y="158" data-original-title="S86
+2.49x49"> S </text>
+            
+            <circle class=" rcircle" cx="433" cy="128" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="87" title="" original_title="D87
+2.50x50" original_cx="433" original_cy="128" data-original-title="D87
+2.50x50"></circle>
+            <text x="433" y="130" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="87t" class="rtext " title="" original_title="D87
+2.50x50" original_x="433" original_y="130" data-original-title="D87
+2.50x50"> D </text>
+            
+            <circle class=" rcircle" cx="405" cy="60" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="88" title="" original_title="L88
+2.51x51" original_cx="405" original_cy="60" data-original-title="L88
+2.51x51"></circle>
+            <text x="405" y="62" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="88t" class="rtext " title="" original_title="L88
+2.51x51" original_x="405" original_y="62" data-original-title="L88
+2.51x51"> L </text>
+            
+            <circle class=" rcircle" cx="336" cy="105" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="89" title="" original_title="M89
+2.52x52" original_cx="336" original_cy="105" data-original-title="M89
+2.52x52"></circle>
+            <text x="336" y="107" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="89t" class="rtext " title="" original_title="M89
+2.52x52" original_x="336" original_y="107" data-original-title="M89
+2.52x52"> M </text>
+            
+            <circle class=" rcircle" cx="382" cy="157" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="90" title="" original_title="L90
+2.53x53" original_cx="382" original_cy="157" data-original-title="L90
+2.53x53"></circle>
+            <text x="382" y="159" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="90t" class="rtext " title="" original_title="L90
+2.53x53" original_x="382" original_y="159" data-original-title="L90
+2.53x53"> L </text>
+            
+            <circle class=" rcircle" cx="434" cy="111" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="91" title="" original_title="C91
+2.54x54" original_cx="434" original_cy="111" data-original-title="C91
+2.54x54"></circle>
+            <text x="434" y="113" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="91t" class="rtext " title="" original_title="C91
+2.54x54" original_x="434" original_y="113" data-original-title="C91
+2.54x54"> C </text>
+            
+            <circle class=" rcircle" cx="450" cy="103" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="93" title="" original_title="F93
+2.56x551" original_cx="450" original_cy="103" data-original-title="F93
+2.56x551"></circle>
+            <text x="450" y="105" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="93t" class="rtext " title="" original_title="F93
+2.56x551" original_x="450" original_y="105" data-original-title="F93
+2.56x551"> F </text>
+            
+            <circle class=" rcircle" cx="388" cy="59" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="92" title="" original_title="L92
+2.55x55" original_cx="388" original_cy="59" data-original-title="L92
+2.55x55"></circle>
+            <text x="388" y="61" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="92t" class="rtext " title="" original_title="L92
+2.55x55" original_x="388" original_y="61" data-original-title="L92
+2.55x55"> L </text>
+            
+            <circle class=" rcircle" cx="334" cy="121" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="94" title="" original_title="C94
+2.57x56" original_cx="334" original_cy="121" data-original-title="C94
+2.57x56
+2 interactions | Type: polar (hydrogen bond),Van der Waals" style="fill: rgb(230, 10, 10);"></circle>
+            <text x="334" y="123" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="94t" class="rtext " title="" original_title="C94
+2.57x56" original_x="334" original_y="123" data-original-title="C94
+2.57x56
+2 interactions | Type: polar (hydrogen bond),Van der Waals" style="fill: rgb(253, 255, 123);"> C </text>
+            
+            <circle class=" rcircle" cx="398" cy="159" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="95" title="" original_title="M95
+2.58x57" original_cx="398" original_cy="159" data-original-title="M95
+2.58x57"></circle>
+            <text x="398" y="161" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="95t" class="rtext " title="" original_title="M95
+2.58x57" original_x="398" original_y="161" data-original-title="M95
+2.58x57"> M </text>
+            
+            <circle class=" rcircle" cx="436" cy="95" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="96" title="" original_title="P96
+2.59x58" original_cx="436" original_cy="95" data-original-title="P96
+2.59x58"></circle>
+            <text x="436" y="97" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="96t" class="rtext " title="" original_title="P96
+2.59x58" original_x="436" original_y="97" data-original-title="P96
+2.59x58"> P </text>
+            
+            <circle class=" rcircle" cx="372" cy="57" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="97" title="" original_title="F97
+2.60x59" original_cx="372" original_cy="57" data-original-title="F97
+2.60x59"></circle>
+            <text x="372" y="59" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="97t" class="rtext " title="" original_title="F97
+2.60x59" original_x="372" original_y="59" data-original-title="F97
+2.60x59"> F </text>
+            
+            <circle class=" rcircle" cx="333" cy="138" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="98" title="" original_title="N98
+2.61x60" original_cx="333" original_cy="138" data-original-title="N98
+2.61x60
+1 interactions | Type: polar (hydrogen bond)" style="fill: rgb(230, 10, 10);"></circle>
+            <text x="333" y="140" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="98t" class="rtext " title="" original_title="N98
+2.61x60" original_x="333" original_y="140" data-original-title="N98
+2.61x60
+1 interactions | Type: polar (hydrogen bond)" style="fill: rgb(253, 255, 123);"> N </text>
+            
+            <circle class=" rcircle" cx="415" cy="160" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="99" title="" original_title="L99
+2.62x61" original_cx="415" original_cy="160" data-original-title="L99
+2.62x61"></circle>
+            <text x="415" y="162" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="99t" class="rtext " title="" original_title="L99
+2.62x61" original_x="415" original_y="162" data-original-title="L99
+2.62x61"> L </text>
+            
+            <circle class=" rcircle" cx="437" cy="78" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="100" title="" original_title="I100
+2.63x62" original_cx="437" original_cy="78" data-original-title="I100
+2.63x62"></circle>
+            <text x="437" y="80" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="100t" class="rtext " title="" original_title="I100
+2.63x62" original_x="437" original_y="80" data-original-title="I100
+2.63x62"> I </text>
+            
+            <circle class=" rcircle" cx="355" cy="56" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="101" title="" original_title="P101
+2.64x63" original_cx="355" original_cy="56" data-original-title="P101
+2.64x63
+2 interactions | Type: Van der Waals,polar (hydrogen bond with backbone)" style="fill: rgb(230, 10, 10);"></circle>
+            <text x="355" y="58" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="101t" class="rtext " title="" original_title="P101
+2.64x63" original_x="355" original_y="58" data-original-title="P101
+2.64x63
+2 interactions | Type: Van der Waals,polar (hydrogen bond with backbone)" style="fill: rgb(253, 255, 123);"> P </text>
+            <text x="385" y="115" text-anchor="middle" font-family="helvetica" font-size="20" data-original-title="" title="">2</text>
+
+                <defs>
+                    <linearGradient id="69b0d8283fed7" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(118.88093023613119)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="186.1777880977915,109.07653772218637 186.37577293775982,109.17195612254831 186.2672337467005,109.39716545628958 253.17072961983325,141.64117240074634 253.27926881089257,141.41596306700507 186.75113124818066,109.35285931467476 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d8283fefc" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(-27.601514721058262)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="252.83698109503268,141.7578425434283 236.05935145567767,176.56995746671052 236.50977012316022,176.78703584882916 268.69950747208736,109.99614464256706 268.24908880460475,109.77906626044842 253.16259866821065,141.08221454220438 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d8283ff1d" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(118.88093023613112)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="268.81617761476923,110.32989316736762 303.5156878711809,127.05325321119302 303.84130544435885,126.3776252099692 237.16301890496734,94.24215745657173 236.83740133178938,94.91778545779557 267.9153402798041,109.89573640313036 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d8283ff3c" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(-27.60151472105824)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="237.4967674297679,94.12548731388972 254.16585787806363,59.538581724348795 253.26502054309853,59.10442496011153 218.76010833436,130.69910162473155 219.7598266474357,130.92808900284547 236.95407147447133,95.25153398259613 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d8283ff5c" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(250.14188716840607)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="218.39886008521634,130.87283129159943 193.281946472922,125.11975453070883 193.56103380602585,123.9013086925605 258.0753061354648,138.6784252847276 257.796218802361,139.89687112287598 219.89843755482988,131.2163123587703 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d8283ff7c" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(-13.098297940094026)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="257.8874344344559,138.37891865047732 250.77946410874566,169.41105746066378 252.24159911452364,169.7459622603884 267.2698943064843,104.13508867661585 265.80775930070627,103.80018387689142 257.49671216811055,140.08474282388465 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d8283ffa0" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(250.1418871684056)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="267.5694009407347,103.94721697560709 296.7738709936988,110.63655630166157 296.3831487273534,112.34238047506923 232.1125655655441,97.62108134952285 232.5032878318895,95.91525717611519 265.6198875996973,103.5006772426409 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d8283ffc0" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(-13.098297940094023)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="232.300437266553,97.92058798377343 239.46422505888404,66.644760005957 237.51471171784672,66.19822027299084 220.073683876717,142.3426570330281 222.0847728704666,142.52036837832054 232.80279446613994,95.7273854751063 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d8283ffe1" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(648.393156990791)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="219.76595209853375,142.5664382548371 200.42245136034836,140.85713570804168 200.62050251308696,138.61586915965907 267.3204201402015,144.50985601416912 267.1223689874629,146.75112256255173 222.2798133407207,142.78857743645264 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d82840001" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(-4.996974133486686)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="267.09339620735216,144.23882071404478 265.49135435141557,162.36849464509424 267.98165051628513,162.5885514814705 274.0626856817149,93.77188211421753 271.5723895168454,93.55182527784063 266.85133368733835,146.97814649540078 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d82840020" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(648.3931569907885)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="274.3337209818395,93.54485818136749 289.5995543232893,94.89383467547142 289.3574918032754,97.63316045682795 226.8699419765835,92.11140255439622 226.517538071198,89.3195463139117 271.34536558399606,93.28078997771601 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d82840040" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(7.1860487269624445)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="227.15680477542523,92.38772555954506 224.75168880278346,73.33362901097375 221.77530632951581,73.70932486246159 230.983465578329,146.65930205993914 233.89904822364664,145.80193056159146 226.7403274326969,89.08825909351776 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d82840060" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(-194.83865969958126)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="230.70878504526107,146.47949085333755 207.16301866109706,153.40348219927122 208.0799088068258,156.52146431286096 274.9523092222416,136.8566161102744 274.0354190765128,133.73863399668465 234.11029813146502,145.4792241052653 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d8284007f" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(16.828908346624072)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="274.782994455483,137.16699089945268 280.28355981028704,155.87224634450791 283.6413867018452,154.88482618756925 264.01180350486356,88.13234816113777 260.6539766133054,89.11976831807658 273.72504428733447,133.56931922992612 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d8284009c" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(-194.83865969958117)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="264.3221782940419,88.3016629278963 282.9075113501128,82.83636257869728 281.84956118196425,79.23869090917066 215.217005544517,98.83300910054732 216.2749557126656,102.43068077007393 260.4846618465469,89.43014310725476 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d828400ba" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(16.828908346624058)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="215.38632031127557,98.52263431136896 209.95628496768146,80.0572236442822 206.1187685201864,81.18570382364067 229.54711289943077,160.85627184729879 233.1925895147232,159.07473986593993 216.5853305018439,102.59999553683247 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d828400d9" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(-117.23918594721556)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="229.2477266228574,160.72432468222837 213.7884253320081,168.2792324667355 215.65447573040228,172.0976556898281 289.06943097062134,136.22001759942626 287.20338057222705,132.4015943763337 233.3488878150614,158.72010120319953 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d828400f8" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(27.988346253563254)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="288.9545855103449,136.55439840069016 295.16692590135045,149.26645850323882 299.2099622552132,147.29064043435085 263.38720800005825,73.98799175951694 259.3441716461955,75.96380982840492 286.86899977096317,132.28674891605726 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d82840115" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(-117.23918594721553)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="263.7215888013221,74.10283721979332 276.3213423384857,67.94538066403469 274.235756599104,63.67773117940178 201.04541448965517,99.4456015993098 203.13100022903689,103.71325108394271 259.22932618591915,76.2981906296688 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d82840136" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(27.988346253563225)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="201.16025994993154,99.1112207980459 195.05768722941977,86.62377382626744 190.5654246140167,88.81912723614295 208.12825189302083,124.75722815936743 212.6205145084239,122.56187474949192 203.46538103030085,103.82809654421919 " fill="white"></polyline>
+            <circle class=" rcircle" cx="186" cy="109" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="134" title="" original_title="A134
+3.45x45" original_cx="186" original_cy="109" data-original-title="A134
+3.45x45"></circle>
+            <text x="186" y="111" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="134t" class="rtext " title="" original_title="A134
+3.45x45" original_x="186" original_y="111" data-original-title="A134
+3.45x45"> A </text>
+            
+            <circle class=" rcircle" cx="236" cy="177" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="133" title="" original_title="V133
+3.44x44" original_cx="236" original_cy="177" data-original-title="V133
+3.44x44"></circle>
+            <text x="236" y="179" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="133t" class="rtext " title="" original_title="V133
+3.44x44" original_x="236" original_y="179" data-original-title="V133
+3.44x44"> V </text>
+            
+            <circle class=" rcircle" cx="304" cy="127" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="132" title="" original_title="L132
+3.43x43" original_cx="304" original_cy="127" data-original-title="L132
+3.43x43"></circle>
+            <text x="304" y="129" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="132t" class="rtext " title="" original_title="L132
+3.43x43" original_x="304" original_y="129" data-original-title="L132
+3.43x43"> L </text>
+            
+            <circle class=" rcircle" cx="254" cy="59" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="131" title="" original_title="N131
+3.42x42" original_cx="254" original_cy="59" data-original-title="N131
+3.42x42"></circle>
+            <text x="254" y="61" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="131t" class="rtext " title="" original_title="N131
+3.42x42" original_x="254" original_y="61" data-original-title="N131
+3.42x42"> N </text>
+            
+            <circle class=" rcircle" cx="193" cy="125" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="130" title="" original_title="F130
+3.41x41" original_cx="193" original_cy="125" data-original-title="F130
+3.41x41"></circle>
+            <text x="193" y="127" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="130t" class="rtext " title="" original_title="F130
+3.41x41" original_x="193" original_y="127" data-original-title="F130
+3.41x41"> F </text>
+            
+            <circle class=" rcircle" cx="252" cy="170" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="129" title="" original_title="T129
+3.40x40" original_cx="252" original_cy="170" data-original-title="T129
+3.40x40"></circle>
+            <text x="252" y="172" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="129t" class="rtext " title="" original_title="T129
+3.40x40" original_x="252" original_y="172" data-original-title="T129
+3.40x40"> T </text>
+            
+            <circle class=" rcircle" cx="297" cy="111" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="128" title="" original_title="S128
+3.39x39" original_cx="297" original_cy="111" data-original-title="S128
+3.39x39"></circle>
+            <text x="297" y="113" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="128t" class="rtext " title="" original_title="S128
+3.39x39" original_x="297" original_y="113" data-original-title="S128
+3.39x39"> S </text>
+            
+            <circle class=" rcircle" cx="238" cy="66" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="127" title="" original_title="V127
+3.38x38" original_cx="238" original_cy="66" data-original-title="V127
+3.38x38"></circle>
+            <text x="238" y="68" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="127t" class="rtext " title="" original_title="V127
+3.38x38" original_x="238" original_y="68" data-original-title="V127
+3.38x38"> V </text>
+            
+            <circle class=" rcircle" cx="201" cy="140" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="126" title="" original_title="S126
+3.37x37" original_cx="201" original_cy="140" data-original-title="S126
+3.37x37"></circle>
+            <text x="201" y="142" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="126t" class="rtext " title="" original_title="S126
+3.37x37" original_x="201" original_y="142" data-original-title="S126
+3.37x37"> S </text>
+            
+            <circle class=" rcircle" cx="267" cy="162" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="125" title="" original_title="V125
+3.36x36" original_cx="267" original_cy="162" data-original-title="V125
+3.36x36
+2 interactions | Type: Van der Waals,hydrophobic" style="fill: rgb(230, 10, 10);"></circle>
+            <text x="267" y="164" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="125t" class="rtext " title="" original_title="V125
+3.36x36" original_x="267" original_y="164" data-original-title="V125
+3.36x36
+2 interactions | Type: Van der Waals,hydrophobic" style="fill: rgb(253, 255, 123);"> V </text>
+            
+            <circle class=" rcircle" cx="289" cy="96" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="124" title="" original_title="S124
+3.35x35" original_cx="289" original_cy="96" data-original-title="S124
+3.35x35"></circle>
+            <text x="289" y="98" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="124t" class="rtext " title="" original_title="S124
+3.35x35" original_x="289" original_y="98" data-original-title="S124
+3.35x35"> S </text>
+            
+            <circle class=" rcircle" cx="223" cy="74" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="123" title="" original_title="T123
+3.34x34" original_cx="223" original_cy="74" data-original-title="T123
+3.34x34"></circle>
+            <text x="223" y="76" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="123t" class="rtext " title="" original_title="T123
+3.34x34" original_x="223" original_y="76" data-original-title="T123
+3.34x34"> T </text>
+            
+            <circle class=" rcircle" cx="208" cy="155" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="122" title="" original_title="G122
+3.33x33" original_cx="208" original_cy="155" data-original-title="G122
+3.33x33"></circle>
+            <text x="208" y="157" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="122t" class="rtext " title="" original_title="G122
+3.33x33" original_x="208" original_y="157" data-original-title="G122
+3.33x33"> G </text>
+            
+            <circle class=" rcircle" cx="282" cy="155" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="121" title="" original_title="M121
+3.32x32" original_cx="282" original_cy="155" data-original-title="M121
+3.32x32
+2 interactions | Type: hydrophobic,Van der Waals" style="fill: rgb(230, 10, 10);"></circle>
+            <text x="282" y="157" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="121t" class="rtext " title="" original_title="M121
+3.32x32" original_x="282" original_y="157" data-original-title="M121
+3.32x32
+2 interactions | Type: hydrophobic,Van der Waals" style="fill: rgb(253, 255, 123);"> M </text>
+            
+            <circle class=" rcircle" cx="282" cy="81" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="120" title="" original_title="F120
+3.31x31" original_cx="282" original_cy="81" data-original-title="F120
+3.31x31"></circle>
+            <text x="282" y="83" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="120t" class="rtext " title="" original_title="F120
+3.31x31" original_x="282" original_y="83" data-original-title="F120
+3.31x31"> F </text>
+            
+            <circle class=" rcircle" cx="208" cy="81" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="119" title="" original_title="Y119
+3.30x30" original_cx="208" original_cy="81" data-original-title="Y119
+3.30x30"></circle>
+            <text x="208" y="83" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="119t" class="rtext " title="" original_title="Y119
+3.30x30" original_x="208" original_y="83" data-original-title="Y119
+3.30x30"> Y </text>
+            
+            <circle class=" rcircle" cx="215" cy="170" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="118" title="" original_title="T118
+3.29x29" original_cx="215" original_cy="170" data-original-title="T118
+3.29x29"></circle>
+            <text x="215" y="172" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="118t" class="rtext " title="" original_title="T118
+3.29x29" original_x="215" original_y="172" data-original-title="T118
+3.29x29"> T </text>
+            
+            <circle class=" rcircle" cx="297" cy="148" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="117" title="" original_title="T117
+3.28x28" original_cx="297" original_cy="148" data-original-title="T117
+3.28x28"></circle>
+            <text x="297" y="150" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="117t" class="rtext " title="" original_title="T117
+3.28x28" original_x="297" original_y="150" data-original-title="T117
+3.28x28"> T </text>
+            
+            <circle class=" rcircle" cx="275" cy="66" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="116" title="" original_title="T116
+3.27x27" original_cx="275" original_cy="66" data-original-title="T116
+3.27x27"></circle>
+            <text x="275" y="68" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="116t" class="rtext " title="" original_title="T116
+3.27x27" original_x="275" original_y="68" data-original-title="T116
+3.27x27"> T </text>
+            
+            <circle class=" rcircle" cx="193" cy="88" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="115" title="" original_title="K115
+3.26x26" original_cx="193" original_cy="88" data-original-title="K115
+3.26x26"></circle>
+            <text x="193" y="90" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="115t" class="rtext " title="" original_title="K115
+3.26x26" original_x="193" original_y="90" data-original-title="K115
+3.26x26"> K </text>
+            <text x="245" y="125" text-anchor="middle" font-family="helvetica" font-size="20" data-original-title="" title="">3</text>
+
+                <defs>
+                    <linearGradient id="69b0d82840325" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(66.53309806738785)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="159.50833165003937,118.84371138940426 159.3417890791671,118.70030204496607 159.50491835168293,118.51085854297018 103.22646690644322,70.04964057637066 103.06333763392743,70.23908407836656 159.02604198446156,118.42841310015856 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d82840358" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(-49.33047992821427)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="103.57903968095489,70.02332634689058 128.795023795964,40.739775557090816 128.41613679197224,40.413517012059195 80.03648346163062,96.59724670630094 80.41537046562237,96.92350525133254 103.08965186340748,70.5916568528782 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d8284037c" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(66.5330980673879)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="80.01016923215056,96.24467393178925 50.8213401933487,71.11025445303807 50.33195237580127,71.6785849590257 106.42096031904511,119.9766736531094 106.91034813659253,119.40834314712177 80.76794324013407,96.89719102185249 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d8284039e" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(-49.33047992821426)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="106.06838754453342,120.00298788258951 81.01553270204013,149.0970951703934 81.77330671002365,149.74961226045664 133.63255839504183,89.52499347449688 132.72617095197185,89.04506251292074 106.88403390711247,119.05577037261011 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d828403bf" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(108.20451442847377)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="134.02646195507612,89.45068142936493 156.7985316562075,101.50846245038917 156.21359700503365,102.61315763633692 97.7221944035357,71.64203672208862 98.30712905470953,70.53734153614087 132.66688079047117,88.73078498700067 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d828403f0" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(-30.327051956004876)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="97.82614651049047,71.97996268951294 112.72362715493169,43.844896460083746 111.39799293179439,43.14297487867514 79.90043083148963,102.62860314752609 81.22606505462693,103.33052472893473 98.64505502213385,70.4333894291861 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d82840427" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(108.20451442847377)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="79.5625048640653,102.73255525448086 53.08448141355775,88.71247658680039 53.903389925201125,87.16590332647354 112.1738534895096,118.0200373104871 111.35494497786623,119.56661057081395 81.33001716158172,103.668450696359 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d8284045c" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(-30.327051956004876)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="112.06990138255482,117.68211134306276 97.0554338078788,146.0381166096815 98.8229461053952,146.97401205155964 135.37731574627117,77.93820422825257 133.4807480289353,77.24604011723162 111.0170190104419,119.67056267776874 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d82840491" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(156.99146258383195)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="135.7324806605287,77.80169501164593 153.97446754143073,84.45922087653433 153.20308235020158,86.5728587089816 90.30138535234926,63.616495597735465 91.07277054357841,61.50285776528821 133.36177101385883,76.93648987286969 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d828404b7" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(-20.894505450598164)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="90.45052453470687,63.93705371147726 96.69028303300644,46.83977238264451 94.34179655250948,45.98267772572323 70.6569029828803,110.88058823199793 73.00538946337724,111.73768288891921 91.39332865732027,61.35371858293067 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d828404d9" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(156.99146258383206)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="70.33634486913844,111.02972741435548 55.93982299287716,105.77562777151539 56.88262711549057,103.19229264296874 115.81182920702263,124.69886918438388 115.4296396742939,127.48680407263643 73.1545286457348,112.05824100266102 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d828404fc" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(-7.812020103183754)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="115.60625867735229,124.35771610164124 112.99785923655487,143.38504987391153 115.97006117792928,143.79250001772078 125.95650578541992,70.94498603154886 122.9183651371269,71.01853498834839 115.15458013867288,127.65254824230328 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d8284051d" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(-2366.7586044787076)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="126.17528824149773,71.18976287313843 150.71081292018337,70.59579358285544 150.63215820184004,67.34674550145031 80.94874234076671,69.03367943115151 81.02739705911003,72.28272751255665 122.63079081848922,71.27556998940454 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d82840540" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(1.1379663343999746)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="81.19261875330993,68.77770229270936 80.72075697060177,49.28616189834191 77.22178211370394,49.37086697963471 78.90569086193041,118.92931945296141 82.40466571882824,118.84461437166874 81.28337419755222,72.52660392510006 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d8284055f" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(-2366.7586044786935)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="78.64971372348822,118.68544304041849 59.28313671686716,119.1542796416519 59.37389216110945,122.90318127404242 128.8073812466901,121.22229770729069 128.7166258024478,117.47339607490018 82.64854213137146,118.5886372332267 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d8284057d" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(1.1379663343999746)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="128.5635048341469,121.47827484573372 129.02931625390556,140.7198884646076 133.0281446617888,140.62308265741584 131.01836209734097,57.60352168767622 127.03600767926224,58.38083066231684 128.46064866400562,117.22951966235632 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d8284059e" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(-293.53992484818673)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="131.27339659465216,57.80845973234209 148.16128898649123,54.5121407861041 147.3471033659234,50.34085779699144 67.14788603244824,65.99480640324519 67.96207165301608,70.16608939235783 126.79324787431361,58.68293232881317 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d828405be" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(11.1536437892112)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="67.345362348245,65.70154354385221 64.63482557990152,51.81476437760977 60.218173003194,52.67684326997571 75.84817497354872,132.75337580965348 80.26482755025624,131.8912969172875 68.25533451240906,70.36356570815462 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d828405dd" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(-293.5399248481861)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="75.55491211415575,132.55589949385663 61.79081774171072,135.24248962630108 62.70078990587477,139.90451179060346 142.65463765175505,124.29845645614778 141.744665487591,119.6364342918454 80.46230386605298,131.59803405789447 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d82840600" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(11.153643789211205)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="142.4571613359583,124.59171931554079 145.11980483250366,138.23312889418835 150.02719658440088,137.2752634582262 142.3642730967036,98.0161294430483 137.4568813448064,98.97399487901046 141.45140262819803,119.43895797604875 " fill="white"></polyline>
+            <circle class=" rcircle" cx="159" cy="119" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="158" title="" original_title="A158
+4.42x42" original_cx="159" original_cy="119" data-original-title="A158
+4.42x42"></circle>
+            <text x="159" y="121" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="158t" class="rtext " title="" original_title="A158
+4.42x42" original_x="159" original_y="121" data-original-title="A158
+4.42x42"> A </text>
+            
+            <circle class=" rcircle" cx="129" cy="41" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="159" title="" original_title="L159
+4.43x43" original_cx="129" original_cy="41" data-original-title="L159
+4.43x43"></circle>
+            <text x="129" y="43" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="159t" class="rtext " title="" original_title="L159
+4.43x43" original_x="129" original_y="43" data-original-title="L159
+4.43x43"> L </text>
+            
+            <circle class=" rcircle" cx="51" cy="71" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="160" title="" original_title="K160
+4.44x44" original_cx="51" original_cy="71" data-original-title="K160
+4.44x44"></circle>
+            <text x="51" y="73" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="160t" class="rtext " title="" original_title="K160
+4.44x44" original_x="51" original_y="73" data-original-title="K160
+4.44x44"> K </text>
+            
+            <circle class=" rcircle" cx="81" cy="149" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="161" title="" original_title="V161
+4.45x45" original_cx="81" original_cy="149" data-original-title="V161
+4.45x45"></circle>
+            <text x="81" y="151" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="161t" class="rtext " title="" original_title="V161
+4.45x45" original_x="81" original_y="151" data-original-title="V161
+4.45x45"> V </text>
+            
+            <circle class=" rcircle" cx="157" cy="102" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="162" title="" original_title="I162
+4.46x46" original_cx="157" original_cy="102" data-original-title="I162
+4.46x46"></circle>
+            <text x="157" y="104" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="162t" class="rtext " title="" original_title="I162
+4.46x46" original_x="157" original_y="104" data-original-title="I162
+4.46x46"> I </text>
+            
+            <circle class=" rcircle" cx="112" cy="43" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="163" title="" original_title="A163
+4.47x47" original_cx="112" original_cy="43" data-original-title="A163
+4.47x47"></circle>
+            <text x="112" y="45" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="163t" class="rtext " title="" original_title="A163
+4.47x47" original_x="112" original_y="45" data-original-title="A163
+4.47x47"> A </text>
+            
+            <circle class=" rcircle" cx="53" cy="88" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="164" title="" original_title="A164
+4.48x48" original_cx="53" original_cy="88" data-original-title="A164
+4.48x48"></circle>
+            <text x="53" y="90" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="164t" class="rtext " title="" original_title="A164
+4.48x48" original_x="53" original_y="90" data-original-title="A164
+4.48x48"> A </text>
+            
+            <circle class=" rcircle" cx="98" cy="147" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="165" title="" original_title="T165
+4.49x49" original_cx="98" original_cy="147" data-original-title="T165
+4.49x49"></circle>
+            <text x="98" y="149" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="165t" class="rtext " title="" original_title="T165
+4.49x49" original_x="98" original_y="149" data-original-title="T165
+4.49x49"> T </text>
+            
+            <circle class=" rcircle" cx="154" cy="86" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="166" title="" original_title="W166
+4.50x50" original_cx="154" original_cy="86" data-original-title="W166
+4.50x50"></circle>
+            <text x="154" y="88" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="166t" class="rtext " title="" original_title="W166
+4.50x50" original_x="154" original_y="88" data-original-title="W166
+4.50x50"> W </text>
+            
+            <circle class=" rcircle" cx="96" cy="46" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="167" title="" original_title="C167
+4.51x51" original_cx="96" original_cy="46" data-original-title="C167
+4.51x51"></circle>
+            <text x="96" y="48" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="167t" class="rtext " title="" original_title="C167
+4.51x51" original_x="96" original_y="48" data-original-title="C167
+4.51x51"> C </text>
+            
+            <circle class=" rcircle" cx="56" cy="104" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="168" title="" original_title="L168
+4.52x52" original_cx="56" original_cy="104" data-original-title="L168
+4.52x52"></circle>
+            <text x="56" y="106" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="168t" class="rtext " title="" original_title="L168
+4.52x52" original_x="56" original_y="106" data-original-title="L168
+4.52x52"> L </text>
+            
+            <circle class=" rcircle" cx="114" cy="144" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="169" title="" original_title="S169
+4.53x53" original_cx="114" original_cy="144" data-original-title="S169
+4.53x53"></circle>
+            <text x="114" y="146" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="169t" class="rtext " title="" original_title="S169
+4.53x53" original_x="114" original_y="146" data-original-title="S169
+4.53x53"> S </text>
+            
+            <circle class=" rcircle" cx="151" cy="69" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="170" title="" original_title="F170
+4.54x54" original_cx="151" original_cy="69" data-original-title="F170
+4.54x54"></circle>
+            <text x="151" y="71" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="170t" class="rtext " title="" original_title="F170
+4.54x54" original_x="151" original_y="71" data-original-title="F170
+4.54x54"> F </text>
+            
+            <circle class=" rcircle" cx="79" cy="49" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="171" title="" original_title="T171
+4.55x55" original_cx="79" original_cy="49" data-original-title="T171
+4.55x55"></circle>
+            <text x="79" y="51" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="171t" class="rtext " title="" original_title="T171
+4.55x55" original_x="79" original_y="51" data-original-title="T171
+4.55x55"> T </text>
+            
+            <circle class=" rcircle" cx="59" cy="121" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="172" title="" original_title="I172
+4.56x56" original_cx="59" original_cy="121" data-original-title="I172
+4.56x56"></circle>
+            <text x="59" y="123" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="172t" class="rtext " title="" original_title="I172
+4.56x56" original_x="59" original_y="123" data-original-title="I172
+4.56x56"> I </text>
+            
+            <circle class=" rcircle" cx="131" cy="141" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="173" title="" original_title="M173
+4.57x57" original_cx="131" original_cy="141" data-original-title="M173
+4.57x57"></circle>
+            <text x="131" y="143" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="173t" class="rtext " title="" original_title="M173
+4.57x57" original_x="131" original_y="143" data-original-title="M173
+4.57x57"> M </text>
+            
+            <circle class=" rcircle" cx="62" cy="52" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="174" title="" original_title="T174
+4.58x59" original_cx="62" original_cy="52" data-original-title="T174
+4.58x59"></circle>
+            <text x="62" y="54" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="174t" class="rtext " title="" original_title="T174
+4.58x59" original_x="62" original_y="54" data-original-title="T174
+4.58x59"> T </text>
+            
+            <circle class=" rcircle" cx="62" cy="138" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="175" title="" original_title="P175
+4.59x60" original_cx="62" original_cy="138" data-original-title="P175
+4.59x60"></circle>
+            <text x="62" y="140" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="175t" class="rtext " title="" original_title="P175
+4.59x60" original_x="62" original_y="140" data-original-title="P175
+4.59x60"> P </text>
+            
+            <circle class=" rcircle" cx="148" cy="138" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="176" title="" original_title="Y176
+4.60x61" original_cx="148" original_cy="138" data-original-title="Y176
+4.60x61
+2 interactions | Type: hydrophobic,Van der Waals" style="fill: rgb(230, 10, 10);"></circle>
+            <text x="148" y="140" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="176t" class="rtext " title="" original_title="Y176
+4.60x61" original_x="148" original_y="140" data-original-title="Y176
+4.60x61
+2 interactions | Type: hydrophobic,Van der Waals" style="fill: rgb(253, 255, 123);"> Y </text>
+            <text x="105" y="102" text-anchor="middle" font-family="helvetica" font-size="20" data-original-title="" title="">4</text>
+
+                <defs>
+                    <linearGradient id="69b0d828407d8" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(-58.772416772483155)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="103.50369299984912,182.77720538440866 103.34631422979955,182.93061526258668 103.17180927043331,182.7515956570777 49.990010632640534,234.59221715730405 50.16451559200676,234.77123676281303 103.04794073195308,183.22146416134063 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d828407fd" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(55.84488462044975)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="49.99452527878328,234.23869259242883 23.020125065341176,206.56643329051732 22.662085854323212,206.9154432092498 74.41545487486646,260.0077320442881 74.77349408588442,259.65872212555564 50.518040156881966,234.77575140895578 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d82840820" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(-58.772416772483155)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="74.06193030999125,260.00321739814535 46.47918081083423,286.89036513190433 47.00269568893291,287.4274239484313 100.00547472121673,235.76130740757117 99.48195984311805,235.22424859104422 74.77800873202717,259.3051975606804 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d82840840" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(55.84488462044979)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="100.00096007507396,236.11483197244635 126.80085532914985,263.6080716688489 127.51693375118577,262.91005183138395 72.5782405076615,206.55003073310652 72.02113895747134,207.41114035888597 99.12843527824285,235.21973394490146 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d82840861" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(-37.05895594621644)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="72.89648959077567,206.51835727977095 87.04774635880847,184.64481660182813 85.99823528554174,183.96582727415756 49.50391573658687,240.37495024132411 50.5534268098536,241.05393956899465 72.0608372654904,207.81002171844017 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d82840881" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(88.55809210229056)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="49.158215656399385,240.44905459044332 23.897928341390518,224.10671582178495 24.712715534595194,222.84730253386488 80.17727853582167,258.73053168791625 79.36249134261699,259.9899449758363 50.62753115897282,241.39963964918212 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d828408a2" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(-37.05895594621646)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="80.10317418670249,258.38483160772876 62.74235142653818,285.2193855326378 64.2116669291116,286.16997059137657 100.8417843436006,229.55094540955668 99.37246884102719,228.60036035081788 79.01679126242958,260.06404932495553 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d828408c3" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(88.55809210229056)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="101.18748442378802,229.47684106043744 126.2378695241436,245.68338196356174 125.15148659987071,247.36259968078852 61.279079327066235,206.03985047351077 62.13390631275039,204.21082584612807 99.29836449190793,228.25466027063044 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d828408e3" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(-26.765746101589727)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="61.38411442299043,206.40556144020755 70.80610197077577,186.24587117259122 68.7677378176918,185.29320565971577 39.56967268764089,247.76664307938984 41.60803684072485,248.7193085922653 62.45264815509561,204.1192806559792 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d82840904" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(122.58979795299898)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="39.23733605808984,247.88727626163524 25.240279797889364,241.3455046352573 26.298797034417657,239.08065557627512 86.84711275395684,267.378981055277 85.78859551742855,269.6438301142592 41.72867002297026,249.05164522181636 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d82840925" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(-26.76574610158975)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="86.72647957171145,267.04664442572596 78.96741312332601,283.6482771037559 81.45874708820642,284.812646063937 109.35534046516618,225.12389364849403 106.6113245234593,224.50017392640578 85.45625888787751,269.7644632965046 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d82840945" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(252.06787922237532)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="109.71311200963248,224.94883882706966 124.5629336542445,228.32422979636436 123.8979895134485,231.24960999210322 52.67148012527006,215.05969725665474 52.86300244923002,212.02670743681006 106.47018407852437,224.21171551914713 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d82840966" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(-3.5254169389175356)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="52.9024732772101,215.36857934461818 54.67261880776184,187.33616378699625 51.429079124823076,187.13134600163204 46.847221323951274,259.69065803737 50.09076100689003,259.89547582273417 53.12591598849672,211.83009122146586 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d82840988" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(907.3482507442585)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="46.58196305715874,259.9244058756449 27.12346839450267,258.6956724014438 27.34404139412566,255.20262966597127 96.78456527319163,259.5875472886083 96.56399227356864,263.0805900240808 50.324508845165,260.16073408952667 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d828409a6" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(-3.5254169389175343)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="96.55081743491667,259.32228902181555 95.07787813970441,282.648080998745 98.82042392771068,282.8844092126268 103.41803694284127,210.07559412435512 99.67549115483499,209.8392659104734 96.29873400677609,263.31433786235607 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d828409c7" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(907.3482507442503)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="103.68329520963378,209.84184628608014 122.89228681975612,211.05482454602247 122.64020339161556,215.04687338656248 40.44074227375486,209.85627508038186 40.013476251630465,205.82132778214037 99.44174331656004,209.5740076436808 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d828409e6" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(6.012086877580108)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="40.720536441094154,210.12444100611032 38.42796351359582,188.4742033068021 34.20159256310646,188.92173943814754 42.80615081437722,270.18010605457476 47.03252176486657,269.73256992322933 40.23986216620421,205.58512529558863 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d82840a06" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(-541.0802066118035)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="42.53121510368105,269.9578216534486 28.461040479409593,271.4477314584486 28.934902265540046,275.9227124648491 110.06896385401173,267.3313170409709 109.59510206788127,262.85633603457035 47.25480616599269,269.45763421253315 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d82840a24" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(6.012086877580108)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="109.8466794528856,267.60625275166694 111.32342643049304,281.55212234798296 116.04701749280468,281.0519349070675 107.46878489631894,200.0421783465514 102.74519383400731,200.5423657874668 109.32016635718512,262.6340516334444 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d82840a4f" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(-541.0802066118048)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="107.74372060701509,200.26446274767747 121.56528517537544,198.80087859746254 121.03877207967494,193.82867747923976 81.2611631338927,198.04078224484377 81.78767622959319,203.01298336306655 102.52290943288118,200.81730149816298 " fill="white"></polyline>
+            <circle class=" rcircle" cx="103" cy="183" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="229" title="" original_title="Y229
+5.58x58" original_cx="103" original_cy="183" data-original-title="Y229
+5.58x58"></circle>
+            <text x="103" y="185" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="229t" class="rtext " title="" original_title="Y229
+5.58x58" original_x="103" original_y="185" data-original-title="Y229
+5.58x58"> Y </text>
+            
+            <circle class=" rcircle" cx="23" cy="207" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="228" title="" original_title="A228
+5.57x57" original_cx="23" original_cy="207" data-original-title="A228
+5.57x57"></circle>
+            <text x="23" y="209" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="228t" class="rtext " title="" original_title="A228
+5.57x57" original_x="23" original_y="209" data-original-title="A228
+5.57x57"> A </text>
+            
+            <circle class=" rcircle" cx="47" cy="287" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="227" title="" original_title="V227
+5.56x56" original_cx="47" original_cy="287" data-original-title="V227
+5.56x56"></circle>
+            <text x="47" y="289" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="227t" class="rtext " title="" original_title="V227
+5.56x56" original_x="47" original_y="289" data-original-title="V227
+5.56x56"> V </text>
+            
+            <circle class=" rcircle" cx="127" cy="263" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="226" title="" original_title="M226
+5.55x55" original_cx="127" original_cy="263" data-original-title="M226
+5.55x55"></circle>
+            <text x="127" y="265" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="226t" class="rtext " title="" original_title="M226
+5.55x55" original_x="127" original_y="265" data-original-title="M226
+5.55x55"> M </text>
+            
+            <circle class=" rcircle" cx="87" cy="184" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="225" title="" original_title="M225
+5.54x54" original_cx="87" original_cy="184" data-original-title="M225
+5.54x54"></circle>
+            <text x="87" y="186" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="225t" class="rtext " title="" original_title="M225
+5.54x54" original_x="87" original_y="186" data-original-title="M225
+5.54x54"> M </text>
+            
+            <circle class=" rcircle" cx="24" cy="223" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="224" title="" original_title="V224
+5.53x53" original_cx="24" original_cy="223" data-original-title="V224
+5.53x53"></circle>
+            <text x="24" y="225" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="224t" class="rtext " title="" original_title="V224
+5.53x53" original_x="24" original_y="225" data-original-title="V224
+5.53x53"> V </text>
+            
+            <circle class=" rcircle" cx="63" cy="286" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="223" title="" original_title="I223
+5.52x52" original_cx="63" original_cy="286" data-original-title="I223
+5.52x52"></circle>
+            <text x="63" y="288" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="223t" class="rtext " title="" original_title="I223
+5.52x52" original_x="63" original_y="288" data-original-title="I223
+5.52x52"> I </text>
+            
+            <circle class=" rcircle" cx="126" cy="247" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="222" title="" original_title="G222
+5.51x51" original_cx="126" original_cy="247" data-original-title="G222
+5.51x51"></circle>
+            <text x="126" y="249" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="222t" class="rtext " title="" original_title="G222
+5.51x51" original_x="126" original_y="249" data-original-title="G222
+5.51x51"> G </text>
+            
+            <circle class=" rcircle" cx="70" cy="186" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="221" title="" original_title="P221
+5.50x50" original_cx="70" original_cy="186" data-original-title="P221
+5.50x50"></circle>
+            <text x="70" y="188" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="221t" class="rtext " title="" original_title="P221
+5.50x50" original_x="70" original_y="188" data-original-title="P221
+5.50x50"> P </text>
+            
+            <circle class=" rcircle" cx="26" cy="240" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="220" title="" original_title="I220
+5.49x49" original_cx="26" original_cy="240" data-original-title="I220
+5.49x49"></circle>
+            <text x="26" y="242" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="220t" class="rtext " title="" original_title="I220
+5.49x49" original_x="26" original_y="242" data-original-title="I220
+5.49x49"> I </text>
+            
+            <circle class=" rcircle" cx="80" cy="284" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="219" title="" original_title="L219
+5.48x48" original_cx="80" original_cy="284" data-original-title="L219
+5.48x48"></circle>
+            <text x="80" y="286" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="219t" class="rtext " title="" original_title="L219
+5.48x48" original_x="80" original_y="286" data-original-title="L219
+5.48x48"> L </text>
+            
+            <circle class=" rcircle" cx="124" cy="230" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="218" title="" original_title="F218
+5.47x47" original_cx="124" original_cy="230" data-original-title="F218
+5.47x47"></circle>
+            <text x="124" y="232" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="218t" class="rtext " title="" original_title="F218
+5.47x47" original_x="124" original_y="232" data-original-title="F218
+5.47x47"> F </text>
+            
+            <circle class=" rcircle" cx="138" cy="218" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="217" title="" original_title="L217
+5.46x461" original_cx="138" original_cy="218" data-original-title="L217
+5.46x461
+1 interactions | Type: hydrophobic" style="fill: rgb(230, 10, 10);"></circle>
+            <text x="138" y="220" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="217t" class="rtext " title="" original_title="L217
+5.46x461" original_x="138" original_y="220" data-original-title="L217
+5.46x461
+1 interactions | Type: hydrophobic" style="fill: rgb(253, 255, 123);"> L </text>
+            
+            <circle class=" rcircle" cx="53" cy="187" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="216" title="" original_title="I216
+5.45x46" original_cx="53" original_cy="187" data-original-title="I216
+5.45x46"></circle>
+            <text x="53" y="189" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="216t" class="rtext " title="" original_title="I216
+5.45x46" original_x="53" original_y="189" data-original-title="I216
+5.45x46"> I </text>
+            
+            <circle class=" rcircle" cx="27" cy="257" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="215" title="" original_title="L215
+5.44x45" original_cx="27" original_cy="257" data-original-title="L215
+5.44x45"></circle>
+            <text x="27" y="259" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="215t" class="rtext " title="" original_title="L215
+5.44x45" original_x="27" original_y="259" data-original-title="L215
+5.44x45"> L </text>
+            
+            <circle class=" rcircle" cx="97" cy="283" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="214" title="" original_title="L214
+5.43x44" original_cx="97" original_cy="283" data-original-title="L214
+5.43x44"></circle>
+            <text x="97" y="285" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="214t" class="rtext " title="" original_title="L214
+5.43x44" original_x="97" original_y="285" data-original-title="L214
+5.43x44"> L </text>
+            
+            <circle class=" rcircle" cx="123" cy="213" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="213" title="" original_title="L213
+5.42x43" original_cx="123" original_cy="213" data-original-title="L213
+5.42x43"></circle>
+            <text x="123" y="215" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="213t" class="rtext " title="" original_title="L213
+5.42x43" original_x="123" original_y="215" data-original-title="L213
+5.42x43"> L </text>
+            
+            <circle class=" rcircle" cx="36" cy="189" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="212" title="" original_title="F212
+5.41x42" original_cx="36" original_cy="189" data-original-title="F212
+5.41x42"></circle>
+            <text x="36" y="191" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="212t" class="rtext " title="" original_title="F212
+5.41x42" original_x="36" original_y="191" data-original-title="F212
+5.41x42"> F </text>
+            
+            <circle class=" rcircle" cx="29" cy="274" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="211" title="" original_title="T211
+5.40x41" original_cx="29" original_cy="274" data-original-title="T211
+5.40x41"></circle>
+            <text x="29" y="276" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="211t" class="rtext " title="" original_title="T211
+5.40x41" original_x="29" original_y="276" data-original-title="T211
+5.40x41"> T </text>
+            
+            <circle class=" rcircle" cx="114" cy="281" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="210" title="" original_title="H210
+5.39x40" original_cx="114" original_cy="281" data-original-title="H210
+5.39x40
+1 interactions | Type: Van der Waals" style="fill: rgb(230, 10, 10);"></circle>
+            <text x="114" y="283" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="210t" class="rtext " title="" original_title="H210
+5.39x40" original_x="114" original_y="283" data-original-title="H210
+5.39x40
+1 interactions | Type: Van der Waals" style="fill: rgb(253, 255, 123);"> H </text>
+            
+            <circle class=" rcircle" cx="121" cy="196" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="209" title="" original_title="W209
+5.38x39" original_cx="121" original_cy="196" data-original-title="W209
+5.38x39"></circle>
+            <text x="121" y="198" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="209t" class="rtext " title="" original_title="W209
+5.38x39" original_x="121" original_y="198" data-original-title="W209
+5.38x39"> W </text>
+            <text x="75" y="242" text-anchor="middle" font-family="helvetica" font-size="20" data-original-title="" title="">5</text>
+
+                <defs>
+                    <linearGradient id="69b0d82840d80" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(-5.692766104009788)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="196.7330696912033,378.32680231002973 196.75501885456836,378.108122401916 197.0037689932997,378.133089750216 204.42088113605817,304.2362684969157 204.1721309973268,304.2113011486158 196.79663214615758,377.69352843176375 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d82840da8" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(570.8382945593336)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="204.69459862308955,304.0124857064844 243.14557342436603,307.87185593733466 243.09563872776596,308.36935621479734 169.32319254383134,300.9647277461889 169.37312724043142,300.4672274687262 203.94834820689553,303.9375836615843 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d82840dca" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(-5.692766104009806)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="169.54697533426264,301.2384452332201 173.493731284163,261.91684494638406 172.74748086796896,261.84194290148395 165.30540137691042,335.9875142935157 166.05165179310447,336.0624163384159 169.6468447274628,300.24344467829496 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d82840deb" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(570.8382945593338)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="165.0316838898791,336.2112970839469 126.82945922733391,332.3768942013967 126.92932862053408,331.38189364647127 205.0157170911418,339.2195176509494 205.14246314239853,340.2372638684935 166.2754345835358,336.33613382544706 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d82840e15" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(7.08861086272641)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="204.7289104272262,338.9394743825194 208.13857882156609,366.3184505084948 209.37899687416993,366.1639737957692 201.19976362365648,300.4863166176299 199.95934557105264,300.64079333035556 204.91902950411125,340.4660937088354 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d82840e37" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(-460.07327622660785)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="201.47874257672234,300.7035048856054 231.33389817976732,296.9854629836943 231.14852612449667,295.49696132056965 165.59491075161765,303.6607468998106 165.7802828068883,305.14924856293516 199.74215730307694,300.9197722834212 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d82840e59" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(7.08861086272641)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="165.8120990195933,303.38176794674473 162.1095047889547,273.65065414896014 160.37291951530932,273.8669215467759 168.5212574232777,339.2964951143947 170.25784269692306,339.080227716579 166.05926175995418,305.36643683091097 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d82840e7a" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(-460.073276226606)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="168.2422784702118,339.0793068464189 138.63520647768757,342.76645340578494 138.88236921804847,344.75112228995107 214.64689923235565,335.3157101615658 214.126060326274,333.3651238146081 170.47503096489874,338.8012487635129 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d82840e9a" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(15.277129175044017)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="214.46157292919165,335.59072115272164 219.55126221161456,354.6520437778691 221.72510133198946,354.0715926785269 204.4509218995457,289.3783100485603 202.2770827791708,289.9587611479025 213.81052429658962,333.15248821902463 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d82840ebb" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(-214.57605193972302)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="204.75695414618096,289.5553531620083 219.68429106116594,285.56950662840626 219.03934539523013,283.15412982798966 154.46683160528434,300.39606197713664 155.11177727122015,302.8114387775532 202.1000396657227,290.2647933945377 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d82840edd" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(15.277129175044)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="154.6438747187324,300.0900297305015 150.69027546842713,285.28346165553734 148.0333609879689,285.99290188806674 164.37056358829085,347.1771259688128 166.87352106154077,345.89110354787084 155.41780951785535,302.9884818910012 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d82840efd" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(-111.51054057644372)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="164.07702624465335,347.04687733809124 149.952671082101,354.30398722290533 151.32369246150301,356.97237632069874 216.72487177442824,323.36917536688196 214.9220181099294,320.92266219253366 167.0350668948578,345.5270326587961 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d82840f1e" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(42.213788828956034)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="216.64985078573883,323.68878969153286 231.20940075332268,343.4464281009587 233.82575063814937,341.51842050756926 192.4751299186917,285.40469350368875 189.858780033865,287.3327010970782 214.5465215104902,320.83452432145987 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d82840f3f" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(-77.74738070972907)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="192.82469587855448,285.45764291072237 208.52058223916603,273.8912280884014 206.444266369362,271.07362052012655 150.4311682072056,312.3500871013769 152.5074840770096,315.1676946696518 189.80583062683138,287.682267056941 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d82840f6d" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(42.213788828956034)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="150.48411761423927,312.0005211415142 138.99185693012555,296.4052636226267 135.97299167840245,298.6298877688453 177.1753041214455,354.5423570892776 180.1941693731686,352.31773294305896 152.8570500368724,315.2206440766854 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d82840f96" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(-77.74738070972916)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="176.8257381615827,354.48940768224395 161.3311094844194,365.9075142281503 163.70404190705256,369.1276371633216 230.5569210702336,319.86325573862564 227.6360021792039,317.04694808759143 180.24711878020221,351.96816698319617 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d82840fb6" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(59.41841140447482)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="230.5353274301067,320.18971540179507 242.92201096913703,332.1327761040429 245.871928270203,329.07328465661703 187.04858299191773,272.35666788392126 184.09866569085173,275.4161593313471 227.24929367769818,317.02136929438154 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d82840fd7" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(-55.2377260107703)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="187.40207762418189,272.3502223459001 197.22276114661426,262.16475130442376 193.98329961404576,259.04130945623626 137.35344511491064,317.7746696919502 140.59290664747917,320.8981115401376 184.10511122887286,275.7696539636113 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d82840ff6" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(59.41841140447477)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="137.34699957688954,317.421175059686 127.25151357798453,307.68725381081435 123.95454718267551,311.10668542852557 182.59792237581806,367.64977765409986 185.8948887711271,364.2303460363887 140.94640127974344,320.8916660021165 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d82841018" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(-55.2377260107703)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="182.24442774355393,367.65622319212105 172.59726876824303,377.6617241484547 176.19667047109692,381.13221509088527 203.96059801054128,352.33700146805404 200.36119630768738,348.86651052562354 185.88844323310596,363.87685140412447 " fill="white"></polyline>
+            <circle class=" rcircle" cx="197" cy="378" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="316" title="" original_title="I316
+6.38x38" original_cx="197" original_cy="378" data-original-title="I316
+6.38x38"></circle>
+            <text x="197" y="380" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="316t" class="rtext " title="" original_title="I316
+6.38x38" original_x="197" original_y="380" data-original-title="I316
+6.38x38"> I </text>
+            
+            <circle class=" rcircle" cx="243" cy="308" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="317" title="" original_title="V317
+6.39x39" original_cx="243" original_cy="308" data-original-title="V317
+6.39x39"></circle>
+            <text x="243" y="310" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="317t" class="rtext " title="" original_title="V317
+6.39x39" original_x="243" original_y="310" data-original-title="V317
+6.39x39"> V </text>
+            
+            <circle class=" rcircle" cx="173" cy="262" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="318" title="" original_title="I318
+6.40x40" original_cx="173" original_cy="262" data-original-title="I318
+6.40x40"></circle>
+            <text x="173" y="264" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="318t" class="rtext " title="" original_title="I318
+6.40x40" original_x="173" original_y="264" data-original-title="I318
+6.40x40"> I </text>
+            
+            <circle class=" rcircle" cx="127" cy="332" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="319" title="" original_title="V319
+6.41x41" original_cx="127" original_cy="332" data-original-title="V319
+6.41x41"></circle>
+            <text x="127" y="334" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="319t" class="rtext " title="" original_title="V319
+6.41x41" original_x="127" original_y="334" data-original-title="V319
+6.41x41"> V </text>
+            
+            <circle class=" rcircle" cx="209" cy="366" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="320" title="" original_title="V320
+6.42x42" original_cx="209" original_cy="366" data-original-title="V320
+6.42x42"></circle>
+            <text x="209" y="368" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="320t" class="rtext " title="" original_title="V320
+6.42x42" original_x="209" original_y="368" data-original-title="V320
+6.42x42"> V </text>
+            
+            <circle class=" rcircle" cx="231" cy="296" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="321" title="" original_title="L321
+6.43x43" original_cx="231" original_cy="296" data-original-title="L321
+6.43x43"></circle>
+            <text x="231" y="298" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="321t" class="rtext " title="" original_title="L321
+6.43x43" original_x="231" original_y="298" data-original-title="L321
+6.43x43"> L </text>
+            
+            <circle class=" rcircle" cx="161" cy="274" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="322" title="" original_title="F322
+6.44x44" original_cx="161" original_cy="274" data-original-title="F322
+6.44x44"></circle>
+            <text x="161" y="276" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="322t" class="rtext " title="" original_title="F322
+6.44x44" original_x="161" original_y="276" data-original-title="F322
+6.44x44"> F </text>
+            
+            <circle class=" rcircle" cx="139" cy="344" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="323" title="" original_title="F323
+6.45x45" original_cx="139" original_cy="344" data-original-title="F323
+6.45x45"></circle>
+            <text x="139" y="346" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="323t" class="rtext " title="" original_title="F323
+6.45x45" original_x="139" original_y="346" data-original-title="F323
+6.45x45"> F </text>
+            
+            <circle class=" rcircle" cx="221" cy="354" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="324" title="" original_title="L324
+6.46x46" original_cx="221" original_cy="354" data-original-title="L324
+6.46x46"></circle>
+            <text x="221" y="356" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="324t" class="rtext " title="" original_title="L324
+6.46x46" original_x="221" original_y="356" data-original-title="L324
+6.46x46"> L </text>
+            
+            <circle class=" rcircle" cx="219" cy="284" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="325" title="" original_title="C325
+6.47x47" original_cx="219" original_cy="284" data-original-title="C325
+6.47x47"></circle>
+            <text x="219" y="286" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="325t" class="rtext " title="" original_title="C325
+6.47x47" original_x="219" original_y="286" data-original-title="C325
+6.47x47"> C </text>
+            
+            <circle class=" rcircle" cx="149" cy="286" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="326" title="" original_title="W326
+6.48x48" original_cx="149" original_cy="286" data-original-title="W326
+6.48x48"></circle>
+            <text x="149" y="288" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="326t" class="rtext " title="" original_title="W326
+6.48x48" original_x="149" original_y="288" data-original-title="W326
+6.48x48"> W </text>
+            
+            <circle class=" rcircle" cx="151" cy="356" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="327" title="" original_title="M327
+6.49x49" original_cx="151" original_cy="356" data-original-title="M327
+6.49x49"></circle>
+            <text x="151" y="358" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="327t" class="rtext " title="" original_title="M327
+6.49x49" original_x="151" original_y="358" data-original-title="M327
+6.49x49"> M </text>
+            
+            <circle class=" rcircle" cx="233" cy="342" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="328" title="" original_title="P328
+6.50x50" original_cx="233" original_cy="342" data-original-title="P328
+6.50x50"></circle>
+            <text x="233" y="344" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="328t" class="rtext " title="" original_title="P328
+6.50x50" original_x="233" original_y="344" data-original-title="P328
+6.50x50"> P </text>
+            
+            <circle class=" rcircle" cx="207" cy="272" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="329" title="" original_title="I329
+6.51x51" original_cx="207" original_cy="272" data-original-title="I329
+6.51x51
+1 interactions | Type: Van der Waals" style="fill: rgb(230, 10, 10);"></circle>
+            <text x="207" y="274" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="329t" class="rtext " title="" original_title="I329
+6.51x51" original_x="207" original_y="274" data-original-title="I329
+6.51x51
+1 interactions | Type: Van der Waals" style="fill: rgb(253, 255, 123);"> I </text>
+            
+            <circle class=" rcircle" cx="137" cy="298" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="330" title="" original_title="F330
+6.52x52" original_cx="137" original_cy="298" data-original-title="F330
+6.52x52
+2 interactions | Type: hydrophobic,Van der Waals" style="fill: rgb(230, 10, 10);"></circle>
+            <text x="137" y="300" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="330t" class="rtext " title="" original_title="F330
+6.52x52" original_x="137" original_y="300" data-original-title="F330
+6.52x52
+2 interactions | Type: hydrophobic,Van der Waals" style="fill: rgb(253, 255, 123);"> F </text>
+            
+            <circle class=" rcircle" cx="163" cy="368" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="331" title="" original_title="S331
+6.53x53" original_cx="163" original_cy="368" data-original-title="S331
+6.53x53"></circle>
+            <text x="163" y="370" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="331t" class="rtext " title="" original_title="S331
+6.53x53" original_x="163" original_y="370" data-original-title="S331
+6.53x53"> S </text>
+            
+            <circle class=" rcircle" cx="244" cy="331" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="332" title="" original_title="A332
+6.54x54" original_cx="244" original_cy="331" data-original-title="A332
+6.54x54"></circle>
+            <text x="244" y="333" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="332t" class="rtext " title="" original_title="A332
+6.54x54" original_x="244" original_y="333" data-original-title="A332
+6.54x54"> A </text>
+            
+            <circle class=" rcircle" cx="196" cy="261" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="333" title="" original_title="N333
+6.55x55" original_cx="196" original_cy="261" data-original-title="N333
+6.55x55
+1 interactions | Type: Van der Waals" style="fill: rgb(230, 10, 10);"></circle>
+            <text x="196" y="263" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="333t" class="rtext " title="" original_title="N333
+6.55x55" original_x="196" original_y="263" data-original-title="N333
+6.55x55
+1 interactions | Type: Van der Waals" style="fill: rgb(253, 255, 123);"> N </text>
+            
+            <circle class=" rcircle" cx="126" cy="309" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="334" title="" original_title="A334
+6.56x56" original_cx="126" original_cy="309" data-original-title="A334
+6.56x56"></circle>
+            <text x="126" y="311" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="334t" class="rtext " title="" original_title="A334
+6.56x56" original_x="126" original_y="311" data-original-title="A334
+6.56x56"> A </text>
+            
+            <circle class=" rcircle" cx="174" cy="379" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="335" title="" original_title="W335
+6.57x57" original_cx="174" original_cy="379" data-original-title="W335
+6.57x57"></circle>
+            <text x="174" y="381" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="335t" class="rtext " title="" original_title="W335
+6.57x57" original_x="174" original_y="381" data-original-title="W335
+6.57x57"> W </text>
+            <text x="185" y="327" text-anchor="middle" font-family="helvetica" font-size="20" data-original-title="" title="">6</text>
+
+                <defs>
+                    <linearGradient id="69b0d82841185" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(55.84488462044979)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="376.22279461559134,331.50369299984914 376.0693847374133,331.34631422979953 376.2484043429223,331.1718092704333 324.407782842696,277.9900106326406 324.22876323718697,278.1645155920068 375.77853583865937,331.0479407319531 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d828411a9" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(-58.77241677248321)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="324.76130740757117,277.9945252787832 352.43356670948265,251.02012506534118 352.0845567907502,250.6620858543232 298.9922679557119,302.41545487486644 299.3412778744443,302.77349408588447 324.2242485910442,278.5180401568819 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d828411da" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(55.84488462044977)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="298.99678260185465,302.0619303099912 272.10963486809567,274.47918081083424 271.5725760515687,275.00269568893293 323.2386925924289,328.0054747212168 323.77575140895584,327.4819598431181 299.6948024393195,302.7780087320271 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d828411fc" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(-58.77241677248321)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="322.88516802755373,328.000960075074 295.3919283311511,354.80085532914984 296.08994816861605,355.5169337511858 353.0007811262215,300.0413194209617 352.13967150044203,299.48421787077154 323.7802660550986,327.1284352782429 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d8284121c" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(88.55809210229049)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="353.39966248577565,300.0016211129426 375.03417272584244,313.9982352855418 374.3551833981719,315.0477463588085 318.7856692896186,279.09661827199 319.4646586172892,278.0471071987233 352.1079980471065,299.16596878765733 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d8284123c" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(-37.05895594621647)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="318.8597736387379,279.44231835217755 336.1526974661352,252.71271553459516 334.8932841782151,251.8979283413905 298.33106569649317,308.4120024158837 299.5904789844132,309.2267896090884 319.8103586974767,277.9730028496041 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d8284125c" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(88.55809210229049)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="297.98536561630567,308.48610676500294 272.8300294086235,292.2116669291116 273.7806144673623,290.74235142653816 329.1402263612621,326.5576816478225 328.1896413025232,328.0269971503959 299.6645833335324,309.5724896892758 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d8284127c" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(-37.058955946216486)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="329.0661220121428,326.21198156763506 311.6374003192115,353.1514865998707 313.3166180364383,354.2378695241436 355.74875437178974,288.6506870288075 353.919729744407,287.7958600431234 327.8439412223358,328.10110149951515 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d8284129d" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(122.58979795299905)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="356.1144653384866,288.5456519328833 373.7067943402842,296.7677378176918 372.75412882740875,298.8061019707758 312.09257065492045,270.4548506299475 313.0452361677959,268.4164864768635 353.8281845542582,287.4771182007781 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d828412be" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(-26.765746101589755)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="312.2132038371659,270.7871872594985 319.9193444237249,254.29879703441765 317.65449536474273,253.24027979788934 288.4035043728653,315.8269596705127 290.66835343184755,316.8854769070409 313.37757279734706,268.29585329461804 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d828412eb" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(122.58979795299905)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="288.0711677433143,315.9475928527579 274.18735393606295,309.4587470882064 275.35172289624404,306.96741312332597 332.1822599301788,333.5281690258024 331.55854020809056,336.27218496750925 290.7889866140929,317.21781353659185 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d8284131a" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(-12.99782801021161)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="332.0072051087544,333.1703974813363 327.7503900078968,351.89798951344847 330.67577020363564,352.5629336542445 347.59075486259616,278.1465156475929 344.55776504275144,277.95499332363306 331.2700818008319,336.41332541244424 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d82841346" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(907.3482507442507)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="347.8996369505595,277.9155224956528 371.86865399836796,279.42907912482315 371.6638362130038,282.6726188077619 302.0985608076709,278.2798235779955 302.3033785930351,275.0362838950567 344.36114882740736,277.6920797843662 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d82841376" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(-3.5254169389175196)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="302.33230864594583,278.545081844788 303.7973703340287,255.34404139412567 300.3043275985562,255.12346839450268 295.71459219055504,327.8075319565078 299.20763492602754,328.02810495612994 302.5686368598276,274.8025360567817 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d828413a4" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(907.3482507442507)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="295.44933392376254,328.0412797947823 276.11559078737326,326.82042392771064 276.35191900125506,323.07787813970435 345.6676913540542,327.45491815521194 345.43136314017244,331.1974639432183 299.4413827643025,328.2933632229229 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d828413d1" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(-3.525416938917517)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="345.43394351577916,327.18965988841956 343.9531266134375,350.6402033916156 347.9451754539775,350.8922868197562 353.1786722178595,268.0134762516309 349.1437249196181,268.44074227375495 345.1661048733799,331.4312117814925 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d828413fd" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(-541.0802066118035)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="353.4148747044113,268.23986216620426 370.5257966931979,266.42796351359584 370.07826056185246,262.2015925631065 288.81989394542524,270.80615081437725 289.26743007677067,275.0325217648666 348.8755589938896,268.72053644109417 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d82841420" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(6.0120868775801)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="289.04217834655134,270.531215103681 287.5522685415514,256.4610404794096 283.0772875351509,256.93490226554 291.6686829590291,338.0689638540116 296.14366396542965,337.59510206788127 289.54236578746685,275.2548061659927 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d8284143e" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(-541.0802066118035)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="291.393747248333,337.8466794528855 277.44787765201704,339.323426430493 277.9480650929325,344.0470174928046 358.95782165344855,335.4687848963189 358.4576342125331,330.74519383400724 296.3659483665557,337.32016635718503 " fill="white"></polyline>
+                <defs>
+                    <linearGradient id="69b0d82841461" x1="100%" y1="0%" x2="0%" y2="0%" gradientTransform="rotate(6.012086877580102)">
+                    <stop offset="0%" stop-color="#00cc00" stop-opacity="1"></stop>
+                    <stop offset="100%" stop-color="#006600" stop-opacity="1"></stop>
+                    </linearGradient>
+                </defs>
+                <polyline stroke="black" stroke-width="0.5" points="358.73553725232256,335.7437206070149 360.19912140253746,349.56528517537544 365.1713225207602,349.0387720796749 360.9592177551562,309.2611631338927 355.98701663693345,309.7876762295932 358.182698501837,330.5229094328811 " fill="white"></polyline>
+            <circle class=" rcircle" cx="376" cy="331" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="368" title="" original_title="I368
+7.51x51" original_cx="376" original_cy="331" data-original-title="I368
+7.51x51"></circle>
+            <text x="376" y="333" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="368t" class="rtext " title="" original_title="I368
+7.51x51" original_x="376" original_y="333" data-original-title="I368
+7.51x51"> I </text>
+            
+            <circle class=" rcircle" cx="352" cy="251" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="367" title="" original_title="P367
+7.50x50" original_cx="352" original_cy="251" data-original-title="P367
+7.50x50"></circle>
+            <text x="352" y="253" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="367t" class="rtext " title="" original_title="P367
+7.50x50" original_x="352" original_y="253" data-original-title="P367
+7.50x50"> P </text>
+            
+            <circle class=" rcircle" cx="272" cy="275" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="366" title="" original_title="N366
+7.49x49" original_cx="272" original_cy="275" data-original-title="N366
+7.49x49"></circle>
+            <text x="272" y="277" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="366t" class="rtext " title="" original_title="N366
+7.49x49" original_x="272" original_y="277" data-original-title="N366
+7.49x49"> N </text>
+            
+            <circle class=" rcircle" cx="296" cy="355" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="365" title="" original_title="V365
+7.48x48" original_cx="296" original_cy="355" data-original-title="V365
+7.48x48"></circle>
+            <text x="296" y="357" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="365t" class="rtext " title="" original_title="V365
+7.48x48" original_x="296" original_y="357" data-original-title="V365
+7.48x48"> V </text>
+            
+            <circle class=" rcircle" cx="375" cy="315" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="364" title="" original_title="C364
+7.47x47" original_cx="375" original_cy="315" data-original-title="C364
+7.47x47"></circle>
+            <text x="375" y="317" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="364t" class="rtext " title="" original_title="C364
+7.47x47" original_x="375" original_y="317" data-original-title="C364
+7.47x47"> C </text>
+            
+            <circle class=" rcircle" cx="336" cy="252" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="363" title="" original_title="S363
+7.46x46" original_cx="336" original_cy="252" data-original-title="S363
+7.46x46"></circle>
+            <text x="336" y="254" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="363t" class="rtext " title="" original_title="S363
+7.46x46" original_x="336" original_y="254" data-original-title="S363
+7.46x46"> S </text>
+            
+            <circle class=" rcircle" cx="273" cy="291" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="362" title="" original_title="S362
+7.45x45" original_cx="273" original_cy="291" data-original-title="S362
+7.45x45"></circle>
+            <text x="273" y="293" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="362t" class="rtext " title="" original_title="S362
+7.45x45" original_x="273" original_y="293" data-original-title="S362
+7.45x45"> S </text>
+            
+            <circle class=" rcircle" cx="373" cy="298" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="361" title="" original_title="T361
+7.44x43" original_cx="373" original_cy="298" data-original-title="T361
+7.44x43"></circle>
+            <text x="373" y="300" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="361t" class="rtext " title="" original_title="T361
+7.44x43" original_x="373" original_y="300" data-original-title="T361
+7.44x43"> T </text>
+            
+            <circle class=" rcircle" cx="319" cy="254" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="360" title="" original_title="Y360
+7.43x42" original_cx="319" original_cy="254" data-original-title="Y360
+7.43x42
+3 interactions | Type: polar (hydrogen bond),polar (hydrogen bond),Van der Waals" style="fill: rgb(230, 10, 10);"></circle>
+            <text x="319" y="256" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="360t" class="rtext " title="" original_title="Y360
+7.43x42" original_x="319" original_y="256" data-original-title="Y360
+7.43x42
+3 interactions | Type: polar (hydrogen bond),polar (hydrogen bond),Van der Waals" style="fill: rgb(253, 255, 123);"> Y </text>
+            
+            <circle class=" rcircle" cx="275" cy="308" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="359" title="" original_title="S359
+7.42x41" original_cx="275" original_cy="308" data-original-title="S359
+7.42x41"></circle>
+            <text x="275" y="310" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="359t" class="rtext " title="" original_title="S359
+7.42x41" original_x="275" original_y="310" data-original-title="S359
+7.42x41"> S </text>
+            
+            <circle class=" rcircle" cx="329" cy="352" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="358" title="" original_title="L358
+7.41x40" original_cx="329" original_cy="352" data-original-title="L358
+7.41x40"></circle>
+            <text x="329" y="354" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="358t" class="rtext " title="" original_title="L358
+7.41x40" original_x="329" original_y="354" data-original-title="L358
+7.41x40"> L </text>
+            
+            <circle class=" rcircle" cx="372" cy="281" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="357" title="" original_title="L357
+7.40x39" original_cx="372" original_cy="281" data-original-title="L357
+7.40x39"></circle>
+            <text x="372" y="283" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="357t" class="rtext " title="" original_title="L357
+7.40x39" original_x="372" original_y="283" data-original-title="L357
+7.40x39"> L </text>
+            
+            <circle class=" rcircle" cx="302" cy="255" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="356" title="" original_title="L356
+7.39x38" original_cx="302" original_cy="255" data-original-title="L356
+7.39x38
+1 interactions | Type: Van der Waals" style="fill: rgb(230, 10, 10);"></circle>
+            <text x="302" y="257" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="356t" class="rtext " title="" original_title="L356
+7.39x38" original_x="302" original_y="257" data-original-title="L356
+7.39x38
+1 interactions | Type: Van der Waals" style="fill: rgb(253, 255, 123);"> L </text>
+            
+            <circle class=" rcircle" cx="276" cy="325" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="355" title="" original_title="I355
+7.38x37" original_cx="276" original_cy="325" data-original-title="I355
+7.38x37"></circle>
+            <text x="276" y="327" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="355t" class="rtext " title="" original_title="I355
+7.38x37" original_x="276" original_y="327" data-original-title="I355
+7.38x37"> I </text>
+            
+            <circle class=" rcircle" cx="346" cy="351" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="354" title="" original_title="F354
+7.37x36" original_cx="346" original_cy="351" data-original-title="F354
+7.37x36"></circle>
+            <text x="346" y="353" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="354t" class="rtext " title="" original_title="F354
+7.37x36" original_x="346" original_y="353" data-original-title="F354
+7.37x36"> F </text>
+            
+            <circle class=" rcircle" cx="370" cy="264" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="353" title="" original_title="S353
+7.36x35" original_cx="370" original_cy="264" data-original-title="S353
+7.36x35"></circle>
+            <text x="370" y="266" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="353t" class="rtext " title="" original_title="S353
+7.36x35" original_x="370" original_y="266" data-original-title="S353
+7.36x35"> S </text>
+            
+            <circle class=" rcircle" cx="285" cy="257" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="352" title="" original_title="I352
+7.35x34" original_cx="285" original_cy="257" data-original-title="I352
+7.35x34
+2 interactions | Type: hydrophobic,Van der Waals" style="fill: rgb(230, 10, 10);"></circle>
+            <text x="285" y="259" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="352t" class="rtext " title="" original_title="I352
+7.35x34" original_x="285" original_y="259" data-original-title="I352
+7.35x34
+2 interactions | Type: hydrophobic,Van der Waals" style="fill: rgb(253, 255, 123);"> I </text>
+            
+            <circle class=" rcircle" cx="278" cy="342" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="351" title="" original_title="P351
+7.34x33" original_cx="278" original_cy="342" data-original-title="P351
+7.34x33"></circle>
+            <text x="278" y="344" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="351t" class="rtext " title="" original_title="P351
+7.34x33" original_x="278" original_y="344" data-original-title="P351
+7.34x33"> P </text>
+            
+            <circle class=" rcircle" cx="363" cy="349" r="12" stroke="black" stroke-width="2" fill="white" fill-opacity="1" id="350" title="" original_title="T350
+7.33x32" original_cx="363" original_cy="349" data-original-title="T350
+7.33x32"></circle>
+            <text x="363" y="351" text-anchor="middle" dominant-baseline="middle" font-family="helvetica" font-size="16" fill="" id="350t" class="rtext " title="" original_title="T350
+7.33x32" original_x="363" original_y="351" data-original-title="T350
+7.33x32"> T </text>
+            <text x="324" y="310" text-anchor="middle" font-family="helvetica" font-size="20" data-original-title="" title="">7</text>
+</svg>

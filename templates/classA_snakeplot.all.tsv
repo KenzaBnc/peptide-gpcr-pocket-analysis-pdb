@@ -1,0 +1,983 @@
+tag	id	text	class	style	fill	stroke	x	y	cx	cy	r	d	transform
+svg	snakeplot			stroke-width: 0px; background-color: white;									
+defs													
+style		"@font-face { font-family: ""Glyphicons Halflings""; src: url(""../fonts/glyphicons-halflings-regular.woff2"") format(""woff2""), url(""../fonts/glyphicons-halflings-regular.woff"") format(""woff""), url(""../fonts/glyphicons-halflings-regular.ttf"") format(""truetype""); } * { box-sizing: border-box; } rect.segment { cursor: pointer; } text.segment { cursor: pointer; } @font-face { src: url(""fonts/fpicons.woff?yg5dv7"") format(""woff""), url(""fonts/fpicons.ttf?yg5dv7"") format(""truetype""); font-weight: normal; font-style: normal; }"											
+g	snake												translate(0,50)
+path					none	black						M 671 258 Q641 289 714 289	
+path			ICL1 short		none	black						M 43 295 Q93.0 425 143 295	
+rect			ICL1 short segment		white	black	75.0	347.0					
+text		ICL1	ICL1 short segment				93.0	360.0					
+path			ICL1 long	display: none;	none	black						M 43 295 Q13 319 88 319	
+path			ICL1 long	display: none;	none	black						M 143 295 Q173 326 115 326	
+path			ICL1 long	display: none;	none	grey						M 76 357 Q86 407, 98 339 T115 326	
+circle	70		ICL1 long rcircle	display: none;	white	black			88	319	12		
+text	70t	K	rtext ICL1 long	display: none;			88	321					
+circle	71		ICL1 long rcircle	display: none;	white	black			82	338	12		
+text	71t	R	rtext ICL1 long	display: none;			82	340					
+circle	72		ICL1 long rcircle	display: none;	white	black			76	357	12		
+text	72t	M	rtext ICL1 long	display: none;			76	359					
+circle	73		ICL1 long rcircle	display: none;	white	black			115	326	12		
+text	73t	R	rtext ICL1 long	display: none;			115	328					
+rect			ICL1 long segment	display: none;	white	black	75.0	374					
+text		ICL1	ICL1 long segment	display: none;			93.0	387					
+path			ECL1 short		none	black						M 181 53 Q231.0 -77 281 53	
+rect			ECL1 short segment		white	black	213.0	-25.0					
+text		ECL1	ECL1 short segment				231.0	-12.0					
+path	path_ECL1		ECL1 long	display: none;	none	black						M 181,53 C180.99923503171203,2.9992350317120375 281.00076496828797,2.9992350317120375 281,53	
+circle	106		ECL1 long rcircle	display: none; fill: rgb(230, 10, 10);	white	black			202	22	11		
+text	106t	D	rtext ECL1 long	display: none; fill: rgb(253, 255, 123);			202	24					
+circle	107		ECL1 long rcircle	display: none;	white	black			219	16	11		
+text	107t	F	rtext ECL1 long	display: none;			219	18					
+circle	108		ECL1 long rcircle	display: none;	white	black			237	16	11		
+text	108t	I	rtext ECL1 long	display: none;			237	18					
+circle	109		ECL1 long rcircle	display: none;	white	black			254	19	11		
+text	109t	F	rtext ECL1 long	display: none;			254	21					
+rect			ECL1 long segment	display: none;	white	black	218.83818067838197	-17.27242023566567					
+text		ECL1	ECL1 long segment	display: none;			236.83818067838197	-4.27242023566567					
+path			ICL2 short		none	black						M 281 341 Q306.5 471 332 270	
+rect			ICL2 short segment		white	black	288.5	375.25					
+text		ICL2	ICL2 short segment				306.5	388.25					
+path			ICL2 long	display: none;	none	black						M 281 341 Q251 372 324 372	
+path			ICL2 long	display: none;	none	black						M 332 270 Q362 372 382 372	
+path			ICL2 long	display: none;	none	grey						M 312 410 Q317 460, 335 385 T355 365	
+path			ICL2 long	display: none;	none	grey						M 337 423 Q342 473, 362 392 T382 372	
+circle	146		ICL2 long rcircle	display: none;	white	black			324	372	12		
+text	146t	P	rtext ICL2 long	display: none;			324	374					
+circle	147		ICL2 long rcircle	display: none;	white	black			318	391	12		
+text	147t	L	rtext ICL2 long	display: none;			318	393					
+circle	148		ICL2 long rcircle	display: none;	white	black			312	410	12		
+text	148t	Q	rtext ICL2 long	display: none;			312	412					
+circle	149		ICL2 long rcircle	display: none;	white	black			355	365	12		
+text	149t	S	rtext ICL2 long	display: none;			355	367					
+circle	150		ICL2 long rcircle	display: none;	white	black			349	384	12		
+text	150t	R	rtext ICL2 long	display: none;			349	386					
+circle	151		ICL2 long rcircle	display: none;	white	black			343	403	12		
+text	151t	V	rtext ICL2 long	display: none;			343	405					
+circle	152		ICL2 long rcircle	display: none;	white	black			337	423	12		
+text	152t	W	rtext ICL2 long	display: none;			337	425					
+circle	153		ICL2 long rcircle	display: none;	white	black			382	372	12		
+text	153t	Q	rtext ICL2 long	display: none;			382	374					
+rect			ICL2 long segment	display: none;	white	black	288.5	440					
+text		ICL2	ICL2 long segment	display: none;			306.5	453					
+path			ECL2 short		none	black						M 381 53 Q431.0 -77 481 53	
+rect			ECL2 short segment		white	black	413.0	-25.0					
+text		ECL2	ECL2 short segment				431.0	-12.0					
+path	path_ECL2		ECL2 long	display: none;	none	black						M 381,53 C222.8313349006319,-155.1686650993681 639.1686650993681,-155.1686650993681 481,53	
+circle	181		ECL2 long rcircle	display: none;	white	black			361	23	11		
+text	181t	N	rtext ECL2 long	display: none;			361	25					
+circle	182		ECL2 long rcircle	display: none;	white	black			353	7	11		
+text	182t	L	rtext ECL2 long	display: none;			353	9					
+circle	183		ECL2 long rcircle	display: none;	white	black			347	-11	11		
+text	183t	V	rtext ECL2 long	display: none;			347	-9					
+circle	184		ECL2 long rcircle	display: none;	white	black			345	-28	11		
+text	184t	P	rtext ECL2 long	display: none;			345	-26					
+circle	185		ECL2 long rcircle	display: none;	white	black			346	-46	11		
+text	185t	F	rtext ECL2 long	display: none;			346	-44					
+circle	186		ECL2 long rcircle	display: none;	white	black			352	-63	11		
+text	186t	T	rtext ECL2 long	display: none;			352	-61					
+circle	187		ECL2 long rcircle	display: none;	white	black			362	-78	11		
+text	187t	K	rtext ECL2 long	display: none;			362	-76					
+circle	188		ECL2 long rcircle	display: none;	white	black			376	-89	11		
+text	188t	N	rtext ECL2 long	display: none;			376	-87					
+circle	189		ECL2 long rcircle	display: none;	white	black			392	-97	11		
+text	189t	N	rtext ECL2 long	display: none;			392	-95					
+circle	190		ECL2 long rcircle	display: none;	white	black			410	-101	11		
+text	190t	N	rtext ECL2 long	display: none;			410	-99					
+circle	191		ECL2 long rcircle	display: none;	white	black			428	-103	11		
+text	191t	Q	rtext ECL2 long	display: none;			428	-101					
+circle	192		ECL2 long rcircle	display: none;	white	black			446	-102	11		
+text	192t	T	rtext ECL2 long	display: none;			446	-100					
+circle	193		ECL2 long rcircle	display: none;	white	black			463	-99	11		
+text	193t	A	rtext ECL2 long	display: none;			463	-97					
+circle	194		ECL2 long rcircle	display: none;	white	black			480	-92	11		
+text	194t	N	rtext ECL2 long	display: none;			480	-90					
+circle	195		ECL2 long rcircle	display: none;	white	black			495	-82	11		
+text	195t	M	rtext ECL2 long	display: none;			495	-80					
+circle	196		ECL2 long rcircle	display: none; fill: rgb(230, 10, 10);	white	black			507	-69	11		
+text	196t	C	rtext ECL2 long	display: none; fill: rgb(253, 255, 123);			507	-67					
+circle	197		ECL2 long rcircle	display: none; fill: rgb(230, 10, 10);	white	black			515	-53	11		
+text	197t	R	rtext ECL2 long	display: none; fill: rgb(253, 255, 123);			515	-51					
+circle	198		ECL2 long rcircle	display: none; fill: rgb(230, 10, 10);	white	black			518	-35	11		
+text	198t	F	rtext ECL2 long	display: none; fill: rgb(253, 255, 123);			518	-33					
+circle	199		ECL2 long rcircle	display: none;	white	black			516	-17	11		
+text	199t	L	rtext ECL2 long	display: none;			516	-15					
+circle	200		ECL2 long rcircle	display: none;	white	black			511	0	11		
+text	200t	L	rtext ECL2 long	display: none;			511	2					
+circle	201		ECL2 long rcircle	display: none;	white	black			504	17	11		
+text	201t	P	rtext ECL2 long	display: none;			504	19					
+rect			ECL2 long segment	display: none;	white	black	409.51556065089983	-136.07591383890696					
+text		ECL2	ECL2 long segment	display: none;			427.51556065089983	-123.07591383890694					
+path			ICL3 short		none	black						M 471 402 Q530.5 532 590 367	
+rect			ICL3 short segment		white	black	512.5	445.25					
+text		ICL3	ICL3 short segment				530.5	458.25					
+path	path_ICL3_first		ICL3 long	display: none;	none	black						M 471 402 Q531 503 342.00000000000006 503	
+circle	246		ICL3 long rcircle	display: none;	white	black			483	459	11		
+text	246t	Q	rtext ICL3 long	display: none;			483	461					
+circle	247		ICL3 long rcircle	display: none;	white	black			472	475	11		
+text	247t	K	rtext ICL3 long	display: none;			472	477					
+circle	248		ICL3 long rcircle	display: none;	white	black			456	485	11		
+text	248t	K	rtext ICL3 long	display: none;			456	487					
+circle	249		ICL3 long rcircle	display: none;	white	black			439	492	11		
+text	249t	S	rtext ICL3 long	display: none;			439	494					
+circle	250		ICL3 long rcircle	display: none;	white	black			420	497	11		
+text	250t	A	rtext ICL3 long	display: none;			420	499					
+circle	251		ICL3 long rcircle	display: none;	white	black			401	500	11		
+text	251t	K	rtext ICL3 long	display: none;			401	502					
+circle	252		ICL3 long rcircle	display: none;	white	black			382	502	11		
+text	252t	E	rtext ICL3 long	display: none;			382	504					
+circle	253		ICL3 long rcircle	display: none;	white	black			362	503	11		
+text	253t	R	rtext ICL3 long	display: none;			362	505					
+circle	254		ICL3 long rcircle	display: none;	white	black			343	503	11		
+text	254t	K	rtext ICL3 long	display: none;			343	505					
+circle	255		ICL3 long rcircle	display: none;	white	black			325	518	11		
+text	255t	P	rtext ICL3 long	display: none;			325	520					
+circle	256		ICL3 long rcircle	display: none;	white	black			343	534	11		
+text	256t	S	rtext ICL3 long	display: none;			343	536					
+circle	257		ICL3 long rcircle	display: none;	white	black			361	534	11		
+text	257t	T	rtext ICL3 long	display: none;			361	536					
+circle	258		ICL3 long rcircle	display: none;	white	black			379	534	11		
+text	258t	T	rtext ICL3 long	display: none;			379	536					
+circle	259		ICL3 long rcircle	display: none;	white	black			397	534	11		
+text	259t	S	rtext ICL3 long	display: none;			397	536					
+circle	260		ICL3 long rcircle	display: none;	white	black			415	534	11		
+text	260t	S	rtext ICL3 long	display: none;			415	536					
+circle	261		ICL3 long rcircle	display: none;	white	black			433	534	11		
+text	261t	G	rtext ICL3 long	display: none;			433	536					
+circle	262		ICL3 long rcircle	display: none;	white	black			451	534	11		
+text	262t	K	rtext ICL3 long	display: none;			451	536					
+circle	263		ICL3 long rcircle	display: none;	white	black			469	534	11		
+text	263t	Y	rtext ICL3 long	display: none;			469	536					
+circle	264		ICL3 long rcircle	display: none;	white	black			487	534	11		
+text	264t	E	rtext ICL3 long	display: none;			487	536					
+circle	265		ICL3 long rcircle	display: none;	white	black			505	534	11		
+text	265t	D	rtext ICL3 long	display: none;			505	536					
+circle	266		ICL3 long rcircle	display: none;	white	black			523	534	11		
+text	266t	S	rtext ICL3 long	display: none;			523	536					
+circle	267		ICL3 long rcircle	display: none;	white	black			541	549	11		
+text	267t	D	rtext ICL3 long	display: none;			541	551					
+circle	268		ICL3 long rcircle	display: none;	white	black			523	564	11		
+text	268t	G	rtext ICL3 long	display: none;			523	566					
+circle	269		ICL3 long rcircle	display: none;	white	black			505	564	11		
+text	269t	C	rtext ICL3 long	display: none;			505	566					
+circle	270		ICL3 long rcircle	display: none;	white	black			487	564	11		
+text	270t	Y	rtext ICL3 long	display: none;			487	566					
+circle	271		ICL3 long rcircle	display: none;	white	black			469	564	11		
+text	271t	L	rtext ICL3 long	display: none;			469	566					
+circle	272		ICL3 long rcircle	display: none;	white	black			451	564	11		
+text	272t	Q	rtext ICL3 long	display: none;			451	566					
+circle	273		ICL3 long rcircle	display: none;	white	black			433	564	11		
+text	273t	K	rtext ICL3 long	display: none;			433	566					
+circle	274		ICL3 long rcircle	display: none;	white	black			415	564	11		
+text	274t	T	rtext ICL3 long	display: none;			415	566					
+circle	275		ICL3 long rcircle	display: none;	white	black			397	564	11		
+text	275t	R	rtext ICL3 long	display: none;			397	566					
+circle	276		ICL3 long rcircle	display: none;	white	black			379	564	11		
+text	276t	P	rtext ICL3 long	display: none;			379	566					
+circle	277		ICL3 long rcircle	display: none;	white	black			361	564	11		
+text	277t	P	rtext ICL3 long	display: none;			361	566					
+circle	278		ICL3 long rcircle	display: none;	white	black			343	564	11		
+text	278t	R	rtext ICL3 long	display: none;			343	566					
+circle	279		ICL3 long rcircle	display: none;	white	black			325	580	11		
+text	279t	K	rtext ICL3 long	display: none;			325	582					
+circle	280		ICL3 long rcircle	display: none;	white	black			343	595	11		
+text	280t	L	rtext ICL3 long	display: none;			343	597					
+circle	281		ICL3 long rcircle	display: none;	white	black			361	595	11		
+text	281t	E	rtext ICL3 long	display: none;			361	597					
+circle	282		ICL3 long rcircle	display: none;	white	black			379	595	11		
+text	282t	L	rtext ICL3 long	display: none;			379	597					
+circle	283		ICL3 long rcircle	display: none;	white	black			397	595	11		
+text	283t	R	rtext ICL3 long	display: none;			397	597					
+circle	284		ICL3 long rcircle	display: none;	white	black			415	595	11		
+text	284t	Q	rtext ICL3 long	display: none;			415	597					
+circle	285		ICL3 long rcircle	display: none;	white	black			433	595	11		
+text	285t	L	rtext ICL3 long	display: none;			433	597					
+circle	286		ICL3 long rcircle	display: none;	white	black			451	595	11		
+text	286t	S	rtext ICL3 long	display: none;			451	597					
+circle	287		ICL3 long rcircle	display: none;	white	black			469	595	11		
+text	287t	T	rtext ICL3 long	display: none;			469	597					
+circle	288		ICL3 long rcircle	display: none;	white	black			487	595	11		
+text	288t	G	rtext ICL3 long	display: none;			487	597					
+circle	289		ICL3 long rcircle	display: none;	white	black			505	595	11		
+text	289t	S	rtext ICL3 long	display: none;			505	597					
+circle	290		ICL3 long rcircle	display: none;	white	black			523	595	11		
+text	290t	S	rtext ICL3 long	display: none;			523	597					
+path	path_ICL3_end		ICL3 long	display: none;	none	black						M 541.1317589999998 594.8 Q640 594.8 590 367	
+circle	291		ICL3 long rcircle	display: none;	white	black			541	595	11		
+text	291t	S	rtext ICL3 long	display: none;			541	597					
+circle	292		ICL3 long rcircle	display: none;	white	black			559	593	11		
+text	292t	R	rtext ICL3 long	display: none;			559	595					
+circle	293		ICL3 long rcircle	display: none;	white	black			575	585	11		
+text	293t	A	rtext ICL3 long	display: none;			575	587					
+circle	294		ICL3 long rcircle	display: none;	white	black			588	573	11		
+text	294t	N	rtext ICL3 long	display: none;			588	575					
+circle	295		ICL3 long rcircle	display: none;	white	black			597	557	11		
+text	295t	R	rtext ICL3 long	display: none;			597	559					
+circle	296		ICL3 long rcircle	display: none;	white	black			602	540	11		
+text	296t	I	rtext ICL3 long	display: none;			602	542					
+circle	297		ICL3 long rcircle	display: none;	white	black			605	522	11		
+text	297t	R	rtext ICL3 long	display: none;			605	524					
+circle	298		ICL3 long rcircle	display: none;	white	black			607	504	11		
+text	298t	S	rtext ICL3 long	display: none;			607	506					
+circle	299		ICL3 long rcircle	display: none;	white	black			607	486	11		
+text	299t	N	rtext ICL3 long	display: none;			607	488					
+circle	300		ICL3 long rcircle	display: none;	white	black			606	468	11		
+text	300t	S	rtext ICL3 long	display: none;			606	470					
+rect			ICL3 long segment	display: none;	white	black	512.5	617.4					
+text		ICL3	ICL3 long segment	display: none;			530.5	630.4					
+path			ECL3 short		none	black						M 581 53 Q631.0 -77 681 53	
+rect			ECL3 short segment		white	black	613.0	-25.0					
+text		ECL3	ECL3 short segment				631.0	-12.0					
+path	path_ECL3		ECL3 long	display: none;	none	black						M 581,53 C533.7608,-44.239200000000004 728.2392,-44.239200000000004 681,53	
+circle	340		ECL3 long rcircle	display: none;	white	black			574	19	11		
+text	340t	T	rtext ECL3 long	display: none;			574	21					
+circle	341		ECL3 long rcircle	display: none;	white	black			580	2	11		
+text	341t	A	rtext ECL3 long	display: none;			580	4					
+circle	342		ECL3 long rcircle	display: none;	white	black			594	-10	11		
+text	342t	S	rtext ECL3 long	display: none;			594	-8					
+circle	343		ECL3 long rcircle	display: none;	white	black			610	-17	11		
+text	343t	A	rtext ECL3 long	display: none;			610	-15					
+circle	344		ECL3 long rcircle	display: none;	white	black			628	-20	11		
+text	344t	E	rtext ECL3 long	display: none;			628	-18					
+circle	345		ECL3 long rcircle	display: none;	white	black			646	-19	11		
+text	345t	R	rtext ECL3 long	display: none;			646	-17					
+circle	346		ECL3 long rcircle	display: none;	white	black			663	-13	11		
+text	346t	R	rtext ECL3 long	display: none;			663	-11					
+circle	347		ECL3 long rcircle	display: none;	white	black			677	-3	11		
+text	347t	L	rtext ECL3 long	display: none;			677	-1					
+circle	348		ECL3 long rcircle	display: none;	white	black			687	12	11		
+text	348t	S	rtext ECL3 long	display: none;			687	14					
+rect			ECL3 long segment	display: none;	white	black	609.6887495938001	-52.86376354000001					
+text		ECL3	ECL3 long segment	display: none;			627.6887495938001	-39.86376354000001					
+path			N-term short		none	black						M 81 53 Q111 -7 51 -7	
+rect			N-term short segment		white	black	26	-20					
+text		N-term	N-term short segment				51	-7					
+line			N-term long	display: none;	none	black							
+circle	1		N-term long rcircle	display: none;	white	black			597	-173	11		
+text	1t	M	rtext N-term long	display: none;			597	-171					
+circle	2		N-term long rcircle	display: none;	white	black			579	-173	11		
+text	2t	D	rtext N-term long	display: none;			579	-171					
+circle	3		N-term long rcircle	display: none;	white	black			561	-173	11		
+text	3t	V	rtext N-term long	display: none;			561	-171					
+circle	4		N-term long rcircle	display: none;	white	black			543	-173	11		
+text	4t	V	rtext N-term long	display: none;			543	-171					
+circle	5		N-term long rcircle	display: none;	white	black			525	-173	11		
+text	5t	D	rtext N-term long	display: none;			525	-171					
+circle	6		N-term long rcircle	display: none;	white	black			507	-173	11		
+text	6t	S	rtext N-term long	display: none;			507	-171					
+circle	7		N-term long rcircle	display: none;	white	black			489	-173	11		
+text	7t	L	rtext N-term long	display: none;			489	-171					
+circle	8		N-term long rcircle	display: none;	white	black			471	-173	11		
+text	8t	L	rtext N-term long	display: none;			471	-171					
+circle	9		N-term long rcircle	display: none;	white	black			453	-173	11		
+text	9t	V	rtext N-term long	display: none;			453	-171					
+circle	10		N-term long rcircle	display: none;	white	black			435	-173	11		
+text	10t	N	rtext N-term long	display: none;			435	-171					
+circle	11		N-term long rcircle	display: none;	white	black			417	-173	11		
+text	11t	G	rtext N-term long	display: none;			417	-171					
+circle	12		N-term long rcircle	display: none;	white	black			399	-173	11		
+text	12t	S	rtext N-term long	display: none;			399	-171					
+circle	13		N-term long rcircle	display: none;	white	black			381	-173	11		
+text	13t	N	rtext N-term long	display: none;			381	-171					
+circle	14		N-term long rcircle	display: none;	white	black			363	-173	11		
+text	14t	I	rtext N-term long	display: none;			363	-171					
+circle	15		N-term long rcircle	display: none;	white	black			345	-173	11		
+text	15t	T	rtext N-term long	display: none;			345	-171					
+circle	16		N-term long rcircle	display: none;	white	black			327	-173	11		
+text	16t	P	rtext N-term long	display: none;			327	-171					
+circle	17		N-term long rcircle	display: none;	white	black			309	-173	11		
+text	17t	P	rtext N-term long	display: none;			309	-171					
+circle	18		N-term long rcircle	display: none;	white	black			291	-173	11		
+text	18t	C	rtext N-term long	display: none;			291	-171					
+circle	19		N-term long rcircle	display: none;	white	black			273	-173	11		
+text	19t	E	rtext N-term long	display: none;			273	-171					
+circle	20		N-term long rcircle	display: none;	white	black			255	-173	11		
+text	20t	L	rtext N-term long	display: none;			255	-171					
+circle	21		N-term long rcircle	display: none;	white	black			237	-173	11		
+text	21t	G	rtext N-term long	display: none;			237	-171					
+circle	22		N-term long rcircle	display: none;	white	black			219	-173	11		
+text	22t	L	rtext N-term long	display: none;			219	-171					
+circle	23		N-term long rcircle	display: none;	white	black			201	-173	11		
+text	23t	E	rtext N-term long	display: none;			201	-171					
+circle	24		N-term long rcircle	display: none;	white	black			183	-173	11		
+text	24t	N	rtext N-term long	display: none;			183	-171					
+circle	25		N-term long rcircle	display: none;	white	black			165	-173	11		
+text	25t	E	rtext N-term long	display: none;			165	-171					
+circle	26		N-term long rcircle	display: none;	white	black			149	-166	11		
+text	26t	T	rtext N-term long	display: none;			149	-164					
+circle	27		N-term long rcircle	display: none;	white	black			133	-157	11		
+text	27t	L	rtext N-term long	display: none;			133	-155					
+circle	28		N-term long rcircle	display: none;	white	black			118	-148	11		
+text	28t	F	rtext N-term long	display: none;			118	-146					
+circle	29		N-term long rcircle	display: none;	white	black			104	-136	11		
+text	29t	C	rtext N-term long	display: none;			104	-134					
+circle	30		N-term long rcircle	display: none;	white	black			92	-123	11		
+text	30t	L	rtext N-term long	display: none;			92	-121					
+circle	31		N-term long rcircle	display: none;	white	black			82	-108	11		
+text	31t	D	rtext N-term long	display: none;			82	-106					
+circle	32		N-term long rcircle	display: none;	white	black			74	-92	11		
+text	32t	Q	rtext N-term long	display: none;			74	-90					
+circle	33		N-term long rcircle	display: none;	white	black			68	-75	11		
+text	33t	P	rtext N-term long	display: none;			68	-73					
+circle	34		N-term long rcircle	display: none;	white	black			65	-57	11		
+text	34t	R	rtext N-term long	display: none;			65	-55					
+circle	35		N-term long rcircle	display: none;	white	black			64	-39	11		
+text	35t	P	rtext N-term long	display: none;			64	-37					
+circle	36		N-term long rcircle	display: none;	white	black			64	-21	11		
+text	36t	S	rtext N-term long	display: none;			64	-19					
+circle	37		N-term long rcircle	display: none;	white	black			67	-3	11		
+text	37t	K	rtext N-term long	display: none;			67	-1					
+circle	38		N-term long rcircle	display: none;	white	black			70	15	11		
+text	38t	E	rtext N-term long	display: none;			70	17					
+rect			N-term long segment	display: none;	white	black	96	-72.9895757379839					
+text		N-term	N-term long segment	display: none;			121	-59.9895757379839					
+path			C-term short		none	black						M 817 327 Q847 387 787 387	
+rect			C-term short segment		white	black	762	374					
+text		C-term	C-term short segment				787	387					
+line			C-term long	display: none;	none	black							
+circle	391		C-term long rcircle	display: none;	white	black			826	366	11		
+text	391t	P	rtext C-term long	display: none;			826	368					
+circle	392		C-term long rcircle	display: none;	white	black			829	384	11		
+text	392t	G	rtext C-term long	display: none;			829	386					
+circle	393		C-term long rcircle	display: none;	white	black			831	402	11		
+text	393t	P	rtext C-term long	display: none;			831	404					
+circle	394		C-term long rcircle	display: none;	white	black			833	420	11		
+text	394t	P	rtext C-term long	display: none;			833	422					
+circle	395		C-term long rcircle	display: none;	white	black			834	438	11		
+text	395t	G	rtext C-term long	display: none;			834	440					
+circle	396		C-term long rcircle	display: none;	white	black			834	456	11		
+text	396t	A	rtext C-term long	display: none;			834	458					
+circle	397		C-term long rcircle	display: none;	white	black			833	474	11		
+text	397t	R	rtext C-term long	display: none;			833	476					
+circle	398		C-term long rcircle	display: none;	white	black			831	491	11		
+text	398t	G	rtext C-term long	display: none;			831	493					
+circle	399		C-term long rcircle	display: none;	white	black			829	509	11		
+text	399t	E	rtext C-term long	display: none;			829	511					
+circle	400		C-term long rcircle	display: none;	white	black			824	527	11		
+text	400t	V	rtext C-term long	display: none;			824	529					
+circle	401		C-term long rcircle	display: none;	white	black			819	544	11		
+text	401t	G	rtext C-term long	display: none;			819	546					
+circle	402		C-term long rcircle	display: none;	white	black			813	561	11		
+text	402t	E	rtext C-term long	display: none;			813	563					
+circle	403		C-term long rcircle	display: none;	white	black			805	577	11		
+text	403t	E	rtext C-term long	display: none;			805	579					
+circle	404		C-term long rcircle	display: none;	white	black			796	593	11		
+text	404t	E	rtext C-term long	display: none;			796	595					
+circle	405		C-term long rcircle	display: none;	white	black			787	608	11		
+text	405t	E	rtext C-term long	display: none;			787	610					
+circle	406		C-term long rcircle	display: none;	white	black			775	622	11		
+text	406t	G	rtext C-term long	display: none;			775	624					
+circle	407		C-term long rcircle	display: none;	white	black			763	635	11		
+text	407t	G	rtext C-term long	display: none;			763	637					
+circle	408		C-term long rcircle	display: none;	white	black			750	648	11		
+text	408t	T	rtext C-term long	display: none;			750	650					
+circle	409		C-term long rcircle	display: none;	white	black			737	659	11		
+text	409t	T	rtext C-term long	display: none;			737	661					
+circle	410		C-term long rcircle	display: none;	white	black			719	659	11		
+text	410t	G	rtext C-term long	display: none;			719	661					
+circle	411		C-term long rcircle	display: none;	white	black			701	659	11		
+text	411t	A	rtext C-term long	display: none;			701	661					
+circle	412		C-term long rcircle	display: none;	white	black			683	659	11		
+text	412t	S	rtext C-term long	display: none;			683	661					
+circle	413		C-term long rcircle	display: none;	white	black			665	659	11		
+text	413t	L	rtext C-term long	display: none;			665	661					
+circle	414		C-term long rcircle	display: none;	white	black			647	659	11		
+text	414t	S	rtext C-term long	display: none;			647	661					
+circle	415		C-term long rcircle	display: none;	white	black			629	659	11		
+text	415t	R	rtext C-term long	display: none;			629	661					
+circle	416		C-term long rcircle	display: none;	white	black			611	659	11		
+text	416t	F	rtext C-term long	display: none;			611	661					
+circle	417		C-term long rcircle	display: none;	white	black			593	659	11		
+text	417t	S	rtext C-term long	display: none;			593	661					
+circle	418		C-term long rcircle	display: none;	white	black			575	659	11		
+text	418t	Y	rtext C-term long	display: none;			575	661					
+circle	419		C-term long rcircle	display: none;	white	black			557	659	11		
+text	419t	S	rtext C-term long	display: none;			557	661					
+circle	420		C-term long rcircle	display: none;	white	black			539	659	11		
+text	420t	H	rtext C-term long	display: none;			539	661					
+circle	421		C-term long rcircle	display: none;	white	black			521	659	11		
+text	421t	M	rtext C-term long	display: none;			521	661					
+circle	422		C-term long rcircle	display: none;	white	black			503	659	11		
+text	422t	S	rtext C-term long	display: none;			503	661					
+circle	423		C-term long rcircle	display: none;	white	black			485	659	11		
+text	423t	A	rtext C-term long	display: none;			485	661					
+circle	424		C-term long rcircle	display: none;	white	black			467	659	11		
+text	424t	S	rtext C-term long	display: none;			467	661					
+circle	425		C-term long rcircle	display: none;	white	black			449	659	11		
+text	425t	V	rtext C-term long	display: none;			449	661					
+circle	426		C-term long rcircle	display: none;	white	black			431	659	11		
+text	426t	P	rtext C-term long	display: none;			431	661					
+circle	427		C-term long rcircle	display: none;	white	black			413	659	11		
+text	427t	P	rtext C-term long	display: none;			413	661					
+circle	428		C-term long rcircle	display: none;	white	black			395	659	11		
+text	428t	Q	rtext C-term long	display: none;			395	661					
+rect			C-term long segment	display: none;	white	black	752	480.20796000000007					
+text		C-term	C-term long segment	display: none;			777	493.20796000000007					
+path	path_41		helix_path		none	grey						M 43 65 Q3 95, 66 72 T90 79	
+path	path_45		helix_path		none	grey						M 32 97 Q-8 127, 60 103 T81 111	
+path	path_48		helix_path		none	grey						M 43 123 Q3 153, 66 129 T90 136	
+path	path_52		helix_path		none	grey						M 32 154 Q-8 184, 60 160 T81 168	
+path	path_55		helix_path		none	grey						M 43 180 Q3 210, 66 187 T90 194	
+path	path_59		helix_path		none	grey						M 32 212 Q-8 242, 60 218 T81 226	
+path	path_62		helix_path		none	grey						M 43 238 Q3 268, 66 245 T90 252	
+path	path_66		helix_path		none	grey						M 32 270 Q-8 300, 60 275 T81 283	
+circle	39		TM1 rcircle		white	black			81	53	12		
+text	39t	W	rtext TM1				81	55					
+circle	40		TM1 rcircle		white	black			62	59	12		
+text	40t	Q	rtext TM1				62	61					
+circle	41		TM1 rcircle		white	black			43	65	12		
+text	41t	P	rtext TM1				43	67					
+circle	42		TM1 rcircle		white	black			90	79	12		
+text	42t	A	rtext TM1				90	81					
+circle	43		TM1 rcircle		white	black			71	85	12		
+text	43t	V	rtext TM1				71	87					
+circle	44		TM1 rcircle		white	black			52	91	12		
+text	44t	Q	rtext TM1				52	93					
+circle	45		TM1 rcircle		white	black			32	97	12		
+text	45t	I	rtext TM1				32	99					
+circle	46		TM1 rcircle		white	black			81	111	12		
+text	46t	L	rtext TM1				81	113					
+circle	47		TM1 rcircle		white	black			62	117	12		
+text	47t	L	rtext TM1				62	119					
+circle	48		TM1 rcircle		white	black			43	123	12		
+text	48t	Y	rtext TM1				43	125					
+circle	49		TM1 rcircle		white	black			90	136	12		
+text	49t	S	rtext TM1				90	138					
+circle	50		TM1 rcircle		white	black			71	142	12		
+text	50t	L	rtext TM1				71	144					
+circle	51		TM1 rcircle		white	black			52	148	12		
+text	51t	I	rtext TM1				52	150					
+circle	52		TM1 rcircle		white	black			32	154	12		
+text	52t	F	rtext TM1				32	156					
+circle	53		TM1 rcircle		white	black			81	168	12		
+text	53t	L	rtext TM1				81	170					
+circle	54		TM1 rcircle		white	black			62	174	12		
+text	54t	L	rtext TM1				62	176					
+circle	55		TM1 rcircle		white	black			43	180	12		
+text	55t	S	rtext TM1				43	182					
+circle	56		TM1 rcircle		white	black			90	194	12		
+text	56t	V	rtext TM1				90	196					
+circle	57		TM1 rcircle		white	black			71	200	12		
+text	57t	L	rtext TM1				71	202					
+circle	58		TM1 rcircle		white	black			52	206	12		
+text	58t	G	rtext TM1				52	208					
+circle	59		TM1 rcircle		white	black			32	212	12		
+text	59t	N	rtext TM1				32	214					
+circle	60		TM1 rcircle		white	black			81	226	12		
+text	60t	T	rtext TM1				81	228					
+circle	61		TM1 rcircle		white	black			62	232	12		
+text	61t	L	rtext TM1				62	234					
+circle	62		TM1 rcircle		white	black			43	238	12		
+text	62t	V	rtext TM1				43	240					
+circle	63		TM1 rcircle		white	black			90	252	12		
+text	63t	I	rtext TM1				90	254					
+circle	64		TM1 rcircle		white	black			71	258	12		
+text	64t	T	rtext TM1				71	260					
+circle	65		TM1 rcircle		white	black			52	264	12		
+text	65t	V	rtext TM1				52	266					
+circle	66		TM1 rcircle		white	black			32	270	12		
+text	66t	L	rtext TM1				32	272					
+circle	67		TM1 rcircle		white	black			81	283	12		
+text	67t	I	rtext TM1				81	285					
+circle	68		TM1 rcircle		white	black			62	289	12		
+text	68t	R	rtext TM1				62	291					
+circle	69		TM1 rcircle		white	black			43	295	12		
+text	69t	N	rtext TM1				43	297					
+path	path_102		helix_path		none	grey						M 143 65 Q103 95, 166 72 T190 79	
+path	path_98		helix_path		none	grey						M 132 97 Q92 127, 160 103 T181 111	
+path	path_95		helix_path		none	grey						M 143 123 Q103 153, 166 129 T190 136	
+path	path_90		helix_path		none	grey						M 120 157 Q80 187, 160 160 T181 168	
+path	path_87		helix_path		none	grey						M 143 180 Q103 210, 166 187 T190 194	
+path	path_83		helix_path		none	grey						M 132 212 Q92 242, 160 218 T181 226	
+path	path_80		helix_path		none	grey						M 143 238 Q103 268, 166 245 T190 252	
+path	path_76		helix_path		none	grey						M 132 270 Q92 300, 160 275 T181 283	
+circle	74		TM2 rcircle		white	black			143	295	12		
+text	74t	T	rtext TM2				143	297					
+circle	75		TM2 rcircle		white	black			162	289	12		
+text	75t	V	rtext TM2				162	291					
+circle	76		TM2 rcircle		white	black			181	283	12		
+text	76t	T	rtext TM2				181	285					
+circle	77		TM2 rcircle		white	black			132	270	12		
+text	77t	N	rtext TM2				132	272					
+circle	78		TM2 rcircle		white	black			152	264	12		
+text	78t	I	rtext TM2				152	266					
+circle	79		TM2 rcircle		white	black			171	258	12		
+text	79t	F	rtext TM2				171	260					
+circle	80		TM2 rcircle		white	black			190	252	12		
+text	80t	L	rtext TM2				190	254					
+circle	81		TM2 rcircle		white	black			143	238	12		
+text	81t	L	rtext TM2				143	240					
+circle	82		TM2 rcircle		white	black			162	232	12		
+text	82t	S	rtext TM2				162	234					
+circle	83		TM2 rcircle		white	black			181	226	12		
+text	83t	L	rtext TM2				181	228					
+circle	84		TM2 rcircle		white	black			132	212	12		
+text	84t	A	rtext TM2				132	214					
+circle	85		TM2 rcircle		white	black			152	206	12		
+text	85t	V	rtext TM2				152	208					
+circle	86		TM2 rcircle		white	black			171	200	12		
+text	86t	S	rtext TM2				171	202					
+circle	87		TM2 rcircle		white	black			190	194	12		
+text	87t	D	rtext TM2				190	196					
+circle	88		TM2 rcircle		white	black			143	180	12		
+text	88t	L	rtext TM2				143	182					
+circle	89		TM2 rcircle		white	black			162	174	12		
+text	89t	M	rtext TM2				162	176					
+circle	90		TM2 rcircle		white	black			181	168	12		
+text	90t	L	rtext TM2				181	170					
+circle	91		TM2 rcircle		white	black			120	157	12		
+text	91t	C	rtext TM2				120	159					
+circle	92		TM2 rcircle		white	black			139	151	12		
+text	92t	L	rtext TM2				139	153					
+circle	93		TM2 rcircle		white	black			157	153	12		
+text	93t	F	rtext TM2				157	155					
+circle	94		TM2 rcircle	fill: rgb(230, 10, 10);	white	black			171	142	12		
+text	94t	C	rtext TM2	fill: rgb(253, 255, 123);			171	144					
+circle	95		TM2 rcircle		white	black			190	136	12		
+text	95t	M	rtext TM2				190	138					
+circle	96		TM2 rcircle		white	black			143	123	12		
+text	96t	P	rtext TM2				143	125					
+circle	97		TM2 rcircle		white	black			162	117	12		
+text	97t	F	rtext TM2				162	119					
+circle	98		TM2 rcircle	fill: rgb(230, 10, 10);	white	black			181	111	12		
+text	98t	N	rtext TM2	fill: rgb(253, 255, 123);			181	113					
+circle	99		TM2 rcircle		white	black			132	97	12		
+text	99t	L	rtext TM2				132	99					
+circle	100		TM2 rcircle		white	black			152	91	12		
+text	100t	I	rtext TM2				152	93					
+circle	101		TM2 rcircle	fill: rgb(230, 10, 10);	white	black			171	85	12		
+text	101t	P	rtext TM2	fill: rgb(253, 255, 123);			171	87					
+circle	102		TM2 rcircle	fill: rgb(230, 10, 10);	white	black			190	79	12		
+text	102t	N	rtext TM2	fill: rgb(253, 255, 123);			190	81					
+circle	103		TM2 rcircle		white	black			143	65	12		
+text	103t	L	rtext TM2				143	67					
+circle	104		TM2 rcircle		white	black			162	59	12		
+text	104t	L	rtext TM2				162	61					
+circle	105		TM2 rcircle		white	black			181	53	12		
+text	105t	K	rtext TM2				181	55					
+path	path_112		helix_path		none	grey						M 243 65 Q203 95, 266 72 T290 79	
+path	path_116		helix_path		none	grey						M 232 97 Q192 127, 260 103 T281 111	
+path	path_119		helix_path		none	grey						M 243 123 Q203 153, 266 129 T290 136	
+path	path_123		helix_path		none	grey						M 232 154 Q192 184, 260 160 T281 168	
+path	path_126		helix_path		none	grey						M 243 180 Q203 210, 266 187 T290 194	
+path	path_130		helix_path		none	grey						M 232 212 Q192 242, 260 218 T281 226	
+path	path_133		helix_path		none	grey						M 243 238 Q203 268, 266 245 T290 252	
+path	path_137		helix_path		none	grey						M 232 270 Q192 300, 260 275 T281 283	
+path	path_140		helix_path		none	grey						M 243 295 Q203 325, 266 302 T290 309	
+path	path_144		helix_path		none	grey						M 232 327 Q192 357, 260 333 T281 341	
+circle	110		TM3 rcircle		white	black			281	53	12		
+text	110t	G	rtext TM3				281	55					
+circle	111		TM3 rcircle		white	black			262	59	12		
+text	111t	S	rtext TM3				262	61					
+circle	112		TM3 rcircle		white	black			243	65	12		
+text	112t	A	rtext TM3				243	67					
+circle	113		TM3 rcircle		white	black			290	79	12		
+text	113t	V	rtext TM3				290	81					
+circle	114		TM3 rcircle		white	black			271	85	12		
+text	114t	C	rtext TM3				271	87					
+circle	115		TM3 rcircle		white	black			252	91	12		
+text	115t	K	rtext TM3				252	93					
+circle	116		TM3 rcircle		white	black			232	97	12		
+text	116t	T	rtext TM3				232	99					
+circle	117		TM3 rcircle		white	black			281	111	12		
+text	117t	T	rtext TM3				281	113					
+circle	118		TM3 rcircle		white	black			262	117	12		
+text	118t	T	rtext TM3				262	119					
+circle	119		TM3 rcircle		white	black			243	123	12		
+text	119t	Y	rtext TM3				243	125					
+circle	120		TM3 rcircle		white	black			290	136	12		
+text	120t	F	rtext TM3				290	138					
+circle	121		TM3 rcircle	fill: rgb(230, 10, 10);	white	black			271	142	12		
+text	121t	M	rtext TM3	fill: rgb(253, 255, 123);			271	144					
+circle	122		TM3 rcircle		white	black			252	148	12		
+text	122t	G	rtext TM3				252	150					
+circle	123		TM3 rcircle		white	black			232	154	12		
+text	123t	T	rtext TM3				232	156					
+circle	124		TM3 rcircle		white	black			281	168	12		
+text	124t	S	rtext TM3				281	170					
+circle	125		TM3 rcircle	fill: rgb(230, 10, 10);	white	black			262	174	12		
+text	125t	V	rtext TM3	fill: rgb(253, 255, 123);			262	176					
+circle	126		TM3 rcircle		white	black			243	180	12		
+text	126t	S	rtext TM3				243	182					
+circle	127		TM3 rcircle		white	black			290	194	12		
+text	127t	V	rtext TM3				290	196					
+circle	128		TM3 rcircle		white	black			271	200	12		
+text	128t	S	rtext TM3				271	202					
+circle	129		TM3 rcircle		white	black			252	206	12		
+text	129t	T	rtext TM3				252	208					
+circle	130		TM3 rcircle		white	black			232	212	12		
+text	130t	F	rtext TM3				232	214					
+circle	131		TM3 rcircle		white	black			281	226	12		
+text	131t	N	rtext TM3				281	228					
+circle	132		TM3 rcircle		white	black			262	232	12		
+text	132t	L	rtext TM3				262	234					
+circle	133		TM3 rcircle		white	black			243	238	12		
+text	133t	V	rtext TM3				243	240					
+circle	134		TM3 rcircle		white	black			290	252	12		
+text	134t	A	rtext TM3				290	254					
+circle	135		TM3 rcircle		white	black			271	258	12		
+text	135t	I	rtext TM3				271	260					
+circle	136		TM3 rcircle		white	black			252	264	12		
+text	136t	S	rtext TM3				252	266					
+circle	137		TM3 rcircle		white	black			232	270	12		
+text	137t	L	rtext TM3				232	272					
+circle	138		TM3 rcircle		white	black			281	283	12		
+text	138t	E	rtext TM3				281	285					
+circle	139		TM3 rcircle		white	black			262	289	12		
+text	139t	R	rtext TM3				262	291					
+circle	140		TM3 rcircle		white	black			243	295	12		
+text	140t	Y	rtext TM3				243	297					
+circle	141		TM3 rcircle		white	black			290	309	12		
+text	141t	G	rtext TM3				290	311					
+circle	142		TM3 rcircle		white	black			271	315	12		
+text	142t	A	rtext TM3				271	317					
+circle	143		TM3 rcircle		white	black			252	321	12		
+text	143t	I	rtext TM3				252	323					
+circle	144		TM3 rcircle		white	black			232	327	12		
+text	144t	C	rtext TM3				232	329					
+circle	145		TM3 rcircle		white	black			281	341	12		
+text	145t	K	rtext TM3				281	343					
+path	path_177		helix_path		none	grey						M 343 65 Q303 95, 366 72 T390 79	
+path	path_173		helix_path		none	grey						M 332 97 Q292 127, 341 109 T362 117	
+path	path_171		helix_path		none	grey						M 343 123 Q303 153, 366 129 T390 136	
+path	path_167		helix_path		none	grey						M 332 154 Q292 184, 360 160 T381 168	
+path	path_164		helix_path		none	grey						M 343 180 Q303 210, 366 187 T390 194	
+path	path_160		helix_path		none	grey						M 332 212 Q292 242, 360 218 T381 226	
+path	path_157		helix_path		none	grey						M 343 238 Q303 268, 366 245 T390 252	
+circle	154		TM4 rcircle		white	black			332	270	12		
+text	154t	T	rtext TM4				332	272					
+circle	155		TM4 rcircle		white	black			352	264	12		
+text	155t	K	rtext TM4				352	266					
+circle	156		TM4 rcircle		white	black			371	258	12		
+text	156t	S	rtext TM4				371	260					
+circle	157		TM4 rcircle		white	black			390	252	12		
+text	157t	H	rtext TM4				390	254					
+circle	158		TM4 rcircle		white	black			343	238	12		
+text	158t	A	rtext TM4				343	240					
+circle	159		TM4 rcircle		white	black			362	232	12		
+text	159t	L	rtext TM4				362	234					
+circle	160		TM4 rcircle		white	black			381	226	12		
+text	160t	K	rtext TM4				381	228					
+circle	161		TM4 rcircle		white	black			332	212	12		
+text	161t	V	rtext TM4				332	214					
+circle	162		TM4 rcircle		white	black			352	206	12		
+text	162t	I	rtext TM4				352	208					
+circle	163		TM4 rcircle		white	black			371	200	12		
+text	163t	A	rtext TM4				371	202					
+circle	164		TM4 rcircle		white	black			390	194	12		
+text	164t	A	rtext TM4				390	196					
+circle	165		TM4 rcircle		white	black			343	180	12		
+text	165t	T	rtext TM4				343	182					
+circle	166		TM4 rcircle		white	black			362	174	12		
+text	166t	W	rtext TM4				362	176					
+circle	167		TM4 rcircle		white	black			381	168	12		
+text	167t	C	rtext TM4				381	170					
+circle	168		TM4 rcircle		white	black			332	154	12		
+text	168t	L	rtext TM4				332	156					
+circle	169		TM4 rcircle		white	black			352	148	12		
+text	169t	S	rtext TM4				352	150					
+circle	170		TM4 rcircle		white	black			371	142	12		
+text	170t	F	rtext TM4				371	144					
+circle	171		TM4 rcircle		white	black			390	136	12		
+text	171t	T	rtext TM4				390	138					
+circle	172		TM4 rcircle		white	black			343	123	12		
+text	172t	I	rtext TM4				343	125					
+circle	173		TM4 rcircle		white	black			362	117	12		
+text	173t	M	rtext TM4				362	119					
+circle	174		TM4 rcircle		white	black			332	97	12		
+text	174t	T	rtext TM4				332	99					
+circle	175		TM4 rcircle		white	black			352	91	12		
+text	175t	P	rtext TM4				352	93					
+circle	176		TM4 rcircle	fill: rgb(230, 10, 10);	white	black			371	85	12		
+text	176t	Y	rtext TM4	fill: rgb(253, 255, 123);			371	87					
+circle	177		TM4 rcircle		white	black			390	79	12		
+text	177t	P	rtext TM4				390	81					
+circle	178		TM4 rcircle		white	black			343	65	12		
+text	178t	I	rtext TM4				343	67					
+circle	179		TM4 rcircle		white	black			362	59	12		
+text	179t	Y	rtext TM4				362	61					
+circle	180		TM4 rcircle		white	black			381	53	12		
+text	180t	S	rtext TM4				381	55					
+path	path_204		helix_path		none	grey						M 443 65 Q403 95, 466 72 T490 79	
+path	path_208		helix_path		none	grey						M 432 97 Q392 127, 460 103 T481 111	
+path	path_211		helix_path		none	grey						M 443 123 Q403 153, 466 129 T490 136	
+path	path_215		helix_path		none	grey						M 432 154 Q392 184, 460 160 T481 168	
+path	path_219		helix_path		none	grey						M 430 183 Q390 213, 460 189 T481 197	
+path	path_222		helix_path		none	grey						M 443 209 Q403 239, 466 216 T490 223	
+path	path_226		helix_path		none	grey						M 432 241 Q392 271, 460 247 T481 255	
+path	path_229		helix_path		none	grey						M 443 267 Q403 297, 466 273 T490 280	
+path	path_233		helix_path		none	grey						M 432 298 Q392 328, 460 304 T481 312	
+path	path_236		helix_path		none	grey						M 443 324 Q403 354, 466 331 T490 338	
+path	path_240		helix_path		none	grey						M 432 356 Q392 386, 460 362 T481 370	
+path	path_243		helix_path		none	grey						M 443 382 Q403 412, 466 389 T490 396	
+circle	202		TM5 rcircle		white	black			481	53	12		
+text	202t	N	rtext TM5				481	55					
+circle	203		TM5 rcircle		white	black			462	59	12		
+text	203t	D	rtext TM5				462	61					
+circle	204		TM5 rcircle		white	black			443	65	12		
+text	204t	V	rtext TM5				443	67					
+circle	205		TM5 rcircle		white	black			490	79	12		
+text	205t	M	rtext TM5				490	81					
+circle	206		TM5 rcircle		white	black			471	85	12		
+text	206t	Q	rtext TM5				471	87					
+circle	207		TM5 rcircle		white	black			452	91	12		
+text	207t	Q	rtext TM5				452	93					
+circle	208		TM5 rcircle		white	black			432	97	12		
+text	208t	S	rtext TM5				432	99					
+circle	209		TM5 rcircle		white	black			481	111	12		
+text	209t	W	rtext TM5				481	113					
+circle	210		TM5 rcircle	fill: rgb(230, 10, 10);	white	black			462	117	12		
+text	210t	H	rtext TM5	fill: rgb(253, 255, 123);			462	119					
+circle	211		TM5 rcircle		white	black			443	123	12		
+text	211t	T	rtext TM5				443	125					
+circle	212		TM5 rcircle		white	black			490	136	12		
+text	212t	F	rtext TM5				490	138					
+circle	213		TM5 rcircle		white	black			471	142	12		
+text	213t	L	rtext TM5				471	144					
+circle	214		TM5 rcircle		white	black			452	148	12		
+text	214t	L	rtext TM5				452	150					
+circle	215		TM5 rcircle		white	black			432	154	12		
+text	215t	L	rtext TM5				432	156					
+circle	216		TM5 rcircle		white	black			481	168	12		
+text	216t	I	rtext TM5				481	170					
+circle	217		TM5 rcircle	fill: rgb(230, 10, 10);	white	black			467	179	12		
+text	217t	L	rtext TM5	fill: rgb(253, 255, 123);			467	181					
+circle	218		TM5 rcircle		white	black			450	177	12		
+text	218t	F	rtext TM5				450	179					
+circle	219		TM5 rcircle		white	black			430	183	12		
+text	219t	L	rtext TM5				430	185					
+circle	220		TM5 rcircle		white	black			481	197	12		
+text	220t	I	rtext TM5				481	199					
+circle	221		TM5 rcircle		white	black			462	203	12		
+text	221t	P	rtext TM5				462	205					
+circle	222		TM5 rcircle		white	black			443	209	12		
+text	222t	G	rtext TM5				443	211					
+circle	223		TM5 rcircle		white	black			490	223	12		
+text	223t	I	rtext TM5				490	225					
+circle	224		TM5 rcircle		white	black			471	229	12		
+text	224t	V	rtext TM5				471	231					
+circle	225		TM5 rcircle		white	black			452	235	12		
+text	225t	M	rtext TM5				452	237					
+circle	226		TM5 rcircle		white	black			432	241	12		
+text	226t	M	rtext TM5				432	243					
+circle	227		TM5 rcircle		white	black			481	255	12		
+text	227t	V	rtext TM5				481	257					
+circle	228		TM5 rcircle		white	black			462	261	12		
+text	228t	A	rtext TM5				462	263					
+circle	229		TM5 rcircle		white	black			443	267	12		
+text	229t	Y	rtext TM5				443	269					
+circle	230		TM5 rcircle		white	black			490	280	12		
+text	230t	G	rtext TM5				490	282					
+circle	231		TM5 rcircle		white	black			471	286	12		
+text	231t	L	rtext TM5				471	288					
+circle	232		TM5 rcircle		white	black			452	292	12		
+text	232t	I	rtext TM5				452	294					
+circle	233		TM5 rcircle		white	black			432	298	12		
+text	233t	S	rtext TM5				432	300					
+circle	234		TM5 rcircle		white	black			481	312	12		
+text	234t	L	rtext TM5				481	314					
+circle	235		TM5 rcircle		white	black			462	318	12		
+text	235t	E	rtext TM5				462	320					
+circle	236		TM5 rcircle		white	black			443	324	12		
+text	236t	L	rtext TM5				443	326					
+circle	237		TM5 rcircle		white	black			490	338	12		
+text	237t	Y	rtext TM5				490	340					
+circle	238		TM5 rcircle		white	black			471	344	12		
+text	238t	Q	rtext TM5				471	346					
+circle	239		TM5 rcircle		white	black			452	350	12		
+text	239t	G	rtext TM5				452	352					
+circle	240		TM5 rcircle		white	black			432	356	12		
+text	240t	I	rtext TM5				432	358					
+circle	241		TM5 rcircle		white	black			481	370	12		
+text	241t	K	rtext TM5				481	372					
+circle	242		TM5 rcircle		white	black			462	376	12		
+text	242t	F	rtext TM5				462	378					
+circle	243		TM5 rcircle		white	black			443	382	12		
+text	243t	E	rtext TM5				443	384					
+circle	244		TM5 rcircle		white	black			490	396	12		
+text	244t	A	rtext TM5				490	398					
+circle	245		TM5 rcircle		white	black			471	402	12		
+text	245t	S	rtext TM5				471	404					
+path	path_336		helix_path		none	grey						M 543 65 Q503 95, 566 72 T590 79	
+path	path_332		helix_path		none	grey						M 532 97 Q492 127, 560 103 T581 111	
+path	path_329		helix_path		none	grey						M 543 123 Q503 153, 566 129 T590 136	
+path	path_325		helix_path		none	grey						M 532 154 Q492 184, 560 160 T581 168	
+path	path_322		helix_path		none	grey						M 543 180 Q503 210, 566 187 T590 194	
+path	path_318		helix_path		none	grey						M 532 212 Q492 242, 560 218 T581 226	
+path	path_315		helix_path		none	grey						M 543 238 Q503 268, 566 245 T590 252	
+path	path_311		helix_path		none	grey						M 532 270 Q492 300, 560 275 T581 283	
+path	path_308		helix_path		none	grey						M 543 295 Q503 325, 566 302 T590 309	
+path	path_304		helix_path		none	grey						M 532 327 Q492 357, 560 333 T581 341	
+path	path_301		helix_path		none	grey						M 543 353 Q503 383, 566 360 T590 367	
+circle	301		TM6 rcircle		white	black			590	367	12		
+text	301t	S	rtext TM6				590	369					
+circle	302		TM6 rcircle		white	black			543	353	12		
+text	302t	A	rtext TM6				543	355					
+circle	303		TM6 rcircle		white	black			562	347	12		
+text	303t	A	rtext TM6				562	349					
+circle	304		TM6 rcircle		white	black			581	341	12		
+text	304t	N	rtext TM6				581	343					
+circle	305		TM6 rcircle		white	black			532	327	12		
+text	305t	L	rtext TM6				532	329					
+circle	306		TM6 rcircle		white	black			552	321	12		
+text	306t	M	rtext TM6				552	323					
+circle	307		TM6 rcircle		white	black			571	315	12		
+text	307t	A	rtext TM6				571	317					
+circle	308		TM6 rcircle		white	black			590	309	12		
+text	308t	K	rtext TM6				590	311					
+circle	309		TM6 rcircle		white	black			543	295	12		
+text	309t	K	rtext TM6				543	297					
+circle	310		TM6 rcircle		white	black			562	289	12		
+text	310t	R	rtext TM6				562	291					
+circle	311		TM6 rcircle		white	black			581	283	12		
+text	311t	V	rtext TM6				581	285					
+circle	312		TM6 rcircle		white	black			532	270	12		
+text	312t	I	rtext TM6				532	272					
+circle	313		TM6 rcircle		white	black			552	264	12		
+text	313t	R	rtext TM6				552	266					
+circle	314		TM6 rcircle		white	black			571	258	12		
+text	314t	M	rtext TM6				571	260					
+circle	315		TM6 rcircle		white	black			590	252	12		
+text	315t	L	rtext TM6				590	254					
+circle	316		TM6 rcircle		white	black			543	238	12		
+text	316t	I	rtext TM6				543	240					
+circle	317		TM6 rcircle		white	black			562	232	12		
+text	317t	V	rtext TM6				562	234					
+circle	318		TM6 rcircle		white	black			581	226	12		
+text	318t	I	rtext TM6				581	228					
+circle	319		TM6 rcircle		white	black			532	212	12		
+text	319t	V	rtext TM6				532	214					
+circle	320		TM6 rcircle		white	black			552	206	12		
+text	320t	V	rtext TM6				552	208					
+circle	321		TM6 rcircle		white	black			571	200	12		
+text	321t	L	rtext TM6				571	202					
+circle	322		TM6 rcircle		white	black			590	194	12		
+text	322t	F	rtext TM6				590	196					
+circle	323		TM6 rcircle		white	black			543	180	12		
+text	323t	F	rtext TM6				543	182					
+circle	324		TM6 rcircle		white	black			562	174	12		
+text	324t	L	rtext TM6				562	176					
+circle	325		TM6 rcircle		white	black			581	168	12		
+text	325t	C	rtext TM6				581	170					
+circle	326		TM6 rcircle		white	black			532	154	12		
+text	326t	W	rtext TM6				532	156					
+circle	327		TM6 rcircle		white	black			552	148	12		
+text	327t	M	rtext TM6				552	150					
+circle	328		TM6 rcircle		white	black			571	142	12		
+text	328t	P	rtext TM6				571	144					
+circle	329		TM6 rcircle	fill: rgb(230, 10, 10);	white	black			590	136	12		
+text	329t	I	rtext TM6	fill: rgb(253, 255, 123);			590	138					
+circle	330		TM6 rcircle	fill: rgb(230, 10, 10);	white	black			543	123	12		
+text	330t	F	rtext TM6	fill: rgb(253, 255, 123);			543	125					
+circle	331		TM6 rcircle		white	black			562	117	12		
+text	331t	S	rtext TM6				562	119					
+circle	332		TM6 rcircle		white	black			581	111	12		
+text	332t	A	rtext TM6				581	113					
+circle	333		TM6 rcircle	fill: rgb(230, 10, 10);	white	black			532	97	12		
+text	333t	N	rtext TM6	fill: rgb(253, 255, 123);			532	99					
+circle	334		TM6 rcircle		white	black			552	91	12		
+text	334t	A	rtext TM6				552	93					
+circle	335		TM6 rcircle		white	black			571	85	12		
+text	335t	W	rtext TM6				571	87					
+circle	336		TM6 rcircle	fill: rgb(230, 10, 10);	white	black			590	79	12		
+text	336t	R	rtext TM6	fill: rgb(253, 255, 123);			590	81					
+circle	337		TM6 rcircle		white	black			543	65	12		
+text	337t	A	rtext TM6				543	67					
+circle	338		TM6 rcircle		white	black			562	59	12		
+text	338t	Y	rtext TM6				562	61					
+circle	339		TM6 rcircle		white	black			581	53	12		
+text	339t	D	rtext TM6				581	55					
+path	path_351		helix_path		none	grey						M 643 65 Q603 95, 666 72 T690 79	
+path	path_355		helix_path		none	grey						M 632 97 Q592 127, 660 103 T681 111	
+path	path_358		helix_path		none	grey						M 643 123 Q603 153, 666 129 T690 136	
+path	path_361		helix_path		none	grey						M 652 148 Q612 178, 669 157 T690 165	
+path	path_364		helix_path		none	grey						M 652 177 Q612 207, 666 187 T690 194	
+path	path_368		helix_path		none	grey						M 632 212 Q592 242, 660 218 T681 226	
+path	path_371		helix_path		none	grey						M 643 238 Q603 268, 666 245 T690 252	
+circle	349		TM7 rcircle		white	black			681	53	12		
+text	349t	G	rtext TM7				681	55					
+circle	350		TM7 rcircle		white	black			662	59	12		
+text	350t	T	rtext TM7				662	61					
+circle	351		TM7 rcircle		white	black			643	65	12		
+text	351t	P	rtext TM7				643	67					
+circle	352		TM7 rcircle	fill: rgb(230, 10, 10);	white	black			690	79	12		
+text	352t	I	rtext TM7	fill: rgb(253, 255, 123);			690	81					
+circle	353		TM7 rcircle		white	black			671	85	12		
+text	353t	S	rtext TM7				671	87					
+circle	354		TM7 rcircle		white	black			652	91	12		
+text	354t	F	rtext TM7				652	93					
+circle	355		TM7 rcircle		white	black			632	97	12		
+text	355t	I	rtext TM7				632	99					
+circle	356		TM7 rcircle	fill: rgb(230, 10, 10);	white	black			681	111	12		
+text	356t	L	rtext TM7	fill: rgb(253, 255, 123);			681	113					
+circle	357		TM7 rcircle		white	black			662	117	12		
+text	357t	L	rtext TM7				662	119					
+circle	358		TM7 rcircle		white	black			643	123	12		
+text	358t	L	rtext TM7				643	125					
+circle	359		TM7 rcircle		white	black			690	136	12		
+text	359t	S	rtext TM7				690	138					
+circle	360		TM7 rcircle	fill: rgb(230, 10, 10);	white	black			671	142	12		
+text	360t	Y	rtext TM7	fill: rgb(253, 255, 123);			671	144					
+circle	361		TM7 rcircle		white	black			652	148	12		
+text	361t	T	rtext TM7				652	150					
+circle	362		TM7 rcircle		white	black			690	165	12		
+text	362t	S	rtext TM7				690	167					
+circle	363		TM7 rcircle		white	black			671	171	12		
+text	363t	S	rtext TM7				671	173					
+circle	364		TM7 rcircle		white	black			652	177	12		
+text	364t	C	rtext TM7				652	179					
+circle	365		TM7 rcircle		white	black			690	194	12		
+text	365t	V	rtext TM7				690	196					
+circle	366		TM7 rcircle		white	black			671	200	12		
+text	366t	N	rtext TM7				671	202					
+circle	367		TM7 rcircle		white	black			652	206	12		
+text	367t	P	rtext TM7				652	208					
+circle	368		TM7 rcircle		white	black			632	212	12		
+text	368t	I	rtext TM7				632	214					
+circle	369		TM7 rcircle		white	black			681	226	12		
+text	369t	I	rtext TM7				681	228					
+circle	370		TM7 rcircle		white	black			662	232	12		
+text	370t	Y	rtext TM7				662	234					
+circle	371		TM7 rcircle		white	black			643	238	12		
+text	371t	C	rtext TM7				643	240					
+circle	372		TM7 rcircle		white	black			690	252	12		
+text	372t	F	rtext TM7				690	254					
+circle	373		TM7 rcircle		white	black			671	258	12		
+text	373t	M	rtext TM7				671	260					
+path					none	grey						M 702 327 Q712 377, 725 302 T745 282	
+path					none	grey						M 727 340 Q737 390, 752 309 T772 289	
+path					none	grey						M 760 327 Q770 377, 782 302 T802 282	
+path					none	grey						M 784 340 Q794 390, 809 309 T829 289	
+circle	374		H8 rcircle		white	black			714	289	12		
+text	374t	N	rtext H8				714	291					
+circle	375		H8 rcircle		white	black			708	308	12		
+text	375t	K	rtext H8				708	310					
+circle	376		H8 rcircle		white	black			702	327	12		
+text	376t	R	rtext H8				702	329					
+circle	381		H8 rcircle		white	black			772	289	12		
+text	381t	F	rtext H8				772	291					
+circle	382		H8 rcircle		white	black			766	308	12		
+text	382t	M	rtext H8				766	310					
+circle	383		H8 rcircle		white	black			760	327	12		
+text	383t	A	rtext H8				760	329					
+circle	388		H8 rcircle		white	black			829	289	12		
+text	388t	C	rtext H8				829	291					
+circle	389		H8 rcircle		white	black			823	308	12		
+text	389t	P	rtext H8				823	310					
+circle	390		H8 rcircle		white	black			817	327	12		
+text	390t	N	rtext H8				817	329					
+circle	377		H8 rcircle		white	black			745	282	12		
+text	377t	F	rtext H8				745	284					
+circle	378		H8 rcircle		white	black			739	301	12		
+text	378t	R	rtext H8				739	303					
+circle	379		H8 rcircle		white	black			733	320	12		
+text	379t	L	rtext H8				733	322					
+circle	380		H8 rcircle		white	black			727	340	12		
+text	380t	G	rtext H8				727	342					
+circle	384		H8 rcircle		white	black			802	282	12		
+text	384t	T	rtext H8				802	284					
+circle	385		H8 rcircle		white	black			796	301	12		
+text	385t	F	rtext H8				796	303					
+circle	386		H8 rcircle		white	black			790	320	12		
+text	386t	P	rtext H8				790	322					
+circle	387		H8 rcircle		white	black			784	340	12		
+text	387t	C	rtext H8				784	342					

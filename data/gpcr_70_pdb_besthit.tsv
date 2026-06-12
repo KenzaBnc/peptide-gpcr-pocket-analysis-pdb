@@ -1,0 +1,113 @@
+qseqid	pdb_seqid	pident	qcovs	bitscore	evalue	confidence	stitle
+FBpp0070327	pdb|8g05|R	27.04	49.0	130.0	3.04e-31	MEDIUM	mol:protein length:440  G-protein coupled receptor 84
+FBpp0070550	pdb|7xjl|F	37.33	73.0	192.0	9.32e-57	HIGH	mol:protein length:332  Galanin receptor type 2
+FBpp0070682	pdb|7xw9|R	34.15	28.0	68.2	9.02e-11	LOW	mol:protein length:398  Thyrotropin-releasing hormone receptor
+FBpp0070934	pdb|6tko|A	32.53	85.0	129.0	3.59e-33	HIGH	mol:protein length:328  Beta-1 adrenergic receptor
+FBpp0070976	pdb|8wma|A	34.47	74.0	304.0	1.22e-93	HIGH	mol:protein length:537  Frizzled-4
+FBpp0072171	pdb|8wz2|R	31.01	25.0	66.6	2.54e-10	LOW	mol:protein length:431  Pyroglutamylated RF-amide peptide receptor
+FBpp0072275	pdb|8ea0|A	59.53	41.0	271.0	4.94e-80	MEDIUM	mol:protein length:568  Muscarinic acetylcholine receptor M3
+FBpp0072364	pdb|2pzx|D	27.59	34.0	67.8	8.38e-12	LOW	mol:protein length:188  G-protein coupled receptor Mth
+FBpp0072470	pdb|1fjr|B	100.00	37.0	419.0	1.53e-145	LOW	mol:protein length:195  METHUSELAH ECTODOMAIN
+FBpp0072472	pdb|1fjr|B	33.33	31.0	106.0	5.09e-25	LOW	mol:protein length:195  METHUSELAH ECTODOMAIN
+FBpp0072473	pdb|1fjr|B	29.83	33.0	89.0	5.56e-19	LOW	mol:protein length:195  METHUSELAH ECTODOMAIN
+FBpp0072850	pdb|7x1t|A	25.39	64.0	80.9	5.67e-15	MEDIUM	mol:protein length:398  Thyrotropin-releasing hormone receptor
+FBpp0073193	pdb|7dhr|R	29.03	91.0	119.0	2.71e-29	MEDIUM	mol:protein length:367  Beta-2 adrenergic receptor
+FBpp0073584	pdb|9mni|R	37.36	71.0	227.0	2.82e-67	HIGH	mol:protein length:490  Calcitonin gene-related peptide type 1 receptor
+FBpp0073587	pdb|2wfh|B	31.36	9.0	70.5	5.24e-12	LOW	mol:protein length:193  SLIT HOMOLOG 2 PROTEIN C-PRODUCT
+FBpp0074089	pdb|9v0u|R	25.27	39.0	64.7	2.51e-09	LOW	mol:protein length:598  Adhesion G-protein coupled receptor D1
+FBpp0074360	pdb|8ibv|R	32.32	22.0	53.5	3.73e-06	LOW	mol:protein length:741  Soluble cytochrome b562,Motilin receptor,Soluble cytochrome b562, motilin receptor
+FBpp0074640	pdb|7yoo|R	33.24	58.0	181.0	5.58e-50	MEDIUM	mol:protein length:391  Neuropeptide Y receptor type 2
+FBpp0075752	pdb|9epr|R	32.81	62.0	173.0	5.25e-48	HIGH	mol:protein length:380  Kumopsin1
+FBpp0076119	pdb|7xw9|R	24.25	86.0	73.9	9.33e-13	MEDIUM	mol:protein length:398  Thyrotropin-releasing hormone receptor
+FBpp0076449	pdb|1fjr|B	35.02	39.0	108.0	4.23e-26	LOW	mol:protein length:195  METHUSELAH ECTODOMAIN
+FBpp0076503	pdb|2pzx|D	43.43	35.0	140.0	1.06e-37	LOW	mol:protein length:188  G-protein coupled receptor Mth
+FBpp0076796	pdb|1fjr|B	66.67	38.0	290.0	7.55e-95	LOW	mol:protein length:195  METHUSELAH ECTODOMAIN
+FBpp0076853	pdb|8jbh|B	33.63	61.0	192.0	5.79e-51	HIGH	mol:protein length:1428  NK3R-pFastbac1
+FBpp0077666	pdb|9jr0|B	34.30	61.0	454.0	6.73e-142	HIGH	mol:protein length:767  Gamma-aminobutyric acid type B receptor subunit 2
+FBpp0077788	pdb|6xbm|R	42.76	55.0	512.0	2.69e-168	MEDIUM	mol:protein length:652  Smoothened homolog
+FBpp0078034	pdb|7w57|R	34.56	68.0	195.0	1.73e-54	HIGH	mol:protein length:571  Neuromedin-U receptor 2
+FBpp0078132	pdb|6kuw|B	33.20	80.0	219.0	3.15e-63	HIGH	mol:protein length:496  Alpha-2C adrenergic receptor
+FBpp0078495	pdb|8zmf|A	45.66	34.0	159.0	1.22e-40	LOW	mol:protein length:439  5-hydroxytryptamine receptor 2C,Soluble cytochrome b562
+FBpp0078818	pdb|8irt|R	23.57	74.0	62.4	8.25e-09	MEDIUM	mol:protein length:545  Soluble cytochrome b562,D(3) dopamine receptor
+FBpp0079875	pdb|4ww3|B	34.06	82.0	195.0	9.77e-58	HIGH	mol:protein length:350  Rhodopsin
+FBpp0080183	pdb|7fih|R	33.90	47.0	349.0	1.35e-103	MEDIUM	mol:protein length:697  Lutropin-choriogonadotropic hormone receptor
+FBpp0081285	pdb|9ucp|A	31.68	37.0	160.0	6.36e-41	LOW	mol:protein length:435  M1 muscarinic acetylcholine receptor, de novo design protein
+FBpp0082213	pdb|7w57|R	33.33	47.0	179.0	2.19e-47	MEDIUM	mol:protein length:571  Neuromedin-U receptor 2
+FBpp0082214	pdb|1fjr|B	32.32	39.0	98.2	2.38e-22	LOW	mol:protein length:195  METHUSELAH ECTODOMAIN
+FBpp0082241	pdb|7w57|R	37.42	48.0	192.0	3.25e-52	MEDIUM	mol:protein length:571  Neuromedin-U receptor 2
+FBpp0082933	pdb|7fih|R	38.30	81.0	441.0	8.20e-143	HIGH	mol:protein length:697  Lutropin-choriogonadotropic hormone receptor
+FBpp0082936	pdb|9bsb|R	41.71	46.0	161.0	3.65e-41	MEDIUM	mol:protein length:588  Soluble cytochrome b562,D(2) dopamine receptor
+FBpp0082956	pdb|9iqv|B	36.75	58.0	166.0	5.88e-44	MEDIUM	mol:protein length:440  Alpha-1A adrenergic receptor,Soluble cytochrome b562
+FBpp0083111	pdb|9epr|R	51.75	97.0	375.0	1.88e-127	HIGH	mol:protein length:380  Kumopsin1
+FBpp0083266	pdb|9epr|R	53.89	99.0	382.0	1.70e-130	HIGH	mol:protein length:380  Kumopsin1
+FBpp0083284	pdb|9epr|R	38.75	91.0	249.0	2.30e-78	HIGH	mol:protein length:380  Kumopsin1
+FBpp0083455	pdb|6ko5|A	33.85	69.0	158.0	3.04e-42	HIGH	mol:protein length:424  Chimera of Soluble cytochrome b562 and Growth hormone secretagogue receptor type 1
+FBpp0083456	pdb|7x1t|A	33.02	62.0	165.0	5.98e-45	HIGH	mol:protein length:398  Thyrotropin-releasing hormone receptor
+FBpp0083497	pdb|9m1o|R	33.78	48.0	212.0	2.16e-58	MEDIUM	mol:protein length:589  Soluble cytochrome b562,Neuropeptide FF receptor 2,Neuropeptide FF receptor 2
+FBpp0083653	pdb|9m57|R	54.76	65.0	382.0	1.11e-127	HIGH	mol:protein length:425  octopamine b2 receptor
+FBpp0084273	pdb|7tmw|R	34.59	92.0	356.0	5.40e-108	HIGH	mol:protein length:984  Relaxin receptor 1, Guanine nucleotide-binding protein G(s) subunit alpha isoforms short fusion
+FBpp0084323	pdb|9bfr|B	100.00	56.0	1041.0	0.00e+00	MEDIUM	mol:protein length:505  Protein bride of sevenless
+FBpp0084685	pdb|5dhh|B	37.59	80.0	174.0	4.29e-49	HIGH	mol:protein length:424  Soluble cytochrome b562,Nociceptin receptor
+FBpp0084947	pdb|8gng|X	35.12	41.0	196.0	4.97e-55	MEDIUM	mol:protein length:333  Adenosine receptor A2a
+FBpp0085099	pdb|7x10|R	25.22	56.0	102.0	1.04e-20	MEDIUM	mol:protein length:1543  Isoform 3 of Adhesion G protein-coupled receptor L3
+FBpp0085101	pdb|7wuj|E	30.32	39.0	119.0	1.61e-26	LOW	mol:protein length:631  Adhesion G-protein coupled receptor G4,Uncharacterized protein
+FBpp0085108	pdb|8w8b|R	39.29	64.0	268.0	3.47e-81	HIGH	mol:protein length:543  Soluble cytochrome b562,5-hydroxytryptamine receptor 1A
+FBpp0086052	pdb|8y51|R	39.34	60.0	200.0	6.90e-58	HIGH	mol:protein length:399  Bombesin receptor subtype-3
+FBpp0086113	pdb|1fjr|B	59.14	35.0	234.0	1.94e-73	LOW	mol:protein length:195  METHUSELAH ECTODOMAIN
+FBpp0086614	pdb|7ts0|P	39.61	70.0	261.0	3.62e-79	HIGH	mol:protein length:560  Corticotropin-releasing factor receptor 2,Corticotropin-releasing factor receptor 2,Corticotropin-releasing factor receptor 2,Corticotropin-releasing factor receptor 2,Human corticotropin releasing factor receptor 2
+FBpp0087301	pdb|7x1t|A	24.84	75.0	70.5	9.49e-12	MEDIUM	mol:protein length:398  Thyrotropin-releasing hormone receptor
+FBpp0087618	pdb|9m1o|R	28.43	74.0	115.0	1.27e-26	MEDIUM	mol:protein length:589  Soluble cytochrome b562,Neuropeptide FF receptor 2,Neuropeptide FF receptor 2
+FBpp0088248	pdb|8trd|B	49.10	90.0	857.0	0.00e+00	HIGH	mol:protein length:921  Metabotropic glutamate receptor 3
+FBpp0088997	pdb|7t11|R	46.37	58.0	242.0	4.56e-74	MEDIUM	mol:protein length:408  Somatostatin receptor type 2,Kappa-type opioid receptor
+FBpp0089220	pdb|9u4y|R	34.90	65.0	199.0	7.93e-57	HIGH	mol:protein length:504  Beta-2 adrenergic receptor,Gonadotropin-releasing hormone receptor
+FBpp0099477	pdb|7w57|R	33.98	82.0	197.0	6.33e-56	HIGH	mol:protein length:571  Neuromedin-U receptor 2
+FBpp0111531	pdb|9jg0|R	22.84	69.0	122.0	4.57e-28	MEDIUM	mol:protein length:526  Isoform 2 of Neuropeptide FF receptor 2,Soluble cytochrome b562
+FBpp0111701	pdb|8jbh|B	40.75	56.0	267.0	1.91e-76	MEDIUM	mol:protein length:1428  NK3R-pFastbac1
+FBpp0111841	pdb|8wma|A	28.45	71.0	204.0	6.93e-57	MEDIUM	mol:protein length:537  Frizzled-4
+FBpp0111916	pdb|7mby|R	36.34	66.0	224.0	9.37e-66	HIGH	mol:protein length:427  Cholecystokinin receptor type A
+FBpp0111988	pdb|7ts0|P	40.00	74.0	263.0	2.44e-80	HIGH	mol:protein length:560  Corticotropin-releasing factor receptor 2,Corticotropin-releasing factor receptor 2,Corticotropin-releasing factor receptor 2,Corticotropin-releasing factor receptor 2,Human corticotropin releasing factor receptor 2
+FBpp0288441	pdb|5zbh|A	25.00	19.0	69.7	1.15e-10	LOW	mol:protein length:527  Neuropeptide Y receptor type 1,T4 Lysozyme,Neuropeptide Y receptor type 1
+FBpp0288773	pdb|9m57|R	56.90	27.0	272.0	1.69e-79	LOW	mol:protein length:425  octopamine b2 receptor
+FBpp0288959	pdb|9bkk|R	39.48	55.0	159.0	3.24e-41	MEDIUM	mol:protein length:427  Cholecystokinin receptor type A
+FBpp0289512	pdb|6ak3|A	28.30	48.0	61.6	6.89e-09	MEDIUM	mol:protein length:418  Prostaglandin E2 receptor EP3 subtype,Soluble cytochrome b562
+FBpp0291183	pdb|7wuj|E	23.55	36.0	66.6	7.47e-10	LOW	mol:protein length:631  Adhesion G-protein coupled receptor G4,Uncharacterized protein
+FBpp0292163	pdb|8g05|R	27.04	51.0	133.0	3.93e-32	MEDIUM	mol:protein length:440  G-protein coupled receptor 84
+FBpp0293249	pdb|1fjr|B	34.40	26.0	56.6	7.41e-08	LOW	mol:protein length:195  METHUSELAH ECTODOMAIN
+FBpp0293273	pdb|9jr0|A	99.74	92.0	1613.0	0.00e+00	HIGH	mol:protein length:780  Metabotropic GABA-B receptor subtype 1
+FBpp0293448	pdb|9vor|B	28.84	52.0	202.0	6.38e-53	MEDIUM	mol:protein length:781  Metabotropic glycine receptor
+FBpp0300637	pdb|7yoo|R	35.22	61.0	167.0	9.82e-46	HIGH	mol:protein length:391  Neuropeptide Y receptor type 2
+FBpp0300789	pdb|6niy|R	31.31	60.0	210.0	6.00e-59	HIGH	mol:protein length:474  Calcitonin receptor
+FBpp0302596	pdb|7x10|R	27.45	48.0	282.0	2.35e-75	MEDIUM	mol:protein length:1543  Isoform 3 of Adhesion G protein-coupled receptor L3
+FBpp0303062	pdb|7w7e|R	43.21	44.0	206.0	1.86e-57	MEDIUM	mol:protein length:465  Alpha-2A adrenergic receptor
+FBpp0303088	pdb|9bsb|R	29.96	89.0	213.0	2.25e-60	MEDIUM	mol:protein length:588  Soluble cytochrome b562,D(2) dopamine receptor
+FBpp0303089	pdb|9vnf|R	47.48	47.0	202.0	5.28e-56	MEDIUM	mol:protein length:549  Soluble cytochrome b562,5-hydroxytryptamine receptor 1A
+FBpp0303102	pdb|9u4y|R	30.64	47.0	147.0	1.97e-36	MEDIUM	mol:protein length:504  Beta-2 adrenergic receptor,Gonadotropin-releasing hormone receptor
+FBpp0303135	pdb|8j9n|B	48.65	87.0	523.0	1.78e-179	HIGH	mol:protein length:579  Frizzled-1
+FBpp0303153	pdb|9m57|R	53.28	58.0	399.0	1.17e-132	MEDIUM	mol:protein length:425  octopamine b2 receptor
+FBpp0303177	pdb|6wh4|C	45.00	31.0	190.0	5.81e-51	LOW	mol:protein length:448  5-hydroxytryptamine receptor 2A,Soluble cytochrome b562 fusion
+FBpp0303263	pdb|7e32|R	23.64	52.0	91.7	7.92e-18	MEDIUM	mol:protein length:516  Soluble cytochrome b562,5-hydroxytryptamine receptor 1D
+FBpp0303325	pdb|8w8b|R	36.84	50.0	252.0	3.67e-73	MEDIUM	mol:protein length:543  Soluble cytochrome b562,5-hydroxytryptamine receptor 1A
+FBpp0303330	pdb|8jbh|B	46.01	58.0	326.0	3.54e-97	MEDIUM	mol:protein length:1428  NK3R-pFastbac1
+FBpp0303451	pdb|8vy2|A	42.72	56.0	1634.0	0.00e+00	MEDIUM	mol:protein length:2232  Cadherin EGF LAG seven-pass G-type receptor 1
+FBpp0303458	pdb|9mbd|B	42.75	65.0	710.0	0.00e+00	HIGH	mol:protein length:908  Metabotropic glutamate receptor 8
+FBpp0303554	pdb|7ckx|R	40.90	54.0	231.0	3.03e-68	MEDIUM	mol:protein length:453  D(1A) dopamine receptor
+FBpp0303555	pdb|9iqv|B	51.61	28.0	135.0	1.53e-32	LOW	mol:protein length:440  Alpha-1A adrenergic receptor,Soluble cytochrome b562
+FBpp0303556	pdb|9iqv|B	51.20	33.0	135.0	7.28e-33	LOW	mol:protein length:440  Alpha-1A adrenergic receptor,Soluble cytochrome b562
+FBpp0303580	pdb|9bue|R	38.22	57.0	273.0	1.21e-83	MEDIUM	mol:protein length:462  Calcitonin receptor
+FBpp0304311	pdb|9vor|B	26.42	43.0	241.0	2.51e-65	MEDIUM	mol:protein length:781  Metabotropic glycine receptor
+FBpp0304318	pdb|7ewr|B	24.59	48.0	173.0	2.19e-42	MEDIUM	mol:protein length:1138  Probable G-protein coupled receptor 158
+FBpp0304810	pdb|1fjr|B	43.37	36.0	164.0	1.38e-46	LOW	mol:protein length:195  METHUSELAH ECTODOMAIN
+FBpp0307477	pdb|5mwb|A	34.51	6.0	57.4	1.08e-07	LOW	mol:protein length:156  Neurogenic locus notch homolog protein 2
+FBpp0308298	pdb|9jr0|B	99.35	63.0	1609.0	0.00e+00	HIGH	mol:protein length:767  Gamma-aminobutyric acid type B receptor subunit 2
+FBpp0309107	pdb|6u1n|R	22.43	78.0	96.7	7.44e-20	MEDIUM	mol:protein length:509  Muscarinic acetylcholine receptor M2, Vasopressin V2 receptor chimera
+FBpp0309197	pdb|7vh0|A	25.60	92.0	110.0	1.44e-25	MEDIUM	mol:protein length:362  Melatonin receptor type 1B
+FBpp0309261	pdb|7tmw|R	32.62	85.0	337.0	9.66e-101	HIGH	mol:protein length:984  Relaxin receptor 1, Guanine nucleotide-binding protein G(s) subunit alpha isoforms short fusion
+FBpp0309863	pdb|9bsb|R	45.18	31.0	184.0	6.84e-48	LOW	mol:protein length:588  Soluble cytochrome b562,D(2) dopamine receptor
+FBpp0311444	pdb|9m1o|R	31.20	64.0	186.0	8.05e-51	HIGH	mol:protein length:589  Soluble cytochrome b562,Neuropeptide FF receptor 2,Neuropeptide FF receptor 2
+FBpp0312429	pdb|7t11|R	42.38	53.0	260.0	8.85e-80	MEDIUM	mol:protein length:408  Somatostatin receptor type 2,Kappa-type opioid receptor
+FBpp0423126	pdb|9lwp|R	34.46	68.0	205.0	1.04e-57	HIGH	mol:protein length:612  Bombesin receptor subtype-3,Oplophorus-luciferin 2-monooxygenase catalytic subunit
+FBpp0423127	pdb|8w8b|R	47.15	33.0	202.0	9.35e-55	LOW	mol:protein length:543  Soluble cytochrome b562,5-hydroxytryptamine receptor 1A
+FBpp0428130	pdb|9m42|R	25.22	44.0	60.8	2.08e-08	MEDIUM	mol:protein length:533  Endo-1,4-beta-xylanase,Probable G-protein coupled receptor 139
+FBpp0428160	pdb|7ryc|O	29.63	60.0	148.0	5.01e-38	MEDIUM	mol:protein length:450  Oxytocin receptor
+FBpp0428299	pdb|9epr|R	49.30	96.0	362.0	1.53e-122	HIGH	mol:protein length:380  Kumopsin1
+FBpp0428488	pdb|6ww2|R	53.29	69.0	487.0	5.38e-161	HIGH	mol:protein length:667  Frizzled-5,Soluble cytochrome b562
